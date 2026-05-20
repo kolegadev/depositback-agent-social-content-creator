@@ -64,5 +64,5 @@ python runtime/main.py
 
 ## Secrets Required
 
-- `OPENAI_API_KEY` — AI content generation
+- `MOONSHOT_API_KEY` — AI content generation
 - `GITHUB_TOKEN` — Auto-provided for Actions

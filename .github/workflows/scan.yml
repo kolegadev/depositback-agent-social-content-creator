@@ -20,7 +20,7 @@ jobs:
         env:
           AGENT_NAME: social-content-creator
           AGENT_ID: '8'
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          MOONSHOT_API_KEY: ${{ secrets.MOONSHOT_API_KEY }}
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"

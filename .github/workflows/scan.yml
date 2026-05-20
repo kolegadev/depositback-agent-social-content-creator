@@ -1,0 +1,29 @@
+name: Scan Inbox
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - 'data/inbox/**'
+      - 'manifest.json'
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install -r requirements.txt
+      - run: python runtime/main.py
+        env:
+          AGENT_NAME: social-content-creator
+          AGENT_ID: '8'
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/outbox/ data/state.json
+          git diff --staged --quiet || git commit -m "🤖 Scan $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push || true

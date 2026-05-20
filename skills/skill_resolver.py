@@ -14,13 +14,13 @@ CLAWHUB = os.getenv("CLAWHUB_REGISTRY", "https://clawhub.ai")
 
 SKILL_REGISTRY = {
     "noop": ("noop", "execute"),
+    "moonshot": ("moonshot", "run"),
 }
 
 
 def resolve_skill(skill_id: str):
     """Load skill function by ID."""
     if skill_id not in SKILL_REGISTRY:
-        # Try dynamic import from local file
         file_path = SKILLS_DIR / f"{skill_id.replace('-', '_')}.py"
         if file_path.exists():
             mod_name = skill_id.replace("-", "_")
@@ -35,7 +35,7 @@ def resolve_skill(skill_id: str):
 
     mod_name, func_name = SKILL_REGISTRY[skill_id]
     sys.path.insert(0, str(SKILLS_DIR))
-    mod = importlib.import_module(mod_name)
+    mod = __import__(mod_name)
     return getattr(mod, func_name)
 
 

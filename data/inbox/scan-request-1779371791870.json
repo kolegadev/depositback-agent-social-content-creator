@@ -1,0 +1,20 @@
+{
+  "request_id": "dispatch-6a0f0f0f7cbb501a4d80d456",
+  "agent": "depositback-agent-social-content-creator",
+  "agent_id": 2,
+  "workflow": {
+    "steps": [
+      {
+        "id": "generate_social_content",
+        "skill": "generate_content",
+        "params": {
+          "task": "create_social_posts",
+          "keywords": [],
+          "instructions": "Create platform-native social content for DepositBack organic growth."
+        }
+      }
+    ]
+  },
+  "mode": "content_production",
+  "human_review_required": false
+}

@@ -8,5 +8,3 @@ node_modules/
 .DS_Store
 *.log
 data/inbox/*.json
-data/outbox/*.json
-data/archive/*.json

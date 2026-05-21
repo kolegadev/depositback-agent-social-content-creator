@@ -1,0 +1,71 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1779380126",
+  "timestamp": "2026-05-21T16:16:05.776389+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Here's Exactly What to Do",
+        "meta_description": "Your landlord is withholding your security deposit? Learn your tenant rights, state timelines, and how to send a demand letter that gets your money back fast.",
+        "content_outline": [
+          "Why Landlords Wrongfully Withhold Security Deposits",
+          "What Your Landlord Can and Cannot Deduct",
+          "State-by-State Security Deposit Return Deadlines",
+          "How to Write a Security Deposit Demand Letter",
+          "Next Steps If Your Landlord Still Refuses to Pay"
+        ],
+        "key_points": [
+          "Landlords must return security deposits within a legally mandated timeframe, typically 14 to 30 days depending on the state",
+          "Normal wear and tear, such as faded paint or minor carpet wear, cannot be deducted from your deposit",
+          "A formal written demand letter is the most effective first step to recover a wrongfully withheld deposit before escalating to small claims court"
+        ],
+        "cta": "Don't let your landlord keep what's yours. Generate a legally sound security deposit demand letter with DepositBack in under 5 minutes and take the first step toward getting your money back.",
+        "target_audience": "Frustrated U.S. renters whose landlords are refusing to return their security deposit or making unlawful deductions",
+        "word_count_target": 800,
+        "social_hooks": {
+          "tiktok_reels": [
+            {
+              "hook": "POV: Your landlord keeps your $2,000 deposit for 'cleaning' but you left it spotless...",
+              "script": "That carpet was already ten years old. That paint had scuff marks when you moved in. Here is what your landlord does not want you to know: normal wear and tear is NOT deductible. Grab your move-in photos and receipts. You can dispute every bogus charge with a formal demand letter\u2014and yes, they legally have to respond.",
+              "visual_notes": "Split screen: tenant cleaning furiously vs landlord smiling and holding cash. Text overlay: 'NOT DEDUCTIBLE' stamped over fake charges.",
+              "caption": "Your landlord can't charge you for normal wear and tear \ud83d\uded1 Know your rights and fight back with a demand letter. Link in bio \ud83d\udc46 #SecurityDeposit #TenantRights #RentingTips #LandlordTikTok #DepositBack"
+            },
+            {
+              "hook": "If your landlord hasn't returned your deposit in 30 days... they're already breaking the law",
+              "script": "In most states, landlords have 21 to 30 days to return your deposit or send an itemized list of deductions. If they ghost you? That is not a gray area\u2014that is a violation. You do not need a lawyer yet. You need a deadline and a demand letter that cites your state law. Make them take you seriously.",
+              "visual_notes": "Calendar pages flipping fast past day 30. Red alarm bell animation. Overlay text: 'DAY 31 = ILLEGAL'.",
+              "caption": "State deadlines are REAL \ud83d\udcc5 If your landlord missed the window, they could owe you DOUBLE. Check your state law and send a demand letter today. #SecurityDeposit #RenterTips #KnowYourRights #TenantTok #DepositBack"
+            },
+            {
+              "hook": "My landlord won't give me my deposit back\u2014so I did this...",
+              "script": "I stopped texting. I stopped begging. Instead, I sent a certified demand letter citing my state's tenant law. Seven days later? Full deposit plus interest in my account. Your landlord is betting you will not push back. Prove them wrong.",
+              "visual_notes": "Before: anxious tenant staring at phone. After: confident tenant dropping envelope at mailbox. Split screen with bank deposit notification popping up.",
+              "caption": "Stop begging. Start demanding \u2709\ufe0f\ud83d\udcb0 Get your deposit back with a letter that works. Template linked in bio! #MyLandlordWontGiveMyDepositBack #RenterHack #SecurityDepositReturn #TenantRights #DepositBack"
+            },
+            {
+              "hook": "Can your landlord keep your deposit if you break your lease? The answer might surprise you.",
+              "script": "Breaking a lease does not automatically mean your landlord keeps your deposit. They still have to prove actual damages. Unpaid rent? Yes, that is deductible. But they have to mitigate damages by finding a new tenant. If they re-rented the place in two weeks, you could be owed a big chunk of that money back.",
+              "visual_notes": "Law book slamming open. Animated checklist: 'Unpaid rent \u2705' vs 'Free money for landlord \u274c'. Finger wag at camera.",
+              "caption": "Breaking your lease \u2260 losing your deposit \ud83d\udeab\u2696\ufe0f Know what they can actually deduct before you walk away. #LeaseBreak #SecurityDeposit #TenantLaw #RentingHack #DepositBack"
+            },
+            {
+              "hook": "Things your landlord hopes you never Google: tenant rights security deposit edition",
+              "script": "They hope you do not know about the 21-day rule. They hope you did not take photos. They hope you will just accept the $50 cleaning fee and go away. But if you know your rights, you can dispute every single charge. Start with a written demand. It costs less than court and works more often than you would think.",
+              "visual_notes": "Google search bar typing 'tenant rights security deposit'. Shocked landlord face. Overlay bullet points of tenant rights.",
+              "caption": "Your landlord is NOT above the law \ud83d\udcdc\ud83d\udcaa Know these 3 tenant rights before you move out. #TenantRights #SecurityDeposit #RentersUnite #LandlordTips #DepositBack"
+            },
+            {
+              "hook": "Stop sending angry texts to your landlord. Send this instead.",
+              "script": "Angry texts get ignored. Certified demand letters get results. A proper security deposit dispute letter cites state law, sets a legal deadline, and creates a paper trail for court. You do not need to write it from scratch. You just need to fill in the blanks and hit send. Let the letter do the heavy lifting.",
+              "visual_notes": "Phone screen showing unsent angry text. Swipe to delete. Transition to professional letterhead document. Sound of stamp hitting envelope.",
+              "caption": "Texting your landlord? Big mistake \ud83d\udeab Send a certified demand letter instead and watch how fast they respond. Link in bio for the template! #SecurityDepositDispute #DemandLetter #RenterAdvice #GetYourMoneyBack #DepositBack"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -7,7 +7,7 @@ from openai import OpenAI
 
 BASE_URL = os.getenv("MOONSHOT_BASE_URL", "https://api.moonshot.ai/v1")
 API_KEY = os.getenv("MOONSHOT_API_KEY")
-MODEL = os.getenv("MOONSHOT_MODEL", "moonshot/kimi-k2.6")
+MODEL = os.getenv("MOONSHOT_MODEL", "kimi-k2.6")
 
 _client = None
 

@@ -1,0 +1,73 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1779404451",
+  "timestamp": "2026-05-21T23:02:44.432947+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "social_hooks": {
+          "tiktok_reels": [
+            {
+              "hook": "Your landlord is withholding your security deposit? Send them THIS before you hire a lawyer.",
+              "script": "If you moved out and your landlord is ghosting you or making up fake charges, stop arguing. Most states require your deposit back in 14 to 45 days with an itemized list. Before you sue, you need a paper trail. Write a certified demand letter that cites your specific state law. Not sure what to write? DepositBack generates it for you in under five minutes. Link in bio.",
+              "on_screen_text": "LANDLORD WITHHOLDING DEPOSIT? | SEND THIS LETTER FIRST",
+              "duration_seconds": 30,
+              "target_keyword": "landlord withholding security deposit"
+            },
+            {
+              "hook": "POV: It's been 60 days since you moved out and your landlord 'forgot' your deposit.",
+              "script": "This isn't a 'whoops'\u2014it's illegal in most states. Your landlord has a hard deadline. If they miss it, you can sue for double or even triple damages. Step one: document everything. Step two: send a certified demand letter. Step three: small claims court. You don't need a lawyer. You just need proof. Start your letter now with DepositBack.",
+              "on_screen_text": "60 DAYS NO DEPOSIT? | THAT'S ILLEGAL",
+              "duration_seconds": 30,
+              "target_keyword": "landlord not returning deposit"
+            },
+            {
+              "hook": "3 things your landlord CANNOT deduct from your security deposit. Save this before you move out.",
+              "script": "Number one: normal wear and tear. Carpet aging? Not your bill. Number two: pre-existing damage. Did you document it on move-in? Fight it. Number three: vague 'cleaning fees' without receipts. If they can't itemize it, they can't charge it. Know your rights. Get your state-specific dispute letter at DepositBack.",
+              "on_screen_text": "3 ILLEGAL DEPOSIT DEDUCTIONS",
+              "duration_seconds": 25,
+              "target_keyword": "what can landlord deduct from security deposit"
+            },
+            {
+              "hook": "My landlord won't give me my deposit back\u2014so I did this.",
+              "script": "I moved out, left the place spotless, and suddenly my landlord invented two thousand dollars in damages. I didn't argue over text. I sent a certified demand letter citing state civil code. They paid me in full seven days later. Your lease doesn't end when you move out. It ends when you get your money back. Generate your letter at DepositBack.",
+              "on_screen_text": "LANDLORD STOLE MY DEPOSIT | HERE'S HOW I WON",
+              "duration_seconds": 35,
+              "target_keyword": "my landlord won't give me my deposit back"
+            },
+            {
+              "hook": "Stop asking your landlord for your deposit back. Start demanding it.",
+              "script": "Asking nicely isn't working. Here's what actually works. Step one: check your state deadline. Step two: request an itemized list of deductions. Step three: send a formal dispute letter. If they ignore you, file in small claims. Most tenants win when they have documentation. Don't know what to write? DepositBack does.",
+              "on_screen_text": "STOP ASKING. START DEMANDING. | DEMAND LETTER TEMPLATE",
+              "duration_seconds": 30,
+              "target_keyword": "security deposit dispute letter"
+            }
+          ]
+        },
+        "content_brief": {
+          "title": "Landlord Withholding Your Security Deposit? A Complete Guide to Getting It Back",
+          "meta_description": "Landlord withholding your security deposit? Learn your tenant rights, state deadlines, and how to write a demand letter to get your money back fast.",
+          "content_outline": [
+            "How Long Does a Landlord Have to Return Your Deposit? (State-by-State Deadlines)",
+            "What Your Landlord Can and Cannot Deduct From Your Security Deposit",
+            "How to Write a Security Deposit Demand Letter That Gets Results",
+            "What to Do If Your Landlord Ignores Your Demand Letter",
+            "When You Can Sue for Wrongful Withholding (and Win Double Damages)"
+          ],
+          "key_points": [
+            "Normal wear and tear is never a valid deduction from a security deposit under state landlord-tenant laws.",
+            "Most states require landlords to return deposits within 14\u201345 days and provide an itemized deduction list.",
+            "A formal, certified demand letter is typically required before filing a claim in small claims court.",
+            "Tenants may be entitled to statutory penalties, including double or triple damages, if a landlord wrongfully withholds a deposit."
+          ],
+          "cta": "Don't let your landlord keep what's yours. Generate a state-specific security deposit demand letter with DepositBack in under 5 minutes and start your claim today.",
+          "target_audience": "Frustrated US renters who have moved out and are waiting for their landlord to return a wrongfully withheld security deposit.",
+          "word_count_target": 800
+        }
+      }
+    }
+  ]
+}

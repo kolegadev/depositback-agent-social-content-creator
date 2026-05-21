@@ -63,7 +63,7 @@ Return ONLY valid JSON."""
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_prompt},
         ],
-        temperature=0.7,
+        temperature=1.0,
         max_tokens=4096,
     )
 

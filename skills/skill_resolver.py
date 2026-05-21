@@ -1,12 +1,8 @@
-#!/usr/bin/env python3
-"""
-Skill Resolver — loads local skills, falls back to ClawHub.
-"""
+"""Skill Resolver — loads local skills, falls back to ClawHub."""
 import importlib.util
 import json
 import os
 import sys
-import urllib.request
 from pathlib import Path
 
 SKILLS_DIR = Path(__file__).parent
@@ -14,7 +10,7 @@ CLAWHUB = os.getenv("CLAWHUB_REGISTRY", "https://clawhub.ai")
 
 SKILL_REGISTRY = {
     "noop": ("noop", "execute"),
-    "moonshot": ("moonshot", "run"),
+    "generate_content": ("generate_content", "run"),
 }
 
 

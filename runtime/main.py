@@ -28,31 +28,44 @@ def load_manifest(path: Path) -> dict:
 def extract_keywords(data: dict) -> list:
     """Extract keyword strings from various keyword artifact formats."""
     keywords = []
-    # Direct keywords array (Tier 1/2)
-    if "keywords" in data and isinstance(data["keywords"], list):
-        for k in data["keywords"]:
+
+    def _extract_from_list(items):
+        for k in items:
             if isinstance(k, str):
                 keywords.append(k)
             elif isinstance(k, dict):
-                kw = k.get("keyword") or k.get("term") or k.get("query")
+                kw = k.get("keyword") or k.get("term") or k.get("query") or k.get("text")
                 if kw:
                     keywords.append(kw)
+
+    # Direct keywords array (Tier 1/2 raw artifacts)
+    if "keywords" in data and isinstance(data["keywords"], list):
+        _extract_from_list(data["keywords"])
+
     # Nested states (Tier 3)
     if "states" in data and isinstance(data["states"], dict):
         for state_data in data["states"].values():
             if isinstance(state_data, dict) and "keywords" in state_data:
-                for k in state_data["keywords"]:
-                    if isinstance(k, str):
-                        keywords.append(k)
-                    elif isinstance(k, dict):
-                        kw = k.get("keyword") or k.get("term") or k.get("query")
-                        if kw:
-                            keywords.append(kw)
+                _extract_from_list(state_data["keywords"])
+
+    # Keyword agent OUTPUT artifact format: results[].result.keywords
+    if "results" in data and isinstance(data["results"], list):
+        for result_item in data["results"]:
+            if isinstance(result_item, dict):
+                res = result_item.get("result", {})
+                if isinstance(res, dict):
+                    if "keywords" in res and isinstance(res["keywords"], list):
+                        _extract_from_list(res["keywords"])
+                    # Also check if the result itself has keywords at top level
+                    if not keywords:
+                        _extract_from_list([res])
+
     # Autocomplete suggestions
     if "autocomplete_suggestions" in data and isinstance(data["autocomplete_suggestions"], list):
         for s in data["autocomplete_suggestions"]:
             if isinstance(s, str):
                 keywords.append(s)
+
     # Trends
     if "trends" in data and isinstance(data["trends"], list):
         for t in data["trends"]:
@@ -60,6 +73,7 @@ def extract_keywords(data: dict) -> list:
                 kw = t.get("query") or t.get("keyword")
                 if kw:
                     keywords.append(kw)
+
     return list(dict.fromkeys(keywords))  # dedupe preserve order
 
 

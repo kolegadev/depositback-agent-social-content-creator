@@ -1,0 +1,33 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "unknown",
+  "timestamp": "2026-05-21T13:57:05.334426+00:00",
+  "results": [
+    {
+      "step": "generate_social_content",
+      "status": "success",
+      "output": {
+        "title": "DepositBack Organic Social Content Brief: Platform-Native Posts for Renter Acquisition",
+        "meta_description": "A strategic content brief for DepositBack's organic social growth, featuring platform-native posts that educate US renters and convert them into demand letter users.",
+        "content_outline": [
+          "Platform Strategy & Brand Voice",
+          "Content Pillars and Post Archetypes",
+          "Hook, Copy, and Format Formulas by Channel",
+          "Visual Identity and Asset Guidelines",
+          "Posting Cadence, Engagement Protocols, and Conversion Tracking"
+        ],
+        "key_points": [
+          "Lead with renter pain points\u2014unfair deposit deductions, ghost landlords, and confusing state laws\u2014to stop the scroll and build immediate rapport.",
+          "Tailor every post to its native platform: bite-size text hooks for X/Twitter, carousel slideshows for Instagram/TikTok, and professional narrative posts for LinkedIn.",
+          "Balance educational content (e.g., '3 deductions your landlord can't legally charge') with direct product placement showing how DepositBack automates the demand letter process.",
+          "Use authentic UGC-style visuals, high-contrast captions, and platform-specific CTAs to drive traffic to the DepositBack landing page without feeling overly sales-driven.",
+          "Maintain FTC-compliant messaging by avoiding guaranteed legal outcome language, and instead emphasize speed, ease, and renter rights."
+        ],
+        "cta": "Ready to get your security deposit back? Generate your state-specific demand letter for free in under 5 minutes\u2014no lawyer needed.",
+        "target_audience": "US renters aged 22\u201335 who have recently moved out or are planning to move, are frustrated by withheld security deposits, and are actively seeking DIY legal tools or renter-rights information on social media.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

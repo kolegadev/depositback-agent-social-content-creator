@@ -1,0 +1,61 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1779400235",
+  "timestamp": "2026-05-21T21:51:02.245466+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Here's How to Get It Back",
+        "meta_description": "Your landlord withholding your security deposit? Learn your tenant rights, what landlords can deduct, and how to demand your money back.",
+        "content_outline": [
+          "Why Landlords Withhold Security Deposits (Legal vs. Illegal Reasons)",
+          "State Deadlines: How Long Your Landlord Actually Has to Return Your Deposit",
+          "What Your Landlord Can and Cannot Legally Deduct",
+          "What to Do When Your Landlord Won't Return Your Deposit",
+          "How to Write a Security Deposit Demand Letter That Works",
+          "Escalating to Small Claims Court: When and How"
+        ],
+        "key_points": [
+          "Most states require landlords to return deposits within 14\u201330 days with an itemized list of deductions",
+          "Normal wear and tear\u2014such as carpet wear, minor wall scuffs, and faded paint\u2014cannot be deducted",
+          "A formal demand letter is the fastest, most effective first step to recover your deposit without hiring a lawyer",
+          "Landlords who miss state deadlines or fail to provide itemized statements may owe double or triple damages",
+          "You can file in small claims court for withheld deposits; no attorney is required in most states"
+        ],
+        "cta": "Stop letting your landlord keep what's yours. Use DepositBack to generate a legally sound security deposit demand letter in minutes and get your money back.",
+        "target_audience": "Frustrated US renters dealing with landlords who are withholding, delaying, or wrongfully deducting from their security deposit",
+        "word_count_target": 800,
+        "social_hooks": [
+          {
+            "platform": "TikTok/Reels",
+            "hook": "POV: Your landlord just charged you $800 for 'cleaning' but you left the apartment spotless",
+            "script": "This is illegal. Normal wear and tear is not deductible. Here's the 30-second demand letter script that got my $1,400 back without going to court. Save this before they delete it."
+          },
+          {
+            "platform": "TikTok/Reels",
+            "hook": "My landlord tried to keep my $2,000 deposit for a 'burnt out lightbulb'... so I did this",
+            "script": "I didn't hire a lawyer. I didn't go to court. I sent this one letter. Seven days later, full deposit plus interest. Link in bio for the template."
+          },
+          {
+            "platform": "TikTok/Reels",
+            "hook": "3 things your landlord legally CANNOT deduct from your security deposit (most renters don't know #2)",
+            "script": "Scuffed walls from picture frames? Not deductible. Faded carpet after three years? Not deductible. Pre-existing damage? Definitely not deductible. If they try, send this letter immediately."
+          },
+          {
+            "platform": "TikTok/Reels",
+            "hook": "If your landlord hasn't returned your deposit in 30 days, they're banking on you not knowing this",
+            "script": "In most states, missing the deadline means they owe you the FULL deposit back\u2014sometimes double. Stop texting them. Start documenting. Send a demand letter today."
+          },
+          {
+            "platform": "TikTok/Reels",
+            "hook": "Landlord withholding your security deposit? Don't post on Reddit. Do this instead.",
+            "script": "Posting feels good. Getting your money back feels better. This letter takes five minutes and puts the law on your side. Save this before you need it."
+          }
+        ]
+      }
+    }
+  ]
+}

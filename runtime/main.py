@@ -244,7 +244,13 @@ def run():
             except Exception:
                 pass
 
-    save_state("idle", {"last_processed": processed, "last_failed": failed})
+    extra = {"last_processed": processed, "last_failed": failed}
+    # Preserve last_artifact if it was set during processing
+    if STATE_FILE.exists():
+        current = json.loads(STATE_FILE.read_text())
+        if "last_artifact" in current:
+            extra["last_artifact"] = current["last_artifact"]
+    save_state("idle", extra)
     print(f"  ✅ Done — processed {processed}, failed {failed}")
 
 

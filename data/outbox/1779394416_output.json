@@ -1,0 +1,31 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1779394404",
+  "timestamp": "2026-05-21T20:13:36.904231+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Here's What to Do Next",
+        "meta_description": "Is your landlord withholding your security deposit? Learn your tenant rights, what deductions are legal, and how to demand your money back fast.",
+        "content_outline": [
+          "Why Landlords Withhold Security Deposits (And What's Actually Legal)",
+          "Tenant Rights 101: Return Timelines and Rules by State",
+          "What Your Landlord Can (and Cannot) Deduct From Your Deposit",
+          "What to Do When Your Landlord Won't Return Your Deposit: A 3-Step Action Plan",
+          "How to Write a Security Deposit Dispute Letter That Gets Results",
+          "When to Take Your Landlord to Small Claims Court"
+        ],
+        "key_points": [
+          "Landlords can typically only deduct for unpaid rent, damages beyond normal wear and tear, or excessive cleaning\u2014anything else is often illegal depending on state law.",
+          "Sending a formal demand letter is the fastest, most effective first step to recover your deposit without immediately paying for court costs."
+        ],
+        "cta": "Don't let your landlord keep what's yours. Generate a professional, state-specific security deposit demand letter with DepositBack in minutes\u2014and get your money back faster.",
+        "target_audience": "Problem-aware US renters whose landlords are withholding, delaying, or wrongfully deducting from their security deposit and are actively seeking step-by-step legal guidance to recover their money.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

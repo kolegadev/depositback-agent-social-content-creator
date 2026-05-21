@@ -1,0 +1,63 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1779387308",
+  "timestamp": "2026-05-21T18:15:52.574956+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Holding Your Deposit Hostage? Here's How to Fight Back",
+        "meta_description": "Your landlord can't just keep your security deposit. Learn your tenant rights and how to demand your deposit back with a legally-backed letter.",
+        "content_outline": [
+          "Why landlords illegally withhold security deposits",
+          "State-specific deadlines and what landlords can legally deduct",
+          "How to write a security deposit demand letter that gets results",
+          "When and how to escalate to small claims court"
+        ],
+        "key_points": [
+          "Landlords must return deposits within a state-specific timeframe, usually 14-30 days",
+          "Normal wear and tear and routine cleaning cannot be deducted from your deposit",
+          "A formal demand letter citing state statutes is often the fastest way to recover your money",
+          "Tenants may be entitled to 2-3x the deposit amount if the landlord acted in bad faith"
+        ],
+        "cta": "Don't let your landlord steal your deposit. Generate your state-specific demand letter in minutes at DepositBack.com.",
+        "target_audience": "Frustrated US renters whose landlords are withholding, delaying, or refusing to return their security deposit",
+        "word_count_target": 800,
+        "social_hooks": [
+          {
+            "platform": "TikTok/Reels",
+            "target_keyword": "landlord withholding security deposit",
+            "hook_text": "POV: Your landlord just texted 'I'm keeping your $2,000 deposit' \ud83d\ude24",
+            "script": "They can't just do that. Even if you left a scuff on the wall. Every state has a deadline\u2014usually 14 to 30 days. If they miss it or deduct normal wear and tear, that's illegal. Stop arguing over text. Send a formal demand letter that cites your state law. It takes 5 minutes and costs way less than small claims court. Link in bio."
+          },
+          {
+            "platform": "TikTok/Reels",
+            "target_keyword": "my landlord won't give me my deposit back",
+            "hook_text": "My landlord said 'no' to my deposit so I did THIS \ud83d\udc47",
+            "script": "I moved out spotless. Landlord said 'no deposit back.' I didn't hire a lawyer. I used a state-specific demand letter that scared him into paying me double. Know your rights. Normal wear and tear? Not deductible. Missing the deadline? You could get 2-3x your money. Don't let them bully you."
+          },
+          {
+            "platform": "TikTok/Reels",
+            "target_keyword": "what to do when landlord doesn't return deposit",
+            "hook_text": "Landlord ghosting you after move-out? \ud83d\udea8 Do this NOW",
+            "script": "If your deposit is late, stop waiting. Step one: document everything. Step two: send a certified demand letter citing your state's landlord-tenant law. Step three: if they still don't pay, take them to small claims court\u2014no lawyer needed. We built the letter for you. State laws built in. Link in bio."
+          },
+          {
+            "platform": "TikTok/Reels",
+            "target_keyword": "can landlord keep security deposit",
+            "hook_text": "Can your landlord actually keep your deposit? The answer is NOPE \u274c",
+            "script": "Unless you owe rent or caused actual damage beyond normal wear and tear, they CANNOT keep it. 'Cleaning fees'? Not your problem. 'Painting'? Normal wear and tear. If they're making excuses, they are banking on you not fighting back. Here's the move: send a legal demand letter before you even think about court. Takes 5 minutes."
+          },
+          {
+            "platform": "TikTok/Reels",
+            "target_keyword": "security deposit dispute letter",
+            "hook_text": "This letter got my deposit back in 48 hours \ud83d\udce8\u2705",
+            "script": "I didn't argue. I didn't threaten over the phone. I sent a certified security deposit dispute letter that cited exact state statutes. My landlord paid me back in full within two days because he knew I was serious. You can generate yours in minutes with DepositBack. Stop letting them steal your money."
+          }
+        ]
+      }
+    }
+  ]
+}

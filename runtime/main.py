@@ -1,6 +1,6 @@
 """DepositBack Agent Runtime — Content Production Edition.
-Handles both traditional manifests (with steps) and keyword briefs
-(task + keywords + instructions) by auto-synthesizing a manifest.
+Processes ALL pending inbox files. Handles manifests, keyword briefs,
+and raw keyword artifacts from upstream Search agents.
 """
 import json
 import os
@@ -25,15 +25,53 @@ def load_manifest(path: Path) -> dict:
     return json.loads(path.read_text())
 
 
+def extract_keywords(data: dict) -> list:
+    """Extract keyword strings from various keyword artifact formats."""
+    keywords = []
+    # Direct keywords array (Tier 1/2)
+    if "keywords" in data and isinstance(data["keywords"], list):
+        for k in data["keywords"]:
+            if isinstance(k, str):
+                keywords.append(k)
+            elif isinstance(k, dict):
+                kw = k.get("keyword") or k.get("term") or k.get("query")
+                if kw:
+                    keywords.append(kw)
+    # Nested states (Tier 3)
+    if "states" in data and isinstance(data["states"], dict):
+        for state_data in data["states"].values():
+            if isinstance(state_data, dict) and "keywords" in state_data:
+                for k in state_data["keywords"]:
+                    if isinstance(k, str):
+                        keywords.append(k)
+                    elif isinstance(k, dict):
+                        kw = k.get("keyword") or k.get("term") or k.get("query")
+                        if kw:
+                            keywords.append(kw)
+    # Autocomplete suggestions
+    if "autocomplete_suggestions" in data and isinstance(data["autocomplete_suggestions"], list):
+        for s in data["autocomplete_suggestions"]:
+            if isinstance(s, str):
+                keywords.append(s)
+    # Trends
+    if "trends" in data and isinstance(data["trends"], list):
+        for t in data["trends"]:
+            if isinstance(t, dict):
+                kw = t.get("query") or t.get("keyword")
+                if kw:
+                    keywords.append(kw)
+    return list(dict.fromkeys(keywords))  # dedupe preserve order
+
+
 def normalize_manifest(data: dict, path: Path) -> dict:
-    """Convert keyword briefs or plain arrays into executable manifests."""
+    """Convert keyword briefs or raw artifacts into executable manifests."""
     # Already a proper manifest with workflow.steps
     if "workflow" in data and "steps" in data.get("workflow", {}):
         return data
     # Old-style manifest with top-level steps
     if "steps" in data:
         return {"workflow": {"steps": data["steps"]}, **data}
-    # Keyword brief format (from upstream keyword agents)
+    # Keyword brief format (from upstream keyword agents via route_outputs)
     if "task" in data and "keywords" in data:
         ts = int(datetime.now(timezone.utc).timestamp())
         return {
@@ -72,6 +110,27 @@ def normalize_manifest(data: dict, path: Path) -> dict:
                 ]
             },
         }
+    # Raw keyword artifact — try to extract keywords and synthesize a brief
+    keywords = extract_keywords(data)
+    if keywords:
+        ts = int(datetime.now(timezone.utc).timestamp())
+        return {
+            "workflow_id": f"artifact-{ts}",
+            "request_id": f"artifact-{ts}",
+            "workflow": {
+                "steps": [
+                    {
+                        "id": "generate_content",
+                        "skill": "generate_content",
+                        "params": {
+                            "task": f"generate_content_for_{AGENT_NAME}",
+                            "keywords": keywords[:100],
+                            "instructions": f"Generate content based on {len(keywords)} keywords extracted from upstream research artifact.",
+                        },
+                    }
+                ]
+            },
+        }
     return data
 
 
@@ -105,7 +164,7 @@ def process_manifest(path: Path):
     steps = manifest.get("workflow", {}).get("steps", manifest.get("steps", []))
 
     if not steps:
-        print("  ⚠️  No steps found")
+        print("  ⚠️  No steps found (unrecognized format)")
         save_state("idle")
         ARCHIVE.mkdir(parents=True, exist_ok=True)
         shutil.move(str(path), str(ARCHIVE / path.name))
@@ -117,7 +176,6 @@ def process_manifest(path: Path):
         params = step.get("params", {})
         print(f"  [{idx + 1}/{len(steps)}] Skill: {skill_id}")
 
-        # Resolve skill
         fn = None
         if skill_id:
             resolver_path = SKILLS_DIR / "skill_resolver.py"
@@ -169,16 +227,25 @@ def run():
         save_state("idle")
         return
 
-    manifest = manifests[-1]
-    print(f"  Found {len(manifests)} manifest(s); processing latest: {manifest.name}")
-    try:
-        process_manifest(manifest)
-    except Exception as e:
-        print(f"  ❌ Fatal error: {e}")
-        save_state(f"error: {str(e)[:80]}")
-        raise
+    print(f"  Found {len(manifests)} manifest(s); processing all...")
+    processed = 0
+    failed = 0
+    for manifest in manifests:
+        try:
+            process_manifest(manifest)
+            processed += 1
+        except Exception as e:
+            print(f"  ❌ Fatal error on {manifest.name}: {e}")
+            failed += 1
+            # Archive the broken file so it doesn't block future runs
+            try:
+                ARCHIVE.mkdir(parents=True, exist_ok=True)
+                shutil.move(str(manifest), str(ARCHIVE / manifest.name))
+            except Exception:
+                pass
 
-    print("  ✅ One-shot complete")
+    save_state("idle", {"last_processed": processed, "last_failed": failed})
+    print(f"  ✅ Done — processed {processed}, failed {failed}")
 
 
 if __name__ == "__main__":

@@ -1,0 +1,37 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1779466128",
+  "timestamp": "2026-05-22T16:09:22.694796+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "TikTok & Reel Hooks That Convert: Security Deposit Content Brief for Deposits-Back.com",
+        "meta_description": "Your landlord kept your deposit? These viral TikTok hooks and short-form scripts help tenants fight back in 60 seconds. Start now.",
+        "content_outline": [
+          "Hook 1: The Illegal Hold - Pattern interrupt with a state law deadline countdown",
+          "Hook 2: The Silent Landlord - Screen recordings of ignored texts and emails",
+          "Hook 3: The Math Does Not Math - Breaking down fake deposit deductions line by line",
+          "Hook 4: The Move-Out Receipts - Side-by-side photo reveals of alleged damage",
+          "Hook 5: The 60-Second Letter - Live demo of generating a demand letter on Deposits-Back.com",
+          "Script Templates: Ready-to-use 15 to 30 second problem-aware short-form scripts",
+          "Visual & Audio Pairing: Trending sounds, captions, and transitions that boost retention",
+          "Posting Strategy: Optimal times, hashtag clusters, and reply hooks for engagement",
+          "Conversion Sequence: Swipe-up and link-in-bio CTA flow to the $19.99 demand letter tool"
+        ],
+        "key_points": [
+          "Tenants in a problem-aware state respond highest to validation combined with immediate actionable hope",
+          "The first 3 seconds must reference a withheld security deposit or illegal deduction to stop the scroll",
+          "Deposits-Back.com removes all friction by delivering a legally sound demand letter for $19.99 with no sign-up or subscription",
+          "Frustration is the emotional driver; empowerment through legal documentation is the conversion driver",
+          "Every script must close with a single clear CTA: generate and send your demand letter in 60 seconds"
+        ],
+        "cta": "Do not let your landlord keep what is yours. Create your state-specific security deposit demand letter at Deposits-Back.com for just $19.99 \u2014 no sign-up, no subscription, and ready to send in 60 seconds.",
+        "target_audience": "Problem-aware US renters whose landlords are wrongfully withholding or failing to return security deposits and who are actively seeking fast, affordable legal help on social media",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

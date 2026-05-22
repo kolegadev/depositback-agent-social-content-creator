@@ -1,0 +1,34 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1779436985",
+  "timestamp": "2026-05-22T08:04:11.893235+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Here\u2019s How to Get It Back Fast",
+        "meta_description": "Is your landlord withholding your security deposit? Learn your tenant rights, state deadlines, legal deductions, and how to write a demand letter that works.",
+        "content_outline": [
+          "Why Your Landlord Is Withholding Your Security Deposit (And If It\u2019s Legal)",
+          "How Long Does a Landlord Have to Return Your Deposit?",
+          "What Can a Landlord Legally Deduct From Your Security Deposit?",
+          "What to Do When Your Landlord Won\u2019t Return Your Deposit",
+          "How to Write a Security Deposit Dispute Letter That Gets Results",
+          "Escalating Your Claim: Small Claims Court and Penalties",
+          "Get Your Money Back: Use a State-Specific Demand Letter"
+        ],
+        "key_points": [
+          "Most states require landlords to return security deposits within 14 to 60 days after move-out.",
+          "Landlords cannot deduct for normal wear and tear, but they can withhold money for unpaid rent or documented damages.",
+          "A formal security deposit dispute letter is often required before you can sue in small claims court.",
+          "Wrongfully withheld deposits may entitle tenants to double or triple damages, depending on state law."
+        ],
+        "cta": "Stop waiting for your money. Create a state-specific security deposit demand letter with DepositBack in under 5 minutes\u2014no lawyer needed. Start your free letter now.",
+        "target_audience": "Frustrated U.S. renters whose landlord is withholding, deducting from, or not returning their security deposit after move-out.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

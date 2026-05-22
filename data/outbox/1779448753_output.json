@@ -1,0 +1,64 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1779448691",
+  "timestamp": "2026-05-22T11:19:13.802005+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Won't Return Your Security Deposit? Here's Exactly What to Do",
+        "meta_description": "Is your landlord withholding your security deposit? Learn your tenant rights, what landlords can legally deduct, and how to demand your money back fast.",
+        "content_outline": [
+          "Why Most Landlords Get Away With Stealing Deposits",
+          "Your State's Hard Deadline for Deposit Returns",
+          "The 5 Things They Cannot Legally Deduct",
+          "How to Send a Demand Letter That Forces Payment",
+          "When and How to Take Them to Small Claims Court"
+        ],
+        "key_points": [
+          "Landlords must provide an itemized deduction list within a state-specific timeframe (usually 14-30 days)",
+          "Normal wear and tear, routine cleaning, and minor scuffs are not deductible from security deposits",
+          "A formal demand letter citing state statutes often resolves the issue without going to court",
+          "Tenants may be entitled to double or triple damages plus attorney fees for wrongful withholding"
+        ],
+        "cta": "Stop begging your landlord for your own money. Generate a free, state-specific security deposit demand letter at Deposits-Back.com and get your deposit back in as little as 7 days.",
+        "target_audience": "Frustrated US renters who have moved out and are experiencing landlords withholding, delaying, or wrongly deducting from their security deposit",
+        "word_count_target": 800,
+        "social_hooks": [
+          {
+            "keyword": "landlord withholding security deposit",
+            "platform": "TikTok/Reels",
+            "hook": "POV: You just moved out and your landlord is ghosting you...",
+            "script": "You left the apartment spotless. You have photos. But now? Radio silence. If your landlord is withholding your security deposit, they're betting you won't fight back. Here's the 30-second trick that makes them pay attention immediately. [Text overlay: 'Demand Letter Template']"
+          },
+          {
+            "keyword": "my landlord won't give me my deposit back",
+            "platform": "TikTok/Reels",
+            "hook": "My landlord said 'normal wear and tear' costs $2,000... so I did this.",
+            "script": "They can't charge you for a used carpet or faded paint. Those are lies. If your landlord won't give you your deposit back, stop texting. Stop calling. Send this instead. It's free, it cites your state law, and landlords hate it because it works. Link in bio."
+          },
+          {
+            "keyword": "what to do when landlord doesn't return deposit",
+            "platform": "TikTok/Reels",
+            "hook": "If your landlord hasn't returned your deposit in 30 days, watch this.",
+            "script": "Most states have a hard deadline. Miss it, and YOU owe THEM nothing\u2014they owe YOU double. Stop waiting by the mailbox. This free tool writes your demand letter using your state's exact deadline and legal code. Save this before you need it."
+          },
+          {
+            "keyword": "can landlord keep security deposit",
+            "platform": "TikTok/Reels",
+            "hook": "Can your landlord legally keep your deposit? Probably not for these 5 things.",
+            "script": "Cleaning? Nope. Painting? Nope. Administrative fees? Absolutely not. If they're keeping your deposit for normal wear and tear, they're stealing. Here's the letter that gets it back. State-specific. Lawyer-approved. Free to generate."
+          },
+          {
+            "keyword": "security deposit dispute letter",
+            "platform": "TikTok/Reels",
+            "hook": "I sent this letter and got my $1,800 deposit back in 48 hours.",
+            "script": "No lawyer. No court date. Just one strongly-worded dispute letter citing state law. Your landlord knows they're in the wrong\u2014they're just hoping you do nothing. Don't. Generate your letter free at Deposits-Back.com and demand what's yours today."
+          }
+        ]
+      }
+    }
+  ]
+}

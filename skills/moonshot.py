@@ -25,8 +25,8 @@ def _get_client() -> OpenAI:
 def run(
     system_prompt="You are a helpful assistant.",
     user_prompt="",
-    temperature=0.7,
-    max_tokens=2048,
+    temperature=1.0,
+    max_tokens=4096,
     **kwargs,
 ):
     client = _get_client()

@@ -32,7 +32,7 @@ def run(
     keyword_text = ", ".join(str(k) for k in keywords[:50])
 
     system_prompt = (
-        "You are an expert content marketing strategist and copywriter for DepositBack, "
+        "You are an expert content marketing strategist and copywriter for Deposits-Back.com, "
         "a security deposit demand letter service for US renters. "
         "You generate high-conversion, SEO-optimized content. "
         "Respond ONLY with valid JSON."

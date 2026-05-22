@@ -1,0 +1,34 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1779485778",
+  "timestamp": "2026-05-22T21:38:48.741955+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Here's What to Do (and Fast)",
+        "meta_description": "Landlord withholding your security deposit? Know your tenant rights, state deadlines, and how a demand letter gets your money back in 60 seconds.",
+        "content_outline": [
+          "Introduction: My Landlord Won't Give Me My Deposit Back\u2014Now What?",
+          "Can a Landlord Keep Your Security Deposit? Understanding the Law",
+          "What Can a Landlord Deduct from Your Security Deposit vs. Normal Wear and Tear",
+          "How Long Does a Landlord Have to Return a Deposit? State-by-State Deadlines",
+          "What to Do When Your Landlord Is Not Returning Your Deposit: A 4-Step Action Plan",
+          "Send a Security Deposit Dispute Letter That Gets Results",
+          "Conclusion: Reclaim Your Deposit in 60 Seconds\u2014No Sign-Up Required"
+        ],
+        "key_points": [
+          "Most U.S. states require landlords to return security deposits within 14\u201360 days and provide an itemized list of any deductions.",
+          "Landlords cannot deduct for normal wear and tear; only damage beyond ordinary use or unpaid rent qualifies.",
+          "A formal security deposit demand letter is often the fastest, most effective escalation step before filing a small claims dispute.",
+          "Deposits-Back.com generates a legally formatted demand letter in 60 seconds for a flat $19.99 with no subscription or sign-up."
+        ],
+        "cta": "Don't let your landlord keep what's yours. Generate your security deposit demand letter in 60 seconds for just $19.99 at Deposits-Back.com\u2014no sign-up, no subscription required.",
+        "target_audience": "Frustrated U.S. renters whose landlord is withholding, delaying, or wrongfully deducting from their security deposit and who need a fast, affordable way to demand their money back.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

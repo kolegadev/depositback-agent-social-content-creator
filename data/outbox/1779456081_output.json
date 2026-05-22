@@ -1,0 +1,31 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "unknown",
+  "timestamp": "2026-05-22T13:21:21.697149+00:00",
+  "results": [
+    {
+      "step": "generate_social_content",
+      "status": "success",
+      "output": {
+        "title": "Platform-Native Organic Social Campaign Brief: Recover Your Security Deposit in 60 Seconds",
+        "meta_description": "Reclaim your security deposit with a professional demand letter for $19.99. Done in 60 seconds. No signup or subscription. Deposits-Back.com",
+        "content_outline": [
+          "Platform-Native Content Strategy & Channel Mapping",
+          "Content Pillars: Hook, Educate, Convert",
+          "Hashtag, Caption, and Engagement Playbook"
+        ],
+        "key_points": [
+          "Professional demand letters generated in 60 seconds for a one-time $19.99 fee",
+          "Zero signup, zero subscription, and zero hidden fees required",
+          "Tailored for U.S. state landlord-tenant laws to maximize deposit recovery",
+          "Optimized for short-form video, carousel, and text-native organic formats",
+          "Turns renter frustration into immediate action with low-friction checkout"
+        ],
+        "cta": "Stop letting your landlord keep your cash. Create your state-specific security deposit demand letter in 60 seconds for just $19.99\u2014no signup, no subscription, no hassle. Go to Deposits-Back.com now.",
+        "target_audience": "Frustrated U.S. renters who have had their security deposits wrongfully withheld by landlords and need a fast, affordable, no-commitment legal tool to demand their money back.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1779504099",
+  "timestamp": "2026-05-23T02:43:34.838615+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Security Deposit? Demand It Back in 60 Seconds",
+        "meta_description": "Landlord withholding your security deposit? Demand it back with a legally sound letter in 60 seconds. Only $19.99 at Deposits-Back.com\u2014no signup needed.",
+        "content_outline": [
+          "Why Your Landlord Is Withholding Your Security Deposit (And Why It's Often Illegal)",
+          "What Your Landlord Can and Cannot Deduct: Tenant Rights Explained",
+          "The First Step Most Tenants Skip: Sending a Formal Demand Letter",
+          "How to Generate a Deposit Demand Letter in 60 Seconds Without a Lawyer",
+          "What to Do If Your Landlord Still Refuses to Return Your Deposit"
+        ],
+        "key_points": [
+          "Most states require landlords to return security deposits within 14\u201330 days after move-out.",
+          "Normal wear and tear, minor scuffs, and standard cleaning cannot be legally deducted from your deposit.",
+          "A formal demand letter creates a paper trail and often triggers faster repayment before small claims court is necessary.",
+          "Deposits-Back.com lets U.S. renters generate and send a legally sound deposit return demand letter in 60 seconds for $19.99 with no signup or subscription required."
+        ],
+        "cta": "Stop chasing your landlord. Get your money back today. Visit Deposits-Back.com and send your deposit demand letter in 60 seconds for just $19.99\u2014no signup, no subscription, no stress.",
+        "target_audience": "Problem-aware U.S. renters who are frustrated because their landlord is withholding, delaying, or wrongfully deducting from their security deposit and need a fast, affordable solution.",
+        "word_count_target": 800,
+        "tiktok_hooks": [
+          "POV: You moved out 3 weeks ago and your landlord is suddenly 'too busy' to return your deposit \ud83d\ude12",
+          "Your landlord cannot keep your security deposit for 'normal wear and tear'\u2014and most don't want you to know that.",
+          "If your landlord hasn't returned your deposit in 30 days, they might actually owe you DOUBLE.",
+          "My landlord tried to charge me $800 for 'dust.' I sent one letter and got my full deposit back.",
+          "Stop texting your landlord. This 60-second letter is what actually works."
+        ],
+        "short_form_scripts": [
+          {
+            "platform": "TikTok/Reels",
+            "duration_seconds": 30,
+            "hook": "My landlord kept my $1,800 security deposit for 'dust on the blinds.'",
+            "body": "I learned that normal wear and tear isn't deductible. Instead of paying for a lawyer, I went to Deposits-Back.com. For $19.99 and 60 seconds\u2014no signup\u2014I sent a formal demand letter. He returned my full deposit in five days.",
+            "cta": "Link in bio. Stop letting your landlord steal your money."
+          },
+          {
+            "platform": "TikTok/Reels",
+            "duration_seconds": 25,
+            "hook": "If your landlord hasn't returned your deposit in 30 days, watch this.",
+            "body": "Most states have strict deadlines. After that, you can sue for double or triple damages. But first, you need a paper trail. Deposits-Back.com generates a legally sound demand letter in 60 seconds for just $19.99. No subscription. No signup.",
+            "cta": "Get your letter now. Link in bio."
+          },
+          {
+            "platform": "TikTok/Reels",
+            "duration_seconds": 30,
+            "hook": "POV: You just remembered your landlord still has your security deposit...",
+            "body": "Texting them isn't working. You need a formal demand letter to trigger legal timelines. I used Deposits-Back.com. It took 60 seconds. It cost $19.99. And I didn't even have to make an account.",
+            "cta": "Get your deposit back. Link in bio."
+          }
+        ]
+      }
+    }
+  ]
+}

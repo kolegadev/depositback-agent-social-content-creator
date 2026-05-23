@@ -1,0 +1,56 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1779572409",
+  "timestamp": "2026-05-23T21:40:58.592856+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? 5 TikTok Hooks to Fight Back and Get Paid",
+        "meta_description": "Is your landlord withholding your security deposit? Discover viral TikTok hooks and your tenant rights to get your money back in 60 seconds.",
+        "content_outline": [
+          "The Deposit Dilemma: Why Landlords Get Away With Withholding Your Money",
+          "Scroll-Stopping Social Hooks: 5 TikTok and Reel Openers for Frustrated Tenants",
+          "From Viral to Victory: Turn Anger Into Action With a 60-Second Demand Letter"
+        ],
+        "key_points": [
+          "Landlords illegally withhold billions in security deposits annually by counting on tenant inaction and fear",
+          "Problem-aware TikTok hooks leverage anger, legal shock value, and fast solutions to stop the scroll and drive clicks",
+          "Deposits-Back.com generates a legally sound security deposit demand letter for $19.99 with no signup, no subscription, and no waiting"
+        ],
+        "cta": "Stop scrolling and start recovering. Generate your security deposit demand letter at Deposits-Back.com in 60 seconds\u2014no signup, no subscription, just $19.99.",
+        "target_audience": "Frustrated US renters whose landlords are withholding, deducting, or refusing to return security deposits, actively seeking legal help and social media strategies to recover their money",
+        "word_count_target": 800,
+        "tiktok_hooks": [
+          "POV: Your landlord kept your $2,000 deposit for 'cleaning' but the apartment looked exactly like this when you moved in...",
+          "My landlord said he was keeping my deposit for 'normal wear and tear,' so I looked up the law and... yeah, he has to pay me double.",
+          "3 things your landlord legally CANNOT deduct from your security deposit\u2014number 2 will shock you.",
+          "I paid my rent on time for 12 months and my landlord still won't return my deposit. So I sent him THIS letter.",
+          "Stop letting your landlord steal your deposit. Here's the 60-second letter that got me my $1,800 back."
+        ],
+        "reel_scripts": [
+          {
+            "duration": "60 seconds",
+            "hook": "My landlord is withholding my security deposit.",
+            "body": "I cleaned everything. I have photos. But he's ghosting me. Instead of hiring a lawyer, I used Deposits-Back.com. $19.99. No signup. Generated a legal demand letter in 60 seconds.",
+            "cta": "He paid me in full 5 days later. Link in bio. Stop letting them steal your money."
+          },
+          {
+            "duration": "30 seconds",
+            "hook": "LANDLORD WON'T RETURN DEPOSIT",
+            "body": "I thought I had to go to small claims court. I didn't. This $19.99 letter from Deposits-Back.com did all the work.",
+            "cta": "No subscription. 60 seconds. Get your deposit back. Link below."
+          },
+          {
+            "duration": "15 seconds",
+            "hook": "When your landlord keeps your deposit...",
+            "body": "But you hit them with a Deposits-Back demand letter...",
+            "cta": "Notification sound. $1,800 deposited. Get yours back now."
+          }
+        ]
+      }
+    }
+  ]
+}

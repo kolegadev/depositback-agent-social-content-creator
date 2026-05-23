@@ -1,0 +1,32 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1779561885",
+  "timestamp": "2026-05-23T18:45:39.400909+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Here's How to Get It Back Fast",
+        "meta_description": "Landlord withholding your security deposit? Send a legal demand letter in 60 seconds for $19.99 at Deposits-Back.com with no signup needed.",
+        "content_outline": [
+          "Why Landlords Withhold Security Deposits (And Why Most Are Wrong)",
+          "What Your Landlord Can and Cannot Deduct by Law",
+          "Tenant Rights: Return Timelines and Itemized Deduction Rules",
+          "Can a Landlord Keep Your Deposit? Breaking Down the Legal Limits",
+          "How to Write a Security Deposit Demand Letter That Gets Results",
+          "Get Your Deposit Back in 60 Seconds\u2014No Signup, No Subscription"
+        ],
+        "key_points": [
+          "Most states require landlords to return security deposits within 14 to 30 days and provide an itemized list of any deductions",
+          "Normal wear and tear cannot be legally deducted, yet many landlords wrongfully withhold deposits hoping tenants won't fight back",
+          "A formal letter of demand is the fastest, most effective first step to recover your money without immediately hiring a lawyer"
+        ],
+        "cta": "Stop waiting and start fighting back. Create your deposit return letter of demand at Deposits-Back.com in 60 seconds for just $19.99\u2014no signup, no subscription, no stress.",
+        "target_audience": "Frustrated tenants and renters whose landlords are wrongfully withholding, deducting from, or refusing to return their security deposit",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

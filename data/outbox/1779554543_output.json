@@ -1,0 +1,40 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1779554435",
+  "timestamp": "2026-05-23T16:42:23.726448+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "10 Viral TikTok Hooks & Reel Scripts for Tenants Fighting Back on Security Deposits",
+        "meta_description": "Your landlord withholding your security deposit? These viral TikTok hooks and scripts help frustrated tenants demand their money back in 60 seconds.",
+        "content_outline": [
+          "Hook 1: 'POV: Your landlord just kept $2,000 for normal wear and tear...'",
+          "Script 1: The 15-Second Pattern Interrupt",
+          "Hook 2: 'My landlord hasn't returned my deposit in 30 days...'",
+          "Script 2: Deadline & Urgency Script",
+          "Hook 3: 'What can my landlord actually deduct?'",
+          "Script 3: Educational Authority Script",
+          "Hook 4: 'I moved out spotless and they still charged me...'",
+          "Script 4: Dispute & Evidence Script",
+          "Hook 5: 'Stop arguing with your landlord...'",
+          "Script 5: Direct CTA Script",
+          "Caption Templates & Hashtag Strategy",
+          "Posting Tactics to Capture Problem-Aware Search Traffic"
+        ],
+        "key_points": [
+          "Landlords legally cannot withhold deposits for normal wear and tear; most tenants do not know their state-specific deadline laws",
+          "TikTok and Reels algorithms favor videos that use high-emotion text-on-screen within the first 3 seconds using exact phrases like 'landlord not returning deposit' or 'withholding security deposit'",
+          "Each script must pivot from emotional frustration to actionable solution: Deposits-Back.com generates a formal demand letter in 60 seconds for $19.99 with no account or subscription required",
+          "Problem-aware searchers convert highest when content validates their anger then offers immediate legal documentation instead of more advice",
+          "State-specific variations in captions and hooks (California 21 days, New York 14 days, Texas 30 days) capture high-intent geo-search traffic"
+        ],
+        "cta": "Stop waiting. Generate your state-specific security deposit demand letter in 60 seconds for just $19.99 \u2014 no sign-up, no subscription, no stress. Visit Deposits-Back.com now.",
+        "target_audience": "Frustrated US renters whose landlords are wrongfully withholding, delaying, or refusing to return their security deposit",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

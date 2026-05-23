@@ -1,0 +1,35 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1779524075",
+  "timestamp": "2026-05-23T08:16:38.360943+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Here\u2019s How to Fight Back and Win",
+        "meta_description": "Landlord withholding your security deposit? Learn your tenant rights, illegal deductions, and how to demand your money back in 60 seconds.",
+        "content_outline": [
+          "Why Your Landlord Is Withholding Your Security Deposit (And Why They\u2019re Often Wrong)",
+          "What Can a Landlord Legally Deduct? Know Your Tenant Rights",
+          "State Deadlines: How Long Does a Landlord Have to Return Your Deposit?",
+          "5 Steps to Take When Your Landlord Won\u2019t Give Your Deposit Back",
+          "Security Deposit Dispute Letter vs. Demand Letter: What Works Best",
+          "How to Escalate If Your Deposit Still Isn\u2019t Returned",
+          "Get Your Deposit Back in 60 Seconds\u2014Without a Lawyer"
+        ],
+        "key_points": [
+          "Most states require landlords to return security deposits within 14 to 30 days, or provide an itemized deduction list",
+          "Normal wear and tear cannot be deducted; only unpaid rent and damage beyond ordinary use are legally allowable",
+          "A written demand letter is legally required in many states before tenants can sue in small claims court",
+          "Tenants may be entitled to double damages, attorney fees, and court costs if a landlord wrongfully withholds a deposit",
+          "Deposits-Back.com lets tenants generate a professional demand letter for $19.99 in under 60 seconds with no sign-up needed"
+        ],
+        "cta": "Don\u2019t let your landlord keep what\u2019s yours. Create your state-specific security deposit demand letter at Deposits-Back.com for just $19.99\u2014no sign-up, no subscription, and it takes less than 60 seconds.",
+        "target_audience": "Problem-aware US tenants and renters who are frustrated that their landlord is withholding, delaying, or wrongfully deducting from their security deposit and want affordable, fast legal recourse without hiring an attorney.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

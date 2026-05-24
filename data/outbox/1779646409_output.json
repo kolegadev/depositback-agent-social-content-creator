@@ -1,0 +1,36 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1779646330",
+  "timestamp": "2026-05-24T18:13:29.951648+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "TikTok & Reel Scripts for Tenants: 5 Viral Hooks to Fight Back When Your Landlord Withholds Your Security Deposit",
+        "meta_description": "Landlord withholding your deposit? These 5 TikTok hooks & Reel scripts help frustrated tenants fight back and get their money. $19.99 at Deposits-Back.com",
+        "content_outline": [
+          "Hook 1: The Illegal Deduction Shock \u2014 Script targeting bogus 'cleaning' and 'damage' deposit withholdings",
+          "Hook 2: The Silent Treatment \u2014 Script for landlords ghosting tenants after move-out past state deadlines",
+          "Hook 3: The Wear vs. Tear Trap \u2014 Script educating tenants on non-deductible normal wear and tear",
+          "Hook 4: The Demand Letter Power Move \u2014 Script demonstrating how to generate legal pressure in 60 seconds",
+          "Hook 5: The State Law Flex \u2014 Script leveraging state-specific return deadlines and penalty rules for maximum shares"
+        ],
+        "key_points": [
+          "Hook copy: 'POV: You left the apartment cleaner than when you moved in\u2026 but your landlord just charged you $400 for general cleaning.'",
+          "Script beat: Landlords cannot legally withhold deposits for normal wear and tear or routine cleaning in most states\u2014state the statute to build instant credibility.",
+          "Hook copy: 'It\u2019s been 45 days since move-out. Crickets. No deposit, no list, no explanation. Here\u2019s why they\u2019re already breaking the law.'",
+          "Script beat: Cite exact state deadlines (e.g., 21 days CA, 14 days NY, 30 days TX, 45 days FL) to trigger urgency and comment-section engagement.",
+          "Hook copy: 'You don\u2019t need a lawyer to scare a shady landlord. You need a demand letter. Let me show you how in 60 seconds.'",
+          "Script beat: Walk through Deposits-Back.com: answer a few questions, get a state-specific deposit demand letter instantly for $19.99\u2014no signup, no subscription.",
+          "Hook copy: 'My landlord said he could keep my security deposit for 'wear and tear.' Yeah, that\u2019s not how this works.'",
+          "Script beat: End with a high-retention CTA loop: 'Comment your state and I\u2019ll tell you the exact deadline your landlord missed\u2014plus how much they might owe you.'"
+        ],
+        "cta": "Stop letting your landlord steal your deposit. Generate your state-specific security deposit demand letter at Deposits-Back.com in 60 seconds \u2014 only $19.99, no sign-up or subscription required.",
+        "target_audience": "Frustrated US renters aged 18-35 whose landlords are withholding, deducting from, or refusing to return security deposits, active on TikTok, Instagram Reels, and short-form video platforms.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

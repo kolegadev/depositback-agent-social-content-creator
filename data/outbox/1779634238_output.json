@@ -1,0 +1,34 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1779634153",
+  "timestamp": "2026-05-24T14:50:38.287177+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Demand It Back in 60 Seconds",
+        "meta_description": "Is your landlord withholding your security deposit? Learn your rights and send a legal demand letter in 60 seconds for just $19.99. No signup needed.",
+        "content_outline": [
+          "Why Your Landlord Is Withholding Your Deposit (And Why They're Probably Wrong)",
+          "What Landlords Can Legally Deduct From Your Security Deposit",
+          "State-by-State Deadlines: How Long Landlords Have to Return Your Money",
+          "The #1 Mistake Tenants Make When Fighting Back",
+          "How to Send a Professional Security Deposit Demand Letter in Under 60 Seconds",
+          "When to Escalate to Small Claims Court"
+        ],
+        "key_points": [
+          "Most states require landlords to return deposits within 14-30 days or provide an itemized deduction list",
+          "Normal wear and tear, cleaning, and routine repainting cannot be deducted from your security deposit",
+          "A formal demand letter is often legally required before filing in small claims court",
+          "Deposits-Back.com generates state-specific demand letters for $19.99 with no account or subscription",
+          "Tenants who send certified demand letters recover deposits significantly faster than those who only text or email"
+        ],
+        "cta": "Stop waiting. Generate your official security deposit demand letter in 60 seconds for just $19.99\u2014no signup, no subscription, no stress.",
+        "target_audience": "Frustrated US renters whose landlord is wrongfully withholding, deducting from, or refusing to return their security deposit and need a fast, affordable legal solution.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

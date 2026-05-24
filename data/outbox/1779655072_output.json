@@ -1,0 +1,38 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1779654981",
+  "timestamp": "2026-05-24T20:37:52.731989+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "10 Viral TikTok & Reel Hooks for Frustrated Tenants: Turn 'Landlord Withholding Security Deposit' Rage into Recovery",
+        "meta_description": "Steal 10 viral TikTok hooks for tenants fighting to get their security deposit back. Fast, legal help for $19.99 at Deposits-Back.com.",
+        "content_outline": [
+          "Introduction: Why Problem-Aware Tenants Are the Highest-Intent Audience for Short-Form Content",
+          "The Viral Hook Formula: Pain + Illegal Action + Instant Solution for Security Deposit Disputes",
+          "10 Scroll-Stopping TikTok/Reel Hooks & 60-Second Scripts (Mapped to Search Intent)",
+          "How to Convert Views into Action: The Deposits-Back.com CTA & Link-in-Bio Strategy",
+          "Repurposing Social Hooks into Long-Form SEO Content (Blog & YouTube Shorts)"
+        ],
+        "key_points": [
+          "Hook 1 \u2013 'landlord withholding security deposit': POV: You moved out 30 days ago and your landlord is 'still processing' your $2,000 deposit. They\u2019re not busy. They\u2019re betting you won\u2019t fight back. Here\u2019s the letter that changes everything.",
+          "Hook 2 \u2013 'landlord not returning deposit': Landlord not returning your deposit? Stop texting. Stop calling. This $19.99 letter does what a lawyer charges $500 for\u2014and it takes 60 seconds, no signup.",
+          "Hook 3 \u2013 'my landlord won't give me my deposit back': My landlord said, 'I\u2019m not giving you your deposit back.' I said, 'See you in court.' Then I sent this instead. Got my money in 10 days.",
+          "Hook 4 \u2013 'security deposit not returned': If your security deposit hasn\u2019t been returned within 30 days, your landlord isn\u2019t just late\u2014they\u2019re likely breaking state law. Here\u2019s your next move.",
+          "Hook 5 \u2013 'what to do when landlord doesn't return deposit': What to do when your landlord doesn\u2019t return your deposit: Step 1\u2014stop asking nicely. Step 2\u2014send a legally binding demand letter in under a minute.",
+          "Hook 6 \u2013 'can landlord keep security deposit': Can your landlord keep your security deposit for normal wear and tear? Spoiler: absolutely not. Let me show you the 3 things they can actually deduct.",
+          "Hook 7 \u2013 'is my landlord required to return my deposit' / 'tenant rights security deposit': Your landlord IS required to return your deposit. If they\u2019re claiming \u2018cleaning fees,\u2019 they need receipts. Know your tenant rights before you lose a penny.",
+          "Hook 8 \u2013 'what can landlord deduct from security deposit': What can a landlord deduct from your security deposit? Nail holes? No. Faded paint? No. Here\u2019s the exact list of what\u2019s actually legal in your state.",
+          "Hook 9 \u2013 'security deposit dispute letter': I wrote a security deposit dispute letter in 60 seconds using Deposits-Back.com. No lawyer. No subscription. Just results. Here\u2019s the template.",
+          "Hook 10 \u2013 High-Converting Script Formula: Open with the specific pain (e.g., deposit withheld), state the legal violation, present the $19.99 60-second solution, and close with 'Link in bio\u2014no sign-up required.'"
+        ],
+        "cta": "Stop begging for your money back. Generate a state-compliant security deposit demand letter at Deposits-Back.com in 60 seconds for just $19.99\u2014no sign-up, no subscription, and no lawyer required. Get what's yours today.",
+        "target_audience": "Problem-aware US renters (ages 22-40) who have recently moved out and are actively searching for help because their landlord is withholding, delaying, or wrongfully deducting from their security deposit.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

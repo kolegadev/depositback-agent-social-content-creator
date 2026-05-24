@@ -1,0 +1,34 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1779611935",
+  "timestamp": "2026-05-24T08:40:03.829469+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Here's How to Get It Back Fast",
+        "meta_description": "Is your landlord withholding your security deposit? Learn your tenant rights, what deductions are illegal, and how to demand your deposit back in 60 seconds.",
+        "content_outline": [
+          "Introduction: The Real Cost of a Withheld Security Deposit",
+          "Is Your Landlord Allowed to Keep Your Deposit? Know Your Rights",
+          "Common Illegal Deductions: Cleaning, Normal Wear and Tear, and Vague Fees",
+          "State-by-State Deadlines: How Long a Landlord Has to Return Your Deposit",
+          "What to Do When Your Landlord Won't Give Your Deposit Back",
+          "How a Security Deposit Demand Letter Changes the Game",
+          "Escalating Your Claim: Small Claims Court and Legal Remedies"
+        ],
+        "key_points": [
+          "Landlords must return security deposits within a strict state-mandated window, typically 14 to 45 days.",
+          "Normal wear and tear, routine cleaning, and hypothetical damages are not legally deductible in most states.",
+          "A formal demand letter is often the fastest, most effective way to recover your deposit without hiring a lawyer.",
+          "Deposits-Back.com generates a professional security deposit demand letter in 60 seconds for a one-time $19.99 fee with no sign-up or subscription required."
+        ],
+        "cta": "Stop letting your landlord keep what's yours. Generate your official demand letter at Deposits-Back.com in 60 seconds for just $19.99\u2014no sign-up, no subscription, no stress.",
+        "target_audience": "Frustrated US renters who are problem-aware, have had their security deposit withheld or not returned by their landlord, and are actively searching for fast, affordable legal help online.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

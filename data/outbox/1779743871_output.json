@@ -1,0 +1,38 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1779743772",
+  "timestamp": "2026-05-25T21:17:51.611390+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "TikTok & Reel Hook Pack: Landlord Withholding Your Security Deposit? Fight Back in 60 Seconds",
+        "meta_description": "Is your landlord withholding your security deposit? Use these problem-aware TikTok hooks and short-form scripts to demand your money back fast. Only $19.99 at Deposits-Back.com.",
+        "content_outline": [
+          "Hook #1: The Shock Factor \u2014 Landlord Not Returning Deposit",
+          "Hook #2: The Legal Countdown \u2014 Security Deposit Not Returned in 30 Days",
+          "Hook #3: The Deduct Debunk \u2014 What Can a Landlord Deduct From Your Deposit",
+          "Hook #4: The Rights Reminder \u2014 Tenant Rights Security Deposit",
+          "Hook #5: The Direct Demand \u2014 My Landlord Won't Give Me My Deposit Back",
+          "Script Template A: 15-Second Educational Reel",
+          "Script Template B: 15-Second Storytelling Reel",
+          "Script Template C: 15-Second Call-Out Reel",
+          "Visual & Caption Pairing Guide for High Retention",
+          "Conversion CTA: From Scroll to Demand Letter"
+        ],
+        "key_points": [
+          "Landlords in most states must return deposits within 14-45 days and provide an itemized deduction list.",
+          "Normal wear and tear, vague cleaning fees, and unstated damages are common illegal withholdings.",
+          "Sending a formal security deposit demand letter is the fastest way to recover funds before small claims court.",
+          "Deposits-Back.com generates a state-specific demand letter in 60 seconds for a flat $19.99 with no sign-up or subscription.",
+          "The highest-converting social hooks lead with tenant frustration and pivot immediately to legal empowerment and action."
+        ],
+        "cta": "Your landlord has your money. You have the law on your side. Generate your state-specific security deposit demand letter in 60 seconds for just $19.99\u2014no sign-up, no subscription, no waiting. Visit Deposits-Back.com and get your deposit back now.",
+        "target_audience": "Frustrated US renters who are problem-aware that their landlord is withholding, not returning, or wrongfully deducting their security deposit, and who are actively searching for fast, affordable legal tools to recover their money.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

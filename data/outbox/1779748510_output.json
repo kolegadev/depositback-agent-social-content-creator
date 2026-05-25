@@ -1,0 +1,31 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1779748482",
+  "timestamp": "2026-05-25T22:35:10.575519+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Demand It Back in 60 Seconds",
+        "meta_description": "Landlord withholding your deposit? Know your rights and send a legal demand letter in 60 seconds for $19.99. No sign-up required.",
+        "content_outline": [
+          "Why Landlords Wrongfully Withhold Security Deposits (And Why Most Deductions Are Illegal)",
+          "Tenant Rights 101: Return Timelines, Itemized Deductions, and State Laws",
+          "The Power of a Demand Letter: Your Fastest Path to Getting Deposits Back",
+          "How Deposits-Back.com Works: Generate Your Letter in 60 Seconds for $19.99\u2014No Sign-Up"
+        ],
+        "key_points": [
+          "Most U.S. states require landlords to return security deposits within 14 to 60 days and provide an itemized list of any deductions.",
+          "Landlords cannot legally deduct for normal wear and tear, unpaid rent without proof, or vague 'cleaning' charges without receipts.",
+          "A formal demand letter is the single most effective pre-court step to force compliance and show you know your tenant rights.",
+          "Deposits-Back.com lets frustrated tenants create a professional, legally sound demand letter in under 60 seconds for a flat $19.99\u2014no subscription, no sign-up."
+        ],
+        "cta": "Stop waiting and start demanding. Visit Deposits-Back.com now to generate your deposit return letter for $19.99. It takes 60 seconds, and you never need to sign up or subscribe.",
+        "target_audience": "Frustrated U.S. renters whose landlord is withholding, delaying, or wrongfully deducting from their security deposit and who need fast, affordable help without hiring an attorney.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1779774676",
+  "timestamp": "2026-05-26T05:52:28.213525+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Viral Tenant Hooks: What to Do When Your Landlord Won't Return Your Deposit",
+        "meta_description": "Landlord withholding your security deposit? Use these viral TikTok hooks and 60-second scripts to fight back and get your money back fast.",
+        "content_outline": [
+          "The Silent Epidemic: Why 'Landlord Withholding Security Deposit' Is Everywhere",
+          "5 High-Converting TikTok & Reel Hooks for Frustrated Tenants",
+          "Short-Form Scripts: 15, 30, and 60 Seconds to a Demand Letter",
+          "From Views to Action: Why a Paper Trail Beats a Comment Section",
+          "Get Your Deposit Back in 60 Seconds\u2014No Sign-Up, No Subscription"
+        ],
+        "key_points": [
+          "Hook 1 \u2014 The Betrayal: 'My landlord said he\u2019s keeping my security deposit for cleaning. The carpet was already stained when I moved in. Here\u2019s what I did next...'",
+          "Hook 2 \u2014 The Deadline: 'If your landlord is not returning your deposit after 30 days, they might actually owe you double. Let me explain.'",
+          "Hook 3 \u2014 The Receipt: 'POV: It\u2019s day 31, your security deposit is not returned, and this $19.99 letter just saved me $2,000.'",
+          "Script A (15s): 'Landlord won\u2019t give your deposit back? Stop texting. Send a demand letter. 60 seconds. $19.99. Link in bio.'",
+          "Script B (30s): 'I thought I needed a lawyer when my landlord wrongfully withheld my deposit. Turns out I just needed this letter. No sign-up. No subscription. Just my money.'"
+        ],
+        "cta": "Don\u2019t let your landlord keep what\u2019s yours. Create a professional security deposit demand letter at Deposits-Back.com for just $19.99. It takes 60 seconds\u2014no sign-up, no subscription required.",
+        "target_audience": "Frustrated US tenants aged 22-40 whose landlords are withholding, not returning, or wrongfully deducting security deposits, and who are searching for fast, affordable solutions on TikTok, Instagram Reels, and Google.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

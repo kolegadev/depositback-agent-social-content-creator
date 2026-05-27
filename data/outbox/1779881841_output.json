@@ -1,0 +1,32 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1779881789",
+  "timestamp": "2026-05-27T11:37:21.543612+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Here\u2019s Your 60-Second Solution",
+        "meta_description": "Landlord withholding your security deposit? Learn your tenant rights, what landlords can legally deduct, and how to demand your money back in 60 seconds.",
+        "content_outline": [
+          "The Silent Heist: Why Landlords Get Away With Withholding Security Deposits",
+          "Know Your Rights: State Deadlines & What Landlords Can (and Cannot) Deduct",
+          "From Frustration to Action: 3 Steps When Your Deposit Isn\u2019t Returned",
+          "The Power of Paper: How a Security Deposit Dispute Letter Changes the Game",
+          "No Lawyer, No Wait: Send a Legally Sound Demand Letter in 60 Seconds"
+        ],
+        "key_points": [
+          "Landlords must return security deposits within a state-mandated window\u2014often 14 to 30 days\u2014and must provide an itemized list of any deductions.",
+          "Normal wear and tear, such as faded paint or minor carpet wear, is not a valid reason for a landlord to withhold your deposit.",
+          "A formal letter of demand is the critical first step to recovering your money and creates a paper trail if you need to escalate to small claims court.",
+          "Deposits-Back.com lets tenants generate and send a state-specific security deposit demand letter in under 60 seconds for a flat $19.99\u2014no sign-up or subscription required."
+        ],
+        "cta": "Stop waiting and start demanding. Visit Deposits-Back.com now to create your security deposit demand letter in 60 seconds for just $19.99. No sign-up. No subscription. Just your money back.",
+        "target_audience": "Problem-aware US renters who are frustrated because their landlord is withholding, delaying, or wrongfully deducting from their security deposit and are actively searching for affordable, fast legal remedies without hiring an attorney.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

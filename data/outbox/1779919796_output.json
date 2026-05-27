@@ -1,0 +1,66 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1779919730",
+  "timestamp": "2026-05-27T22:09:56.391146+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "social_hooks": {
+          "hooks": [
+            "POV: Your landlord kept your $2,000 deposit for 'cleaning' but the apartment was spotless \ud83d\ude24",
+            "Your landlord legally cannot keep your deposit for normal wear and tear. Here's what to do \ud83d\udc47",
+            "Still waiting for your security deposit? This is why they're ghosting you \ud83d\udcb8",
+            "3 things your landlord hopes you don't know about security deposits \ud83c\udfe0\u2696\ufe0f",
+            "Stop arguing with your landlord. Send this letter instead. \ud83d\udce8"
+          ],
+          "short_form_scripts": [
+            {
+              "platform": "TikTok/Reels",
+              "duration": "15 seconds",
+              "hook_text": "My landlord won't give me my deposit back",
+              "voiceover": "Your landlord has a legal deadline to return your deposit. If they missed it or charged you for fake repairs, they're breaking the law. You don't need a lawyer. You need a demand letter. Go to Deposits-Back.com. $19.99. 60 seconds. No sign-up. Get your money back.",
+              "cta_text": "Link in bio"
+            },
+            {
+              "platform": "TikTok/Reels",
+              "duration": "15 seconds",
+              "hook_text": "Landlord withholding security deposit? \ud83d\udea9",
+              "voiceover": "That deposit is YOUR money. If they deducted fake charges or missed the legal deadline, fight back. At Deposits-Back.com, create a professional demand letter in under a minute for 20 bucks. No subscription. No signup. Just results.",
+              "cta_text": "Get your letter \u2192 deposits-back.com"
+            },
+            {
+              "platform": "TikTok/Reels",
+              "duration": "30 seconds",
+              "hook_text": "What to do when landlord doesn't return deposit",
+              "voiceover": "Step one: Stop texting them. Step two: Know your rights. In most states, landlords must return your deposit within 21 to 30 days and provide an itemized list of deductions. Step three: Send a formal demand letter. Not a handwritten note\u2014a legal demand letter. At Deposits-Back.com, we generate it in 60 seconds for $19.99. No account needed. Send it today, get paid tomorrow.",
+              "cta_text": "Start now"
+            }
+          ]
+        },
+        "content_brief": {
+          "title": "Landlord Withholding Your Security Deposit? Here's Your 60-Second Fix",
+          "meta_description": "Is your landlord withholding your security deposit? Learn your tenant rights and send a professional demand letter in 60 seconds for $19.99 at Deposits-Back.com.",
+          "content_outline": [
+            "Why Your Landlord Is Withholding Your Security Deposit",
+            "What State Laws Say About Deposit Return Timelines",
+            "Valid vs. Illegal Deposit Deductions",
+            "How a Demand Letter Gets Your Money Back",
+            "Why Deposits-Back.com Is the Fastest Solution"
+          ],
+          "key_points": [
+            "Most states require landlords to return deposits within 14-30 days with an itemized deduction list",
+            "Normal wear and tear is not a valid reason to withhold a security deposit",
+            "A formal demand letter is often enough to force payment without going to court",
+            "Deposits-Back.com requires no sign-up or subscription and costs only $19.99"
+          ],
+          "cta": "Don't let your landlord keep what's yours. Generate your professional security deposit demand letter at Deposits-Back.com in 60 seconds for just $19.99\u2014no sign-up, no subscription, no stress.",
+          "target_audience": "Frustrated US renters whose landlords are withholding, delaying, or wrongfully deducting from their security deposit",
+          "word_count_target": 800
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1779852395",
+  "timestamp": "2026-05-27T03:28:01.086101+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Here's How to Fight Back and Get Your Money Fast",
+        "meta_description": "Is your landlord withholding your security deposit? Know your rights, learn what landlords can legally deduct, and send a demand letter in 60 sec for $19.99.",
+        "content_outline": [
+          "Why Your Landlord Is Withholding Your Security Deposit (And Why They Might Be Wrong)",
+          "What a Landlord Can and Cannot Deduct From Your Deposit",
+          "Tenant Rights: How Long Does a Landlord Have to Return Your Deposit?",
+          "Step-by-Step: What to Do When Your Landlord Won't Return Your Deposit",
+          "How to Write a Security Deposit Dispute Letter That Actually Works",
+          "Get Your Deposit Back in 60 Seconds: The No-Stress Demand Letter Solution"
+        ],
+        "key_points": [
+          "Landlords must return security deposits within a state-specific timeframe and provide an itemized deduction list; failure to do so often forfeits their right to keep any of it.",
+          "Normal wear and tear, such as faded paint or minor carpet wear, cannot be deducted\u2014only actual damage beyond ordinary use or unpaid rent.",
+          "A formal security deposit dispute letter is the most effective first step to demand repayment before escalating to small claims court.",
+          "Deposits-Back.com lets tenants generate and send a legally sound demand letter in 60 seconds for a one-time $19.99 fee with no signup or subscription."
+        ],
+        "cta": "Stop letting your landlord hold your money hostage. Generate your deposit return letter of demand at Deposits-Back.com in 60 seconds for just $19.99\u2014no sign-up, no subscription, no stress.",
+        "target_audience": "Frustrated US renters who are problem-aware, have had their security deposit withheld or not returned, and are actively searching online for their tenant rights and actionable next steps.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

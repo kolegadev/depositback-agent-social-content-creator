@@ -1,0 +1,58 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1779947189",
+  "timestamp": "2026-05-28T05:48:25.525369+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Here\u2019s How to Fight Back in 60 Seconds",
+        "meta_description": "Your landlord withholding your security deposit? Learn your tenant rights and send a demand letter in 60 seconds for just $19.99. No signup needed.",
+        "content_outline": [
+          "The Real Reason Landlords Withhold Security Deposits",
+          "State-by-State: How Long Is Too Long?",
+          "Illegal Deductions: What Your Landlord Can\u2019t Charge You For",
+          "How to Write a Security Deposit Demand Letter That Gets Results",
+          "Get Your Letter in 60 Seconds With Deposits-Back.com"
+        ],
+        "key_points": [
+          "Landlords must return deposits within a strict state-mandated window (often 14\u201330 days).",
+          "Deductions must be itemized; normal wear and tear is not billable to tenants.",
+          "A formal demand letter is often required before filing in small claims court and shows you know your rights.",
+          "Deposits-Back.com lets tenants generate a legally sound demand letter in 60 seconds for a one-time $19.99 fee\u2014no sign-up, no subscription."
+        ],
+        "cta": "Don\u2019t let your landlord keep what\u2019s yours. Create your security deposit demand letter in 60 seconds for just $19.99 at Deposits-Back.com\u2014no sign-up, no subscription, no stress.",
+        "target_audience": "Frustrated US renters whose landlord is withholding, unfairly deducting, or not returning their security deposit.",
+        "word_count_target": 800,
+        "social_hooks": [
+          {
+            "hook_text": "POV: It\u2019s been 45 days and your landlord still hasn\u2019t returned your $2,000 deposit...",
+            "script_text": "You left the apartment spotless. You have photos. But radio silence. Before you pay a lawyer $500, try this: Deposits-Back.com writes your official demand letter in 60 seconds for $19.99. No signup. No subscription. Just your money back. Link in bio."
+          },
+          {
+            "hook_text": "Your landlord CANNOT keep your deposit for this \ud83d\udc47",
+            "script_text": "Normal wear and tear? Nope. Painting after 3 years? Nope. Yet millions of renters get robbed every year because they don\u2019t send a demand letter. Don\u2019t be them. Go to Deposits-Back.com. $19.99. 60 seconds. Done."
+          },
+          {
+            "hook_text": "If your landlord isn\u2019t returning your deposit, do NOT email them again.",
+            "script_text": "Stop begging. Start demanding. An official letter of demand carries legal weight and starts the clock on your state\u2019s deadline. We\u2019ll generate yours in under a minute at Deposits-Back.com for just $19.99. No account needed."
+          },
+          {
+            "hook_text": "\u2018My landlord won\u2019t give me my deposit back\u2019 \u2014 if this is you, watch this.",
+            "script_text": "You have rights. Most states give landlords 14 to 30 days max. After that, they owe you DOUBLE in some states. The first step is a demand letter. We built Deposits-Back.com so you can send one in 60 seconds for $19.99. No signup."
+          },
+          {
+            "hook_text": "3 things your landlord CANNOT deduct from your security deposit \ud83d\udeab",
+            "script_text": "One: normal wear and tear. Two: pre-existing damage. Three: \u2018cleaning fees\u2019 when you already cleaned. If they try it, hit them with a demand letter. Deposits-Back.com. $19.99. 60 seconds. No subscription. Get your money back."
+          },
+          {
+            "hook_text": "It\u2019s day 31. Your landlord missed the legal deadline. Now what?",
+            "script_text": "In most states, missing the deadline means they forfeit the right to deduct ANYTHING\u2014and might owe you penalties. The next move? A formal demand letter. Generate yours instantly at Deposits-Back.com for $19.99. No sign up. No BS."
+          }
+        ]
+      }
+    }
+  ]
+}

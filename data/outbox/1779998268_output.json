@@ -1,0 +1,36 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1779998203",
+  "timestamp": "2026-05-28T19:57:48.513860+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Your Rights & Fast Fix in 60 Seconds",
+        "meta_description": "Landlord withholding your security deposit? Learn your rights and send a demand letter in 60 seconds for $19.99. No signup required.",
+        "content_outline": [
+          "Why Your Landlord Is Withholding Your Security Deposit (And Why They're Probably Wrong)",
+          "What State Laws Say About Deposit Deadlines & Deductions",
+          "TikTok & Reel Hooks: Turn Your Frustration Into Action",
+          "The 60-Second Fix: Send a Demand Letter Without a Lawyer",
+          "When to Escalate: Small Claims Court & Tenant Advocacy"
+        ],
+        "key_points": [
+          "Hook 1 \u2014 POV: 'You deep-cleaned the apartment but your landlord just sent a $400 cleaning bill...'",
+          "Hook 2 \u2014 Storytime: 'My landlord won't give me my deposit back, so I spent 60 seconds doing THIS.'",
+          "Hook 3 \u2014 Myth-bust: 'If your landlord hasn't returned your deposit in 21-30 days (depending on your state), they might owe you double or triple.'",
+          "Hook 4 \u2014 Comparison: 'Normal wear and tear vs. damage. Your landlord is betting you don't know the difference. Let's fix that.'",
+          "Script 1 \u2014 [Text on screen] 'Day 45. Still no deposit. So I went to Deposits-Back.com...' [Cut to letter sent] '...got my money back in 7 days.'",
+          "Most states limit deductions to actual damages and unpaid rent; 'cleaning fees' for ordinary move-out grime are often illegal.",
+          "A professionally drafted demand letter citing state statutes is the fastest way to pressure a landlord before filing in small claims court.",
+          "Deposits-Back.com generates a state-specific security deposit demand letter in 60 seconds for a one-time $19.99 fee\u2014no sign-up, no subscription."
+        ],
+        "cta": "Stop waiting. Send your security deposit demand letter in 60 seconds at Deposits-Back.com for just $19.99\u2014no signup, no subscription, just results.",
+        "target_audience": "Frustrated US renters whose landlords are withholding, deducting from, or refusing to return security deposits, and who are actively searching for fast, affordable legal remedies without hiring an attorney.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1779976113",
+  "timestamp": "2026-05-28T13:52:05.736323+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Send a Demand Letter in 60 Seconds",
+        "meta_description": "Is your landlord withholding your security deposit? Learn your tenant rights and send a legally backed demand letter for $19.99 in 60 seconds - no signup needed.",
+        "content_outline": [
+          "Introduction: The Frustration of a Withheld Security Deposit",
+          "Is Your Landlord Breaking the Law?",
+          "What a Landlord Can (and Cannot) Deduct From Your Deposit",
+          "How to Write a Security Deposit Dispute Letter That Actually Works",
+          "Get Your Deposit Back in 60 Seconds With Deposits-Back.com"
+        ],
+        "key_points": [
+          "Landlords must return security deposits within a state-specific timeframe, usually 14 to 30 days",
+          "Normal wear and tear, carpet cleaning, and minor scuffs are not valid reasons to withhold a deposit",
+          "A formal demand letter is often the fastest, cheapest way to recover your money before going to court",
+          "Deposits-Back.com lets tenants generate and send a legally sound demand letter for $19.99 with no subscription"
+        ],
+        "cta": "Don't let your landlord keep what's yours. Generate your state-specific security deposit demand letter at Deposits-Back.com for just $19.99. It takes 60 seconds. No sign-up. No subscription. No stress.",
+        "target_audience": "Frustrated US renters whose landlords are withholding, delaying, or wrongfully deducting from their security deposit and need a fast, affordable legal tool to demand their money back",
+        "word_count_target": 800,
+        "social_hooks": {
+          "tiktok_reels_hooks": [
+            "POV: You moved out 60 days ago and your landlord just texted 'the deposit is non-refundable'...",
+            "Your landlord legally cannot keep your deposit for normal wear and tear. Most tenants don't know this.",
+            "I got my $1,800 deposit back in one week after sending this $19 letter. No lawyer. No court date.",
+            "Stop letting your landlord steal your deposit with fake 'cleaning fees.' Here's your rights in 30 seconds.",
+            "If your landlord hasn't returned your deposit within 30 days, they're already breaking the law in most states.",
+            "3 deductions your landlord CANNOT make from your security deposit - and yes, carpet cleaning is usually #1."
+          ],
+          "short_form_scripts": [
+            {
+              "hook": "My landlord tried to keep my entire $2,000 deposit for 'dust on the blinds.'",
+              "body": "I didn't hire a lawyer. I didn't go to small claims. I went to Deposits-Back.com, spent 19 bucks and 60 seconds, and sent a formal demand letter. Seven days later? Full refund. If your landlord is withholding your security deposit, you don't need to fight alone. Link in bio.",
+              "duration": "15-20 sec"
+            },
+            {
+              "hook": "Is your landlord withholding your security deposit?",
+              "body": "Here's what they don't want you to know. In most states, they have 14 to 30 days to return it. They can't charge for normal wear and tear. And they can't just make up cleaning fees. If they're ghosting you, send a demand letter at Deposits-Back.com. $19.99. No signup. 60 seconds. Get your money back.",
+              "duration": "20-30 sec"
+            },
+            {
+              "hook": "3 things your landlord cannot deduct from your security deposit.",
+              "body": "Number one: normal wear and tear like faded paint. Number two: carpet cleaning in most states. Number three: pre-existing damage you already documented. If they're doing this anyway, fight back with a demand letter. Deposits-Back.com. $19.99, no subscription, done in a minute.",
+              "duration": "20-25 sec"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

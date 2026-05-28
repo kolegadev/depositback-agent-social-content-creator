@@ -1,0 +1,64 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1780009981",
+  "timestamp": "2026-05-28T23:14:12.901502+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Here's Your 60-Second Fix",
+        "meta_description": "Landlord withholding your deposit? Send a legal demand letter in 60 seconds for $19.99. No signup needed. Get your money back at Deposits-Back.com.",
+        "content_outline": [
+          "The Silent Treatment: When Landlords Ignore Legal Deadlines",
+          "What Your Landlord Can (and Cannot) Deduct From Your Deposit",
+          "From Frustration to Action: Why a Demand Letter Works",
+          "State-by-State Timelines Tenants Need to Know",
+          "How to Send a Professional Demand Letter in Under a Minute"
+        ],
+        "key_points": [
+          "Most states require landlords to return security deposits within 14-30 days",
+          "Normal wear and tear, scuffed floors, and faded paint are not valid deductions",
+          "A formal demand letter citing state law often forces payment without going to court",
+          "Deposits-Back.com generates state-specific letters for $19.99 with no signup or subscription"
+        ],
+        "cta": "Don't let your landlord keep what's yours. Visit Deposits-Back.com, answer a few quick questions, and send a professional security deposit demand letter in 60 seconds. Just $19.99. No signup. No subscription. Get your deposit back today.",
+        "target_audience": "Frustrated US renters whose landlords are withholding, delaying, or wrongfully deducting from their security deposit and need fast, affordable legal help.",
+        "word_count_target": 800,
+        "social_hooks": [
+          {
+            "hook_text": "Your landlord has 30 days. After that, they're breaking the law.",
+            "duration": "30s",
+            "script": "If your landlord is withholding your security deposit, they're betting you won't do anything about it. Most states give them 14 to 30 days max. After that? They might owe you double. Stop texting. Stop calling. Send a formal demand letter that actually works. Deposits-Back dot com. 60 seconds. 19 bucks. No signup. Link in bio.",
+            "hashtags": "#securitydeposit #rentertok #landlord #tenantrights #depositsback"
+          },
+          {
+            "hook_text": "POV: Your landlord just said they're keeping your deposit for 'cleaning'",
+            "duration": "30s",
+            "script": "Normal wear and tear is not a valid deduction. Scuffed floors? Nope. Nail holes? Nope. Faded paint? Definitely not. If your landlord is making up charges, fight back with a legal demand letter. Not a text. Not an angry email. A real letter. Deposits-Back dot com. Built for renters. 19 dollars. 60 seconds. Get your money back.",
+            "hashtags": "#tenanttok #renting #securitydeposit #landlordtips #depositsback"
+          },
+          {
+            "hook_text": "3 signs your landlord is illegally keeping your deposit",
+            "duration": "25s",
+            "script": "One: It's been over a month. Two: They gave you a vague list of charges. Three: They're ignoring your texts. Sound familiar? You don't need a lawyer. You need a demand letter that scares them into paying. Deposits-Back dot com. State-specific. Legally sound. Done in under a minute. No subscription. Just 19.99. Tap the link.",
+            "hashtags": "#rentertips #apartment #landlord #securitydeposit #depositsback"
+          },
+          {
+            "hook_text": "I sent this letter and got my $2,400 deposit back in 48 hours",
+            "duration": "30s",
+            "script": "My landlord said I wasn't getting a dime back. So I used Deposits-Back dot com to send a formal demand letter. It cited my state's exact laws. It threatened small claims court. 48 hours later? Full refund hit my account. If your landlord won't return your deposit, stop begging. Start demanding. Link in bio. 19.99. No signup.",
+            "hashtags": "#moneytok #lifehack #rent #depositsback #smallclaims"
+          },
+          {
+            "hook_text": "Stop letting landlords steal your deposit because you're 'too nice'",
+            "duration": "25s",
+            "script": "Being polite isn't working. Your landlord knows you probably won't sue. Prove them wrong. A demand letter from Deposits-Back dot com shows you know your rights and you're ready to escalate. It takes 60 seconds. It costs less than dinner. And it works. No account needed. No monthly fees. Just your money back. Link below.",
+            "hashtags": "#adulting #finance #renting #tenantrights #depositsback"
+          }
+        ]
+      }
+    }
+  ]
+}

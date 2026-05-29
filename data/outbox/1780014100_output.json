@@ -1,0 +1,34 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1780014067",
+  "timestamp": "2026-05-29T00:21:40.920169+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Here\u2019s How to Fight Back",
+        "meta_description": "Is your landlord withholding your security deposit? Learn your tenant rights, legal deadlines, and how to send a demand letter in 60 seconds for $19.99.",
+        "content_outline": [
+          "The Frustration: Why so many landlords get away with keeping deposits",
+          "Know Your Rights: State deadlines and what the law requires",
+          "Legal vs. Illegal Deductions: What your landlord can actually charge for",
+          "Your Action Plan: 4 steps to take before going to court",
+          "Why a Demand Letter Works: The formal notice that gets landlords to pay",
+          "Fast Solution: How to generate your dispute letter in 60 seconds",
+          "Conclusion: Reclaim your money without expensive lawyers"
+        ],
+        "key_points": [
+          "Most US states require landlords to return security deposits within 14 to 45 days after move-out.",
+          "Normal wear and tear cannot be deducted; landlords may only charge for documented damage beyond reasonable use or unpaid rent.",
+          "A written security deposit dispute letter is a legally recognized first step that forces accountability and often resolves the issue without small claims court.",
+          "Deposits-Back.com lets tenants create a professional, state-specific demand letter in 60 seconds for a flat $19.99 with no signup or subscription."
+        ],
+        "cta": "Stop chasing your landlord. Generate your security deposit demand letter in 60 seconds for just $19.99\u2014no signup, no subscription. Get started at Deposits-Back.com.",
+        "target_audience": "Frustrated US renters who have moved out and are dealing with a landlord withholding, delaying, or wrongfully deducting from their security deposit.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

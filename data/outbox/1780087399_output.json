@@ -1,0 +1,33 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1780087361",
+  "timestamp": "2026-05-29T20:43:19.787741+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "TikTok & Reel Hooks for Tenants Fighting to Get Their Security Deposit Back",
+        "meta_description": "Landlord withholding your deposit? These viral TikTok hooks and Reel scripts help tenants demand their money back in 60 seconds.",
+        "content_outline": [
+          "Hook Psychology: Why Angry Tenants Stop Scrolling",
+          "Script Template 1: The 'Invoice Denied' Reverse POV",
+          "Script Template 2: '3 Things My Landlord Legally Can't Deduct'",
+          "Script Template 3: The Silent Walkthrough + Text Overlay",
+          "Caption & CTA Swipe File for Deposits-Back.com"
+        ],
+        "key_points": [
+          "POV: You left the apartment spotless and your landlord just ghosted your $2,000 security deposit.",
+          "My landlord tried to withhold $800 for 'normal wear and tear'\u2014so I sent a demand letter in 60 seconds instead of hiring a lawyer.",
+          "If your landlord hasn't returned your deposit within 30 days, they may already owe you penalties under state law.",
+          "Stop letting landlords keep your money because you're 'too nice' to ask for it back.",
+          "For $19.99, Deposits-Back.com writes and sends your state-specific security deposit demand letter with no sign-up and no subscription."
+        ],
+        "cta": "Don't let your landlord keep what's yours. Visit Deposits-Back.com now, answer a few quick questions, and get your professionally written demand letter sent in 60 seconds\u2014for just $19.99. No sign-up. No subscription. Just your deposit back.",
+        "target_audience": "Problem-aware US renters who have recently moved out and are experiencing landlords withholding, delaying, or wrongfully deducting from their security deposit.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

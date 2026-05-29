@@ -1,0 +1,39 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1780098532",
+  "timestamp": "2026-05-29T23:49:53.955905+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Here\u2019s Exactly What to Do",
+        "meta_description": "Landlord withholding your deposit? Learn your rights and send a demand letter in 60 seconds for $19.99 at Deposits-Back.com.",
+        "content_outline": [
+          "The Silent Treatment: Why Landlords Illegally Withhold Security Deposits",
+          "Know Your Rights: State Timelines and What Landlords Can Actually Deduct",
+          "DIY Justice: How to Write a Security Deposit Demand Letter That Gets Results",
+          "When to Escalate: Filing in Small Claims Court and Penalties You Can Claim",
+          "The 60-Second Fix: Get Your Legally Sound Demand Letter Without a Lawyer"
+        ],
+        "key_points": [
+          "Most states require landlords to return security deposits within 14\u201330 days and provide an itemized list of any deductions.",
+          "Normal wear and tear\u2014like minor carpet wear or faded paint\u2014cannot be legally deducted from your deposit.",
+          "A formal letter of demand is the most effective first step to recover your money and creates a paper trail if you go to court.",
+          "Deposits-Back.com lets tenants generate a state-specific, legally credible demand letter in 60 seconds for a flat $19.99 with no sign-up or subscription."
+        ],
+        "cta": "Stop waiting and start fighting back. Create your security deposit demand letter in 60 seconds for just $19.99 at Deposits-Back.com\u2014no sign-up, no subscription, no stress.",
+        "target_audience": "Frustrated US renters who have moved out and are facing illegal or delayed security deposit withholding, seeking an affordable, fast, and legally credible way to demand their money back without hiring a lawyer.",
+        "word_count_target": 800,
+        "social_hooks": [
+          "POV: It\u2019s day 31 and your landlord still hasn\u2019t returned your $2,000 deposit. Here\u2019s the 60-second fix.",
+          "Your landlord has 21 days to return your deposit. If they ghost you, this $19.99 letter changes everything. #tenantrights",
+          "They can\u2019t keep your money for \u2018normal wear and tear.\u2019 Stop letting landlords bully you\u2014send a demand letter in under a minute.",
+          "My landlord tried to charge me $500 for cleaning. I sent this letter instead. Got my full deposit back 5 days later. #lifehack",
+          "No lawyer. No subscription. No sign up. Just a legally sound demand letter that forces your landlord to pay attention. #rentingtips"
+        ]
+      }
+    }
+  ]
+}

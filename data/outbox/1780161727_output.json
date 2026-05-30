@@ -1,0 +1,66 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1780161653",
+  "timestamp": "2026-05-30T17:22:07.936055+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Demand It Back in 60 Seconds",
+        "meta_description": "Landlord withholding your security deposit? Demand it back with a legally backed letter in 60 seconds for just $19.99. No signup, no subscription.",
+        "content_outline": [
+          "The Security Deposit Problem: Why Landlords Get Away With Keeping Your Money",
+          "Know Your Rights: State Laws and What Landlords Can Actually Deduct",
+          "3 Illegal Deductions Every Tenant Should Watch For",
+          "Why a Demand Letter Works Better Than a Text or Email",
+          "How to Generate Your Deposit Demand Letter in Under 60 Seconds",
+          "What to Do If Your Landlord Still Refuses to Pay"
+        ],
+        "key_points": [
+          "Most states require landlords to return security deposits within 14 to 30 days",
+          "Normal wear and tear, pre-existing damage, and unsubstantiated cleaning fees are not valid deductions",
+          "A formal demand letter signals you are serious and creates a paper trail for small claims court",
+          "Deposits-Back.com lets US renters create a legally backed demand letter in 60 seconds for $19.99 with no signup or subscription",
+          "Sending a demand letter resolves many disputes before court becomes necessary"
+        ],
+        "cta": "Stop letting your landlord hold your money hostage. Generate your legally backed deposit demand letter in 60 seconds for only $19.99 at Deposits-Back.com. No signup. No subscription. Just results.",
+        "target_audience": "Frustrated US renters whose landlords are wrongfully withholding, deducting from, or delaying the return of their security deposit.",
+        "word_count_target": 800,
+        "social_hooks": [
+          {
+            "platform": "TikTok/Reels",
+            "hook_text": "POV: Your landlord kept your $2,000 deposit for 'cleaning' but you left the place spotless...",
+            "script": "You scrubbed every surface. You have the photos. But your landlord still kept your deposit. Before you drop $300 on a lawyer, send a formal demand letter in 60 seconds for $19.99 at Deposits-Back.com. No signup. No subscription. Just your money back.",
+            "visual_note": "Split screen: clean apartment tour vs. angry landlord text messages."
+          },
+          {
+            "platform": "TikTok/Reels",
+            "hook_text": "My landlord said 'take me to court' when I asked for my deposit back...",
+            "script": "Most landlords bank on you giving up. A demand letter from Deposits-Back.com shows you know your rights and creates a legal paper trail. $19.99. 60 seconds. No signup. Link in bio.",
+            "visual_note": "Text overlay on frustrated tenant looking at phone, transitioning to demand letter preview."
+          },
+          {
+            "platform": "TikTok/Reels",
+            "hook_text": "Is your landlord withholding your security deposit? This $19.99 hack lawyers don't want you to know...",
+            "script": "State law says they have 14 to 30 days. If they missed the deadline or charged you for normal wear and tear, they're breaking the law. Demand your deposit back in 60 seconds at Deposits-Back.com for just $19.99.",
+            "visual_note": "Fast cuts of state law screenshots and calculator adding up illegal deductions."
+          },
+          {
+            "platform": "TikTok/Reels",
+            "hook_text": "Stop letting your landlord steal your deposit. Here's the 60-second fix:",
+            "script": "You don't need a lawyer. You need leverage. Deposits-Back.com writes a professional demand letter that gets landlords to pay attention. 60 seconds. $19.99. No signup required.",
+            "visual_note": "Point-of-view shot typing on phone, then cut to letter being generated instantly."
+          },
+          {
+            "platform": "TikTok/Reels",
+            "hook_text": "When your landlord says the 'carpets needed replacing' but you only lived there 6 months...",
+            "script": "That's normal wear and tear, and in most states they can't charge you for it. Dispute it officially with a demand letter from Deposits-Back.com. Done in 60 seconds for $19.99.",
+            "visual_note": "Before/after carpet shots with 'NORMAL WEAR AND TEAR' text overlay and angry face filter."
+          }
+        ]
+      }
+    }
+  ]
+}

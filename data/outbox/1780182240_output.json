@@ -1,0 +1,34 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1780182204",
+  "timestamp": "2026-05-30T23:04:00.692048+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? 7 TikTok & Reel Hooks to Get It Back",
+        "meta_description": "Landlord withholding your security deposit? Use these viral TikTok hooks to fight back and send a legal demand letter in 60 seconds for $19.99.",
+        "content_outline": [
+          "The 'Silent Treatment' Hook: When your landlord won't give you your deposit back",
+          "The 'Receipt Roast' Hook: Debunking fake cleaning and damage deductions",
+          "The 'Deadline Drama' Hook: State law countdown scripts that create urgency",
+          "The 'Move-In vs Move-Out' Hook: Photo proof that wins security deposit disputes",
+          "The 'What Can My Landlord Actually Deduct?' Hook: Myth-busting short-form script",
+          "The 'I Sent One Letter' Hook: How tenants recover deposits with Deposits-Back.com",
+          "CTA Formula: Turn views into official demand letters in 60 seconds\u2014no signup required"
+        ],
+        "key_points": [
+          "Problem-aware tenants engage highest with frustrated angles like 'my landlord won't return my deposit' and 'landlord withholding security deposit'",
+          "Every script needs a 3-second pattern interrupt\u2014show a fake deduction, a blurred check, or a calendar past the legal deadline",
+          "Best-performing structure: Hook (0-3s) \u2192 Relatable Problem (3-15s) \u2192 Power Move/Solution (15-45s) \u2192 CTA (45-60s)",
+          "Deposits-Back.com lets tenants send a professional security deposit demand letter for $19.99 in 60 seconds with no signup or subscription"
+        ],
+        "cta": "Stop letting your landlord keep what's yours. Go to Deposits-Back.com and send your official security deposit demand letter in 60 seconds for just $19.99\u2014no signup, no subscription, no stress.",
+        "target_audience": "Frustrated US renters and tenants whose landlords are wrongfully withholding, deducting from, or refusing to return security deposits, and who are actively searching for help on TikTok, Instagram Reels, and Google.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

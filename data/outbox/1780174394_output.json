@@ -1,0 +1,34 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1780174354",
+  "timestamp": "2026-05-30T20:53:14.824859+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? The 60-Second Fix Frustrated Renters Use",
+        "meta_description": "Landlord withholding your security deposit? Learn your tenant rights, what deductions are illegal, and how to demand your deposit back in 60 seconds.",
+        "content_outline": [
+          "The Silent Treatment: Why Landlords Withhold Security Deposits (And Hope You Give Up)",
+          "Can My Landlord Keep My Deposit? The Illegal Deductions Most Tenants Miss",
+          "What To Do When Your Landlord Won't Return Your Deposit: A 3-Step Action Plan",
+          "Security Deposit Demand Letter 101: Why This One Document Works Better Than a Lawyer",
+          "How to Get Your Deposit Back in 60 Seconds (No Sign-Up, No Subscription, Just $19.99)"
+        ],
+        "key_points": [
+          "HOOK 1: 'POV: You moved out 30 days ago and your landlord just said they're keeping your $2,000 deposit for 'cleaning'...'",
+          "HOOK 2: '3 deductions your landlord thinks they can take (but are actually illegal). Save this before you move out.'",
+          "HOOK 3: 'I sent this letter and got my full deposit back in 1 week. No lawyer. No court. Just $19.99.'",
+          "HOOK 4: 'If your landlord hasn't returned your deposit in 30 days, they might already owe you double. Here's why.'",
+          "TikTok/Reel Script A: Start with text overlay 'My landlord kept my deposit so I did this...' \u2192 Show the demand letter being generated \u2192 Cut to bank notification of refund.",
+          "TikTok/Reel Script B: Green screen of a fake landlord email saying 'We're keeping it for damages' \u2192 You pointing to state law text \u2192 'Actually, that's normal wear and tear.'"
+        ],
+        "cta": "Stop letting your landlord steal your deposit. Generate a state-specific demand letter in 60 seconds at Deposits-Back.com for just $19.99 \u2014 no sign-up, no subscription, no lawyer required.",
+        "target_audience": "Frustrated US renters who have moved out and are dealing with a landlord wrongfully withholding or failing to return their security deposit.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

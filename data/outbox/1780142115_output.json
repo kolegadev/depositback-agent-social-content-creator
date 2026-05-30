@@ -1,0 +1,74 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1780142079",
+  "timestamp": "2026-05-30T11:55:15.904404+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Here's How to Get It Back in 60 Seconds",
+        "meta_description": "Is your landlord withholding your security deposit? Learn your tenant rights and demand your money back in 60 seconds for only $19.99.",
+        "content_outline": [
+          "Why Your Landlord Is Withholding Your Security Deposit (And Why It's Often Illegal)",
+          "What Your Landlord Can and Cannot Deduct from Your Deposit",
+          "State-by-State Deadlines: How Long Does a Landlord Have to Return Your Deposit?",
+          "How to Write a Security Deposit Demand Letter That Actually Works",
+          "Get Your Deposit Back Without a Lawyer Using Deposits-Back.com"
+        ],
+        "key_points": [
+          "Landlords must return deposits within a state-mandated timeframe (usually 14\u201330 days) and provide an itemized deduction list.",
+          "Normal wear and tear, routine cleaning, and pre-existing damage cannot be legally deducted from your security deposit.",
+          "A formal demand letter is the fastest, most effective way to recover your deposit before taking legal action.",
+          "Deposits-Back.com generates a legally formatted demand letter in 60 seconds for a one-time $19.99 fee with no signup or subscription required."
+        ],
+        "cta": "Stop waiting and begging. Get your legally formatted security deposit demand letter in 60 seconds for just $19.99\u2014no signup, no subscription, no stress.",
+        "target_audience": "Frustrated US renters who have moved out and are dealing with a landlord who is wrongfully withholding, deducting from, or refusing to return a security deposit.",
+        "word_count_target": 800,
+        "social_hooks": [
+          {
+            "keyword": "landlord withholding security deposit",
+            "hook_text": "POV: You moved out 2 months ago and your landlord just ghosted you...",
+            "video_script": "They can't just keep your money. Most states give landlords 14 to 30 days to return your deposit or send an itemized list. If they missed the deadline, they're already in violation. Stop sending texts they won't answer. Send a demand letter that makes them pay attention. Deposits-Back dot com. $19.99. 60 seconds. No signup. Link in bio."
+          },
+          {
+            "keyword": "my landlord won't give me my deposit back",
+            "hook_text": "My landlord won't give me my deposit back. So I did this instead of hiring a lawyer.",
+            "video_script": "I was out $2,100. My landlord said 'take me to court.' Instead, I sent a legally formatted demand letter from Deposits-Back dot com. It took 60 seconds. It cost 19 bucks. I got my full deposit back 4 days later. You don't need a lawyer. You need the right letter. Link in bio."
+          },
+          {
+            "keyword": "can landlord keep security deposit",
+            "hook_text": "Your landlord can ONLY keep your deposit for these 3 things. Everything else is illegal.",
+            "video_script": "Unpaid rent. Excessive damage beyond normal wear and tear. And broken leases\u2014if the lease says so. That's it. They cannot charge for routine cleaning, carpet wear, or nail holes. If they deducted for that, fight back. Send a dispute letter in 60 seconds at Deposits-Back dot com. $19.99, no subscription."
+          },
+          {
+            "keyword": "what can landlord deduct from security deposit",
+            "hook_text": "They charged you for 'cleaning'?! That's probably an illegal deduction.",
+            "video_script": "Normal wear and tear is NOT deductible. Faded paint, worn carpet, small nail holes? That's on the landlord, not you. If your deductions look sketchy, you need to dispute them in writing\u2014immediately. Deposits-Back dot com writes the letter for you in 60 seconds. One time fee. No signup. Get your money back."
+          },
+          {
+            "keyword": "security deposit not returned",
+            "hook_text": "If your deposit isn't back by day 30, your landlord might owe you DOUBLE.",
+            "video_script": "In states like California and Michigan, if your landlord doesn't return your deposit within the legal window, you could be entitled to 2x or 3x the amount. Don't let them ignore the law. A demand letter shows you know your rights. Generate yours at Deposits-Back dot com in 60 seconds. $19.99. Link in bio."
+          },
+          {
+            "keyword": "what to do when landlord doesn't return deposit",
+            "hook_text": "What to do when your landlord doesn't return your deposit: Step 1\u2014Stop begging.",
+            "video_script": "Step 2: Stop texting. Step 3: Send a formal demand letter that cites your state laws. That's what actually works. Lawyers charge hundreds. Deposits-Back dot com does it for $19.99 in 60 seconds with no signup and no subscription. Get your letter now. Link in bio."
+          },
+          {
+            "keyword": "tenant rights security deposit",
+            "hook_text": "Know your tenant rights or your landlord will rob you.",
+            "video_script": "You have the right to an itemized list. You have the right to get your deposit back within a strict deadline. You have the right to dispute fake charges. Most tenants don't know this and lose money. Don't be most tenants. Demand your deposit back at Deposits-Back dot com. $19.99. 60 seconds. No signup."
+          },
+          {
+            "keyword": "security deposit dispute letter",
+            "hook_text": "Stop writing angry emails. This $19 letter gets landlords to pay up FAST.",
+            "video_script": "Angry paragraphs don't scare landlords. Legally formatted demand letters do. Deposits-Back dot com creates a professional, state-specific security deposit dispute letter in 60 seconds. No lawyer. No signup. No subscription. Just results. Get yours for $19.99. Link in bio."
+          }
+        ]
+      }
+    }
+  ]
+}

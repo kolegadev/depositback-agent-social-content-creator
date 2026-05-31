@@ -1,0 +1,65 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1780253702",
+  "timestamp": "2026-05-31T18:55:34.849032+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Here's Your Legal Game Plan",
+        "meta_description": "Landlord withholding your security deposit? Learn your tenant rights and send a professional demand letter in 60 seconds for just $19.99. No signup.",
+        "content_outline": [
+          "Common Reasons Landlords Illegally Withhold Security Deposits",
+          "State-by-State Tenant Rights and Return Timelines",
+          "How to Write a Security Deposit Demand Letter That Actually Works",
+          "Escalating to Small Claims Court When Your Landlord Refuses"
+        ],
+        "key_points": [
+          "Most states require landlords to return deposits within 14-30 days",
+          "Normal wear and tear cannot be legally deducted from your deposit",
+          "A formal demand letter is often enough to force immediate repayment",
+          "Deposits-Back.com generates state-specific demand letters in 60 seconds for $19.99 with no signup or subscription"
+        ],
+        "cta": "Stop waiting. Generate your state-specific security deposit demand letter in 60 seconds at Deposits-Back.com for only $19.99 \u2014 no signup, no subscription.",
+        "target_audience": "Frustrated US renters whose landlords are illegally withholding, delaying, or wrongfully deducting from their security deposit",
+        "word_count_target": 800,
+        "tiktok_reels_hooks": [
+          "POV: Your landlord just ghosted you and kept your $2,000 deposit \ud83d\ude24",
+          "If your landlord hasn't returned your deposit in 30 days, they're already breaking the law \u26a0\ufe0f",
+          "Your landlord legally CANNOT keep your deposit for this... \ud83d\udc47",
+          "Stop letting your landlord steal your deposit. Here's the letter that gets it back \ud83d\udcc4\ud83d\udcb0",
+          "My landlord tried to charge me $800 for 'cleaning'... so I sent this letter \u2709\ufe0f",
+          "They didn't return my deposit. So I did this and got double back \ud83e\udd2b",
+          "You don't need a lawyer to scare your landlord. You need this $19 letter \ud83d\udc40",
+          "3 things your landlord CANNOT deduct from your deposit (most tenants don't know #2) \ud83d\udccb",
+          "Still waiting for your deposit back? Send this demand letter in 60 seconds \u23f1\ufe0f",
+          "Landlord said 'normal wear and tear' isn't normal? Wrong \ud83d\udeab"
+        ],
+        "short_form_scripts": [
+          {
+            "hook": "Your landlord hasn't returned your deposit in 30 days?",
+            "body": "Most states require your deposit back in 14 to 30 days. After that? They're breaking the law. But arguing over text won't work. What does work is a formal demand letter with your state's exact deadline and penalty laws.",
+            "cta": "Go to Deposits-Back.com. Answer a few quick questions. We generate your legal demand letter in 60 seconds. Just $19.99, no signup, no subscription. Link in bio."
+          },
+          {
+            "hook": "My landlord tried to keep my entire deposit for 'cleaning.'",
+            "body": "I didn't hire a lawyer. I didn't go to court. I sent a professionally formatted demand letter generated online. It cited state law and gave them a strict deadline. Three days later? Full refund hit my account.",
+            "cta": "Get your letter now at Deposits-Back.com. 60 seconds. $19.99. No signup. Get your money back."
+          },
+          {
+            "hook": "Stop arguing with your landlord in the group chat.",
+            "body": "They know what they're doing. What they don't expect is a legally formatted demand letter that references your state's tenant laws and specific return timelines. Most landlords fold immediately because they know they're in the wrong.",
+            "cta": "Deposits-Back.com. Generate your state-specific demand letter in under a minute. No subscription. Link in bio."
+          },
+          {
+            "hook": "They said 'normal wear and tear' means repainting the whole apartment.",
+            "body": "That's illegal in most states. But instead of fighting over the phone, send a letter that cites the exact law and demands an itemized list of deductions. When they see you know your rights, they pay up fast.",
+            "cta": "Click the link in bio. Deposits-Back.com. 60 seconds, 19 bucks, get your deposit back."
+          }
+        ]
+      }
+    }
+  ]
+}

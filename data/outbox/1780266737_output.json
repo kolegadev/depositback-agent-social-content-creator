@@ -1,0 +1,36 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1780266711",
+  "timestamp": "2026-05-31T22:32:17.021360+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Here\u2019s How to Get It Back Fast",
+        "meta_description": "Is your landlord withholding your security deposit? Learn your rights, valid deductions, and how to send a demand letter in 60 seconds\u2014no signup needed.",
+        "content_outline": [
+          "Introduction: The Frustrating Reality of Withheld Security Deposits",
+          "Is Your Landlord Allowed to Keep Your Deposit? Know Your Tenant Rights",
+          "What Landlords Can (and Cannot) Deduct From Your Security Deposit",
+          "State-by-State Timelines: How Long a Landlord Has to Return Your Deposit",
+          "5 Steps to Take When Your Landlord Won\u2019t Return Your Deposit",
+          "How a Security Deposit Demand Letter Forces Action (And How to Write One in 60 Seconds)",
+          "When to Escalate: Small Claims Court and Penalties"
+        ],
+        "key_points": [
+          "POV: You moved out months ago and your landlord is still 'processing' your deposit. Here's what they don't want you to know.",
+          "3 things your landlord legally cannot deduct from your security deposit\u2014number 2 will shock you.",
+          "Your landlord only has 14 to 30 days to return your deposit depending on your state. Miss that deadline? They could owe you double.",
+          "Stop sending angry texts. This 60-second demand letter got my $1,800 back in 48 hours with zero lawyers.",
+          "Normal wear and tear is not damage. If they charged you for faded paint or carpet wear, fight back.",
+          "For $19.99 and no signup, you can send a legally sound demand letter that puts the law on your side today."
+        ],
+        "cta": "Don\u2019t let your landlord keep what\u2019s yours. Generate your state-specific security deposit demand letter at Deposits-Back.com in 60 seconds for just $19.99\u2014no signup or subscription required.",
+        "target_audience": "Frustrated US renters whose landlords are withholding, delaying, or wrongfully deducting from their security deposits and need a fast, affordable way to demand their money back.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1780262167",
+  "timestamp": "2026-05-31T21:16:32.097842+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Here\u2019s How to Get It Back in 60 Seconds",
+        "meta_description": "Frustrated your landlord won't return your deposit? Learn your tenant rights and send a legally sound demand letter in 60 seconds for $19.99\u2014no sign-up required.",
+        "content_outline": [
+          "Why Landlords Wrongfully Withhold Security Deposits (and What They Can Legally Deduct)",
+          "Tenant Rights 101: State Timelines, Normal Wear and Tear, and Illegal Deductions",
+          "The Power of a Demand Letter: A Faster, Cheaper Alternative to Small Claims Court",
+          "5 Viral TikTok / Reel Hooks to Expose Bad Landlords and Reclaim Your Cash",
+          "Step-by-Step: How Deposits-Back.com Sends Your Security Deposit Dispute Letter in 60 Seconds"
+        ],
+        "key_points": [
+          "POV: You left the apartment spotless and your landlord ghosted you with your $2,000 security deposit\u2014here's the 60-second fix.",
+          "My landlord tried to deduct 'cleaning fees' for normal wear and tear. I didn't hire a lawyer; I used a $19.99 demand letter instead.",
+          "If your landlord hasn't returned your deposit within your state's legal timeline, they may already owe you double damages\u2014act now.",
+          "Stop scrolling and start demanding: no subscription, no sign-up, just a professional security deposit dispute letter sent instantly.",
+          "Tenant rights matter, but action gets results. A formal letter of demand is often all it takes to make landlords pay up."
+        ],
+        "cta": "Demand your deposit back now in 60 seconds for $19.99 at Deposits-Back.com\u2014no sign-up, no subscription, just results.",
+        "target_audience": "Frustrated US renters dealing with landlords withholding, deducting from, or refusing to return security deposits who need a fast, affordable legal solution without hiring an attorney.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

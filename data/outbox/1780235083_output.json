@@ -1,0 +1,65 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1780235017",
+  "timestamp": "2026-05-31T13:44:43.215366+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Get It Back in 60 Seconds",
+        "meta_description": "Landlord withholding your security deposit? Send a formal demand letter in 60 seconds for $19.99 at Deposits-Back.com \u2014 no signup required.",
+        "content_outline": [
+          "Introduction: Why Your Landlord Is Withholding Your Deposit (And Why They\u2019re Wrong)",
+          "What Landlords Can and Cannot Legally Deduct in Your State",
+          "Legal Deadlines: How Long a Landlord Has to Return Your Security Deposit",
+          "Why Texts and Emails Fail \u2014 And Why a Demand Letter Works",
+          "How to Write a Security Deposit Dispute Letter That Gets Results",
+          "Generate Your State-Specific Demand Letter in 60 Seconds with Deposits-Back.com"
+        ],
+        "key_points": [
+          "Most states require deposit returns within 14\u201330 days; after that, your landlord is in violation",
+          "Normal wear and tear, routine cleaning, and pre-existing damage are not valid deductions",
+          "A formal letter of demand citing state statutes is the fastest legal step before small claims court",
+          "Deposits-Back.com creates an attorney-reviewed demand letter for $19.99 with no signup or subscription"
+        ],
+        "cta": "Stop waiting and hoping. Generate your deposit return demand letter at Deposits-Back.com in 60 seconds for just $19.99 \u2014 no signup, no subscription, just results.",
+        "target_audience": "Frustrated US renters whose landlords are withholding, delaying, or wrongfully deducting security deposits",
+        "word_count_target": 800,
+        "social_hooks": [
+          "POV: You moved out 3 weeks ago and your landlord is ghosting you \ud83d\udc80",
+          "Your landlord legally CANNOT keep your deposit for 'normal wear and tear' \u2014 here's the law \ud83d\udc47",
+          "They charged you $800 for 'cleaning' but you left the place spotless? Yeah, that's illegal \ud83e\udd2c",
+          "If your landlord hasn't returned your deposit in 30 days, they're already breaking the law \u26a0\ufe0f",
+          "Stop drafting long emails your landlord ignores. Send a real demand letter in 60 seconds \u26a1",
+          "Your landlord is banking on you not knowing your rights. Let's change that. \ud83d\udcc4\u2705",
+          "No signup. No subscription. $19.99. Get your deposit back. \ud83d\udcb0"
+        ],
+        "short_form_scripts": [
+          {
+            "platform": "TikTok/Reels",
+            "duration": "15 seconds",
+            "hook": "My landlord won't give me my deposit back.",
+            "body": "It's been 45 days and they're ghosting me. So I skipped the angry email and used Deposits-Back.com.",
+            "cta": "Generated a legal demand letter in 60 seconds for $19.99. No signup. Link in bio."
+          },
+          {
+            "platform": "TikTok/Reels",
+            "duration": "30 seconds",
+            "hook": "Your landlord charged you $500 for a 'dirty oven'?",
+            "body": "Wrongful deductions are illegal. Normal wear and tear is NOT your problem. But texts won't cut it \u2014 you need a formal demand letter that cites your state law. Deposits-Back.com creates one in under a minute.",
+            "cta": "$19.99. No subscription. Get your money back. Link in bio."
+          },
+          {
+            "platform": "TikTok/Reels",
+            "duration": "20 seconds",
+            "hook": "Is your landlord withholding your security deposit?",
+            "body": "Most states give them 14 to 30 days max. After that? They're in violation. Don't argue. Don't beg. Send a demand letter that forces them to respond.",
+            "cta": "Deposits-Back.com. 60 seconds. $19.99. No signup needed."
+          }
+        ]
+      }
+    }
+  ]
+}

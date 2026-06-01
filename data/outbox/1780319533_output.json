@@ -1,0 +1,56 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1780319453",
+  "timestamp": "2026-06-01T13:12:13.800066+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Get It Back in 60 Seconds",
+        "meta_description": "Landlord withholding your security deposit? Learn your tenant rights and send a legal demand letter in 60 seconds for only $19.99. No signup needed.",
+        "content_outline": [
+          "Why landlords illegally withhold security deposits",
+          "State laws: deadlines and what landlords can actually deduct",
+          "How to write a security deposit demand letter that gets results",
+          "Escalation tactics: penalties, small claims court, and tenant rights"
+        ],
+        "key_points": [
+          "Most U.S. states require landlords to return security deposits within 14 to 30 days",
+          "Normal wear and tear cannot be legally deducted from a security deposit",
+          "A formal demand letter citing state statute is the fastest way to recover funds without hiring a lawyer"
+        ],
+        "cta": "Stop waiting. Generate your state-specific security deposit demand letter at Deposits-Back.com in 60 seconds\u2014just $19.99, no signup or subscription required.",
+        "target_audience": "Frustrated U.S. renters whose landlords are illegally withholding, delaying, or wrongfully deducting from their security deposit and need fast, affordable legal leverage.",
+        "word_count_target": 800,
+        "social_hooks": {
+          "tiktok_reels_hooks": [
+            "POV: You moved out 30 days ago and your landlord is suddenly ghosting you... \ud83c\udfe0\ud83d\udcb8",
+            "My landlord tried to charge me $800 for 'cleaning' after I left the place spotless. So I sent THIS letter. \ud83d\udcc4\u2705",
+            "If your landlord is withholding your security deposit, they\u2019re betting you won\u2019t do anything about it. Let\u2019s prove them wrong. \u2696\ufe0f",
+            "They legally cannot keep your deposit for normal wear and tear. Here\u2019s the script that got mine back in 48 hours. \ud83d\udcdd",
+            "Stop asking 'where\u2019s my deposit?' Start sending this instead. \ud83d\udcaa"
+          ],
+          "short_form_scripts": [
+            {
+              "hook": "Your landlord has 21 days to return your deposit. If they don\u2019t, they\u2019re breaking the law.",
+              "body": "Most tenants don\u2019t know that state laws strictly limit how long a landlord can hold your money. If they miss the deadline or invent fake repair fees, you can often demand double\u2014or even triple\u2014your deposit back. But first, you need the right letter.",
+              "cta": "Go to Deposits-Back.com. Answer a few questions and get a state-specific demand letter in 60 seconds. Just $19.99, no signup required."
+            },
+            {
+              "hook": "My landlord said 'the deposit is non-refundable'... that\u2019s illegal. \ud83d\udea9",
+              "body": "Security deposits are ALWAYS refundable unless you caused actual damage beyond normal wear and tear. Carpet fade, nail holes, and scuffs? Not damage. If they\u2019re withholding your money, you don\u2019t need a lawyer yet\u2014you need a demand letter that cites your exact state statute.",
+              "cta": "Generate yours now at Deposits-Back.com for $19.99. 60 seconds and you\u2019re done."
+            },
+            {
+              "hook": "What to do when your landlord doesn\u2019t return your deposit \ud83d\udc47",
+              "body": "Step 1: Document everything. Step 2: Send a formal demand letter with your state\u2019s legal deadline and deduction rules. Step 3: If they still ignore you, take them to small claims court\u2014where judges frequently award 2-3x the deposit. The letter is what makes Step 3 a slam dunk.",
+              "cta": "Write your demand letter in 60 seconds at Deposits-Back.com. No subscription, no hassle\u2014just $19.99."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

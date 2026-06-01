@@ -1,0 +1,43 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1780279430",
+  "timestamp": "2026-06-01T02:06:01.764996+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? 10 Viral Hooks + the 60-Second Fix",
+        "meta_description": "Your landlord won't return your deposit? Use these proven TikTok/Reel hooks and a $19.99 demand letter to fight back fast. No signup required.",
+        "content_outline": [
+          "Hook 1: The Deadline Violation (landlord not returning deposit within state timeline)",
+          "Hook 2: The Fake Deduction (what can landlord deduct from security deposit \u2014 spoiler: not normal wear and tear)",
+          "Hook 3: The Lease Break Myth (can landlord keep security deposit if you break lease?)",
+          "Hook 4: The Silent Treatment (landlord withholding security deposit with zero communication)",
+          "Hook 5: The Dispute Letter Trigger (security deposit dispute letter in 60 seconds)",
+          "Hook 6: State-by-State Reality Check (tenant rights security deposit deadlines)",
+          "Hook 7: The Double-Damage Threat (what happens when landlords ignore the law)",
+          "Hook 8: The 'I Never Moved In' Scenario",
+          "Hook 9: The Group Chat Victory (social proof from Reddit/TikTok comments)",
+          "Hook 10: The Deposits-Back.com Call-to-Action"
+        ],
+        "key_points": [
+          "POV: You moved out 45 days ago and your landlord is still 'processing' your deposit. Here's the 60-second letter that got mine back in 48 hours.",
+          "Your landlord cannot keep your security deposit for normal wear and tear. Let me say that again. NORMAL. WEAR. AND. TEAR. If they tried it, fight back.",
+          "If your landlord is withholding your deposit past your state's deadline, they might owe you double or triple damages. Stop waiting. Start demanding.",
+          "You broke your lease and thought you lost your deposit? Wrong. In most states, they still have to itemize deductions and return the rest. Know your rights.",
+          "My landlord tried to charge me $400 for 'cleaning' that was already dirty when I moved in. I sent one dispute letter from Deposits-Back.com and got every penny back.",
+          "Stop arguing in the comments section. This $19.99 demand letter takes 60 seconds, requires zero signup, and puts the law on your side instantly.",
+          "Your landlord is legally required to return your deposit OR send an itemized deduction list. If they did neither, they are already wrong. Period.",
+          "Is your landlord required to return your deposit? Yes. Within 14-30 days in most states. After that, it's not a request\u2014it's a demand.",
+          "Security deposit dispute letters aren't just for lawyers. I wrote mine on my phone in under a minute. Here's exactly what to say.",
+          "If your landlord won't give you your deposit back, they're banking on you being too tired to fight. Don't prove them right. Use Deposits-Back.com."
+        ],
+        "cta": "Stop letting your landlord hold your money hostage. Visit Deposits-Back.com and send a professional security deposit demand letter in 60 seconds for just $19.99 \u2014 no signup, no subscription, just results.",
+        "target_audience": "Frustrated US renters whose landlords are withholding, delaying, or wrongfully deducting from their security deposits; problem-aware tenants seeking fast, affordable legal solutions without hiring a lawyer.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

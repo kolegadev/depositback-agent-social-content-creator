@@ -1,0 +1,56 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1780383454",
+  "timestamp": "2026-06-02T06:59:46.185609+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Here's How to Fight Back (Fast)",
+        "meta_description": "Is your landlord withholding your security deposit? Learn your rights and send a legal demand letter in 60 seconds for just $19.99. No signup needed.",
+        "content_outline": [
+          "Why Landlords Wrongfully Withhold Security Deposits",
+          "What Your Landlord Can (and Cannot) Legally Deduct",
+          "State-by-State Deadlines: How Long Is Too Long?",
+          "How to Write a Security Deposit Demand Letter That Actually Works",
+          "The Fast, No-Signup Fix: Get Your Letter in 60 Seconds"
+        ],
+        "key_points": [
+          "Normal wear and tear (scuffs, faded paint, nail holes) is not a valid deduction in any state.",
+          "Most states require landlords to return security deposits within 14 to 30 days after move-out.",
+          "A formal demand letter citing state statutes is the fastest, most effective first step before small claims court.",
+          "Deposits-Back.com generates state-specific security deposit demand letters for $19.99 with no signup or subscription."
+        ],
+        "cta": "Don't let your landlord keep what's yours. Generate your state-specific security deposit demand letter at Deposits-Back.com in 60 seconds. Just $19.99. No sign up. No subscription. Get your money back now.",
+        "target_audience": "Frustrated U.S. renters whose landlords are wrongfully withholding, deducting from, or refusing to return a security deposit, actively searching online for legal remedies, tenant rights, and demand letter templates.",
+        "word_count_target": 800,
+        "tiktok_reel_hooks": [
+          "POV: You moved out 30 days ago and your landlord just said 'normal wear and tear' costs $1,500.",
+          "That security deposit isn't a bonus check for your landlord. Here's the letter that gets it back.",
+          "My landlord ghosted me for 45 days. Then I sent this $19.99 letter. Plot twist: I got paid.",
+          "3 things your landlord legally cannot deduct from your deposit. Number 2 will save you hundreds.",
+          "Stop arguing over text. Send a demand letter in 60 seconds. No signup. $19.99. Done."
+        ],
+        "short_form_scripts": [
+          {
+            "hook": "Your landlord has 30 days to return your deposit. It's day 31. Now what?",
+            "body": "Most states give your landlord a strict deadline. If they miss it, they're breaking the law. But arguing over text won't help. You need a formal demand letter that cites your state's actual statutes. That's exactly what Deposits-Back.com does.",
+            "cta": "For $19.99, send a legally sound letter in 60 seconds. No signup. No subscription. Tap the link."
+          },
+          {
+            "hook": "They charged me $800 to repaint the walls. That's normal wear and tear, Karen.",
+            "body": "Your landlord cannot deduct for scuffed floors, faded paint, or small nail holes. Those are normal. If they're wrongfully withholding your deposit, a dispute letter puts the law on your side and shows you mean business.",
+            "cta": "Get your money back at Deposits-Back.com. $19.99. Done in under a minute."
+          },
+          {
+            "hook": "I was about to hire a lawyer for my $2,000 deposit. Then I found this.",
+            "body": "Lawyers cost hundreds. Small claims court is a headache. But a state-specific demand letter? That's the cheat code. It cites the exact laws your landlord is violating and demands payment within days.",
+            "cta": "Create yours now at Deposits-Back.com. 60 seconds. $19.99. No account required."
+          }
+        ]
+      }
+    }
+  ]
+}

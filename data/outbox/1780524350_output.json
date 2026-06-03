@@ -1,0 +1,52 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1780524319",
+  "timestamp": "2026-06-03T22:05:50.668750+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Here\u2019s How to Get It Back in 60 Seconds",
+        "meta_description": "Landlord withholding your security deposit? Learn your tenant rights and send a legal demand letter in 60 seconds for just $19.99. No signup or subscription.",
+        "content_outline": [
+          "The Silent Scam: Why Landlords Keep Deposits You\u2019re Owed",
+          "Tenant Rights 101: What Your Landlord Can and Cannot Legally Deduct",
+          "The 60-Second Fix: How to Send a Demand Letter Without a Lawyer",
+          "What Happens Next: Escalating From Letter to Small Claims Court"
+        ],
+        "key_points": [
+          "Landlords often withhold deposits illegally because they assume tenants won\u2019t fight back.",
+          "State laws protect renters from deductions for normal wear and tear and unsubstantiated cleaning fees.",
+          "A formal letter of demand is the fastest, most affordable first step to recover your money.",
+          "Deposits-Back.com generates a state-specific demand letter in 60 seconds for a one-time $19.99 fee\u2014no account or subscription required."
+        ],
+        "cta": "Stop waiting and stop begging. Generate your official security deposit demand letter at Deposits-Back.com in 60 seconds. One simple payment of $19.99. No signup. No subscription. Just your money back.",
+        "target_audience": "Frustrated U.S. renters whose landlords are wrongfully withholding, delaying, or refusing to return a security deposit and need a fast, affordable legal tool to fight back.",
+        "word_count_target": 800,
+        "social_hooks": {
+          "tiktok_reel_hooks": [
+            "POV: Your landlord just said they\u2019re keeping your $2,000 deposit for \u2018cleaning\u2019 \ud83d\udc80",
+            "Your landlord legally CANNOT keep your deposit for this \ud83d\udc47",
+            "Stop begging your landlord for your deposit back. Do this instead. \u26a1",
+            "They said they\u2019d send it \u2018next week\u2019\u2026 3 months ago. Sound familiar? \ud83d\udcc5",
+            "$19.99 > hiring a lawyer. Get your deposit back in 60 seconds. \ud83d\udcb0"
+          ],
+          "short_form_scripts": [
+            {
+              "hook": "Your landlord said they\u2019re keeping your deposit for normal wear and tear? That\u2019s illegal.",
+              "body": "Most tenants give up because they think fighting back costs hundreds in legal fees. It doesn\u2019t. Deposits-Back.com writes your official state-specific demand letter in 60 seconds. No signup. No subscription. Just a one-time $19.99 fee.",
+              "cta": "Link in bio. Go get your money back."
+            },
+            {
+              "hook": "3 things your landlord legally cannot deduct from your security deposit \ud83d\udc47",
+              "body": "Number one: normal wear and tear. Number two: pre-existing damage. Number three: vague \u2018cleaning fees\u2019 with zero receipts. If they already took your money, you need to send a demand letter immediately.",
+              "cta": "Head to Deposits-Back.com and generate yours in 60 seconds for $19.99. No lawyer needed."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

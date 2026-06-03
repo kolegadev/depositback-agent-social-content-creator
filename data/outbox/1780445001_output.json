@@ -1,0 +1,36 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1780444942",
+  "timestamp": "2026-06-03T00:03:21.526687+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Security Deposit? 5 Steps to Get It Back (No Lawyer Needed)",
+        "meta_description": "Landlord withholding your security deposit? Learn your tenant rights, illegal deductions, and how to send a demand letter in 60 seconds for $19.99.",
+        "content_outline": [
+          "The Silent Treatment: Why Your Landlord Is Withholding Your Security Deposit",
+          "Know the Law: Is Your Landlord Required to Return Your Deposit and When?",
+          "Can a Landlord Keep Your Deposit? Debunking Illegal Deductions and \u2018Cleaning Fees\u2019",
+          "What to Do When Your Landlord Won\u2019t Give Your Deposit Back: A 3-Step Action Plan",
+          "Security Deposit Dispute Letter 101: What to Say (and What to Avoid)",
+          "Viral TikTok & Reel Hooks: Social Scripts for Frustrated Tenants Ready to Share Their Story",
+          "The 60-Second Solution: How Deposits-Back.com Puts Your Money Back in Your Pocket"
+        ],
+        "key_points": [
+          "State laws set strict deadlines\u2014usually 14 to 30 days\u2014for landlords to return a deposit or provide an itemized deduction list; missing this deadline often weakens their legal standing.",
+          "Normal wear and tear, routine carpet aging, and pre-existing damage cannot be deducted; only documented damage caused by the tenant beyond ordinary use is a valid claim.",
+          "A formal security deposit dispute letter is the fastest, cheapest leverage before small claims court, and many landlords comply immediately upon receiving legal-looking documentation.",
+          "TikTok / Reel Hook 1: POV: It\u2019s day 31 and your landlord just texted \u2018processing.\u2019 Here\u2019s the state law they\u2019re breaking. #TenantRights #SecurityDeposit",
+          "TikTok / Reel Hook 2: I got my $2,400 deposit back with one letter\u2014no lawyer, no sign-up, $19.99. Here\u2019s the exact hack. #Renting #MoneyTips",
+          "TikTok / Reel Hook 3: \u2018You can\u2019t deduct painting from my deposit.\u2019 The four words that saved me $800. Watch till the end. #Landlord #DepositBack"
+        ],
+        "cta": "Stop chasing your landlord. Generate a legally sound security deposit demand letter at Deposits-Back.com for just $19.99\u2014in 60 seconds, no sign-up, no subscription.",
+        "target_audience": "Frustrated US renters who have moved out and are dealing with a landlord withholding, delaying, or wrongfully deducting their security deposit.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

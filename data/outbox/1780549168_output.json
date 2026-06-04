@@ -1,0 +1,55 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1780549061",
+  "timestamp": "2026-06-04T04:59:28.089881+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Get It Back in 60 Seconds",
+        "meta_description": "Is your landlord withholding your security deposit? Learn your tenant rights and generate a demand letter in 60 seconds for $19.99\u2014no signup needed.",
+        "content_outline": [
+          "How to Know If Your Landlord Is Illegally Withholding Your Security Deposit",
+          "What Landlords Can and Cannot Deduct: Know Your Tenant Rights",
+          "The Power of a Formal Security Deposit Dispute Letter",
+          "How to Demand Your Deposit Back in 60 Seconds Without a Lawyer"
+        ],
+        "key_points": [
+          "State laws require landlords to return security deposits within a specific timeframe, typically 14 to 60 days",
+          "Normal wear and tear\u2014such as scuffed floors, faded paint, or minor nail holes\u2014cannot be legally deducted",
+          "A professionally written demand letter is the fastest way to escalate before filing in small claims court",
+          "Deposits-Back.com generates state-specific deposit return demand letters in 60 seconds for a flat $19.99 fee with no signup or subscription"
+        ],
+        "cta": "Don't let your landlord keep what's yours. Generate your security deposit demand letter in 60 seconds at Deposits-Back.com for just $19.99\u2014no signup, no subscription.",
+        "target_audience": "Problem-aware US renters who are frustrated because their landlord is withholding, not returning, or wrongfully deducting from their security deposit",
+        "word_count_target": 800,
+        "social_hooks": {
+          "tiktok_reels": [
+            {
+              "hook": "Your landlord has 30 days. It's been 90.",
+              "script": "If your landlord is ghosting you about your security deposit, they're betting you'll just give up. Don't. Every state has a deadline\u2014usually 14 to 30 days. After that? They're breaking the law.\n\nYou don't need a lawyer. You need a demand letter.\n\nDeposits-Back.com writes one for you in 60 seconds. $19.99. No signup. Link in bio."
+            },
+            {
+              "hook": "They can't keep it for 'normal wear and tear' \ud83d\udc47",
+              "script": "Scuffed floors? Nail holes? Faded paint? That's normal wear and tear, and your landlord CANNOT deduct it. If they're withholding your deposit for fake damages, you have rights.\n\nFire back with a formal demand letter. Go to Deposits-Back.com, answer a few questions, and send a legally sound letter in under a minute. $19.99 flat. Get your money back."
+            },
+            {
+              "hook": "POV: Your landlord thinks you're too lazy to sue",
+              "script": "They're ignoring your texts. They 'lost' the move-out checklist. And now they're keeping two grand.\n\nHere's the truth: most landlords fold the second they get a real demand letter. Not a text. A letter.\n\nDeposits-Back.com generates one in 60 seconds. No subscription. Just $19.99. Stop begging. Start demanding."
+            },
+            {
+              "hook": "This is how I got my $1,800 deposit back in 48 hours",
+              "script": "I sent a certified letter I made on Deposits-Back.com. Cost me twenty bucks. Took 60 seconds.\n\nMy landlord went from 'we'll see' to 'check's in the mail' real quick. Because they know if you have a paper trail, they lose in court.\n\nIf your landlord is withholding your security deposit, stop waiting. Link in bio."
+            },
+            {
+              "hook": "3 things your landlord legally CANNOT deduct from your deposit",
+              "script": "Number one: normal wear and tear. Number two: pre-existing damage. Number three: vague 'cleaning fees' when you left it clean.\n\nIf they're pulling any of these, you can force them to pay up. Head to Deposits-Back.com. Generate your state-specific demand letter in 60 seconds. $19.99. No signups. Get what's yours."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1780595029",
+  "timestamp": "2026-06-04T17:45:06.691448+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? 5 TikTok Hooks to Demand It Back",
+        "meta_description": "Landlord withholding your security deposit? These viral TikTok hooks expose illegal deductions\u2014plus a $19.99 demand letter that gets your money back in 60 seconds.",
+        "content_outline": [
+          "The Security Deposit Trap: Why Landlords Get Away With Withholding",
+          "TikTok Hook #1: The Fake Cleaning Fee Receipt (What Can Landlord Deduct?)",
+          "TikTok Hook #2: The Deadline Countdown (Security Deposit Not Returned)",
+          "TikTok Hook #3: The Wall of Ghosted Texts (My Landlord Won't Give Me My Deposit Back)",
+          "TikTok Hook #4: The Deduction Myth-Buster (Can Landlord Keep Security Deposit?)",
+          "TikTok Hook #5: The 60-Second Flip (From Frustrated Tenant to Paid Tenant)",
+          "From Views to Victory: Send the Letter That Actually Works",
+          "Know Your Tenant Rights: Security Deposit Laws by State"
+        ],
+        "key_points": [
+          "HOOK 1 \u2014 The Receipt Shock: 'POV: Your landlord charged you $400 for cleaning.' [Visual: Split screen of move-out photo vs. receipt.] Text overlay: 'That's normal wear and tear. You can't deduct this.' Script: 'I paid $19.99 for a demand letter and got every penny back.'",
+          "HOOK 2 \u2014 The Deadline: 'It's day 31 and your security deposit still hasn't been returned.' [Visual: Calendar flip with angry red marker.] Text overlay: 'In my state, they only had 21 days. Now they owe me double.' Script: 'Stop waiting. Start demanding.'",
+          "HOOK 3 \u2014 The Ghosting: 'My landlord won't give me my deposit back, so here's every ignored text.' [Visual: Screenshots flying in rapid fire.] Text overlay: 'Since he loves ghosting, I sent him a letter he can't ignore. 60 seconds. No subscription.'",
+          "HOOK 4 \u2014 The Myth-Buster: 'Can a landlord keep your security deposit for this?' [Visual: Nail hole / scuffed floor.] Text overlay: 'No. No. Also no.' Script: 'Here's what they can legally deduct. Spoiler: it's way less than they think.'",
+          "HOOK 5 \u2014 The Transformation: 'Before: begging for my deposit. After: Deposits-Back.com.' [Visual: Split screen, sad face vs. bank notification.] Script: 'Stop posting and start getting paid. Demand your deposits back in 60 seconds.'"
+        ],
+        "cta": "Stop begging and start getting paid. Generate your state-specific security deposit demand letter at Deposits-Back.com in 60 seconds. Just $19.99. No sign-up. No subscription. Just your money back.",
+        "target_audience": "Frustrated US renters ages 18-35 who are active on TikTok and Instagram Reels, are problem-aware that their landlord is wrongfully withholding or deducting their security deposit, and want a fast, affordable legal tool to demand repayment without hiring a lawyer.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

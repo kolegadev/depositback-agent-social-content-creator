@@ -1,0 +1,35 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1780602565",
+  "timestamp": "2026-06-04T19:50:03.002051+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Deposit? 10 TikTok & Reel Scripts to Get It Back",
+        "meta_description": "Landlord withholding your security deposit? Steal these 10 high-conversion TikTok and Reel scripts to demand your money back in 60 seconds.",
+        "content_outline": [
+          "The 3-Second Rule: Why Angry Tenants Go Viral",
+          "Hook #1: 'My Landlord Charged Me $500 for a Scuff Mark'",
+          "Hook #2: 'It\u2019s Been 45 Days. Where\u2019s My Money?'",
+          "Hook #3: 'Normal Wear & Tear Is NOT a Deduction'",
+          "Hook #4: 'I Sent a Demand Letter in 60 Seconds'",
+          "Hook #5: 'State Law Says You Owe Me Triple'",
+          "How to Turn Views Into a Real Deposit Return",
+          "The $19.99 Power Move: Send Your Letter Today"
+        ],
+        "key_points": [
+          "Tenants searching 'landlord withholding security deposit' need immediate, actionable scripts they can film today",
+          "Each hook leverages specific emotional triggers: betrayal, financial stress, and legal empowerment",
+          "The blog post embeds a direct path from awareness (viral video) to action (Deposits-Back.com demand letter)",
+          "No sign-up or subscription required; $19.99 and 60-second generation removes all friction"
+        ],
+        "cta": "Stop scrolling and start getting paid. For just $19.99, generate a state-compliant security deposit demand letter at Deposits-Back.com in 60 seconds\u2014no sign-up, no subscription, no stress.",
+        "target_audience": "Problem-aware US renters whose landlord is withholding, deducting from, or refusing to return their security deposit, and who are actively seeking fast, affordable legal tools and social media strategies to recover their money",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

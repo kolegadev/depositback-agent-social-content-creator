@@ -1,0 +1,31 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1780531221",
+  "timestamp": "2026-06-04T00:00:42.232589+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Here's the 60-Second Fix",
+        "meta_description": "Frustrated because your landlord is withholding your security deposit? Learn your rights and send a state-specific demand letter in 60 seconds for $19.99.",
+        "content_outline": [
+          "Is Your Landlord Breaking the Law? Know Your State Deadline",
+          "Illegal Deductions: What Landlords Can't Charge You For",
+          "The $19.99 Demand Letter That Gets Results (No Lawyer Needed)",
+          "Step-by-Step: How to Send Your Letter in 60 Seconds"
+        ],
+        "key_points": [
+          "Security deposit deadlines vary by state, but withholding beyond the legal limit opens landlords to statutory penalties.",
+          "Landlords cannot legally deduct for normal wear and tear, routine cleaning, or pre-existing damage.",
+          "Most tenants recover deposits simply by sending a professionally worded demand letter before going to court.",
+          "Deposits-Back.com generates state-specific demand letters for $19.99 with no signup and no subscription."
+        ],
+        "cta": "Don't let your landlord keep what's yours. Create your deposit demand letter at Deposits-Back.com in 60 seconds\u2014only $19.99, no signup required.",
+        "target_audience": "Frustrated U.S. renters whose landlords are withholding, delaying, or wrongfully deducting security deposits",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

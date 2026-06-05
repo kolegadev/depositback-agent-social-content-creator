@@ -1,0 +1,34 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1780617833",
+  "timestamp": "2026-06-05T00:05:11.840986+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Security Deposit? 7 Viral Social Hooks + Your 60-Second Legal Fix",
+        "meta_description": "Is your landlord withholding your security deposit? Discover viral TikTok hooks and a 60-second demand letter solution to get your money back today.",
+        "content_outline": [
+          "The Security Deposit Trap: Why Landlords Keep Money They Owe You",
+          "Problem-Aware Tenants: What 'Landlord Not Returning Deposit' Really Means for Your Rights",
+          "7 High-Converting TikTok & Reel Hooks to Fight Back",
+          "Short-Form Script Templates: 15-Second and 30-Second Versions",
+          "Can Your Landlord Actually Keep Your Deposit? Quick-State Deadlines & Deduction Rules",
+          "From Viral Hook to Real Action: How a $19.99 Demand Letter Ends the Dispute",
+          "Conclusion: Stop Scrolling, Start Collecting"
+        ],
+        "key_points": [
+          "Problem-aware tenants engage most with content that validates their frustration and offers an immediate, low-effort solution",
+          "The highest-performing hooks use 'POV,' specific dollar amounts, state law violations, or silent-landlord callouts to drive saves and shares",
+          "Deposits-Back.com converts emotional engagement into action with a $19.99, 60-second demand letter requiring no sign-up or subscription",
+          "Content must bridge the gap between venting on social media and taking enforceable legal steps to recover withheld deposits"
+        ],
+        "cta": "Stop letting your landlord keep what's yours. Generate a legally sound security deposit demand letter in 60 seconds for just $19.99\u2014no sign-up, no subscription, no stress. Go to Deposits-Back.com now.",
+        "target_audience": "Frustrated US renters whose landlords are withholding, wrongfully deducting from, or refusing to return security deposits, and who are actively seeking fast, affordable legal remedies without hiring an attorney",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

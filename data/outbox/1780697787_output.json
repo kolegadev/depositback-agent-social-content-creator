@@ -1,0 +1,70 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1780697616",
+  "timestamp": "2026-06-05T22:16:27.928202+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Demand It Back in 60 Seconds",
+        "meta_description": "Landlord withholding your deposit? Demand it back in 60 seconds for $19.99. No signup needed. Generate your letter now at Deposits-Back.com.",
+        "content_outline": [
+          "Top Illegal Reasons Landlords Use to Withhold Deposits",
+          "State-by-State Deadlines: How Long Landlords Actually Have",
+          "Normal Wear and Tear vs. Actual Damage: Know the Difference",
+          "Why a Formal Demand Letter Works Better Than Texts and Calls",
+          "How to Escalate to Small Claims Court If Your Landlord Ignores You",
+          "FAQ: Can My Landlord Keep My Deposit for Breaking the Lease or Cleaning?"
+        ],
+        "key_points": [
+          "Most states require landlords to return security deposits within 14 to 30 days and provide an itemized deduction list.",
+          "Landlords cannot legally deduct for normal wear and tear, routine cleaning, or made-up charges.",
+          "A written demand letter citing state law is the fastest, most effective step before filing in small claims court.",
+          "Deposits-Back.com generates a state-specific, legally sound demand letter in under 60 seconds for a flat $19.99 fee with no signup or subscription."
+        ],
+        "cta": "Stop letting your landlord keep what's yours. Generate your state-specific security deposit demand letter in 60 seconds for just $19.99\u2014no signup, no subscription. Visit Deposits-Back.com now.",
+        "target_audience": "Problem-aware US renters who have moved out and are experiencing wrongful security deposit withholding, non-return, or unfair deductions by their landlord.",
+        "word_count_target": 800,
+        "social_hooks": [
+          {
+            "platform": "TikTok / Instagram Reels",
+            "keyword_target": "my landlord won't give me my deposit back",
+            "hook_text": "POV: You left the apartment spotless but your landlord just ghosted your $2,000 deposit...",
+            "visual_direction": "Split screen: clean apartment tour on top, ignored text messages on bottom. Transition to host talking directly to camera.",
+            "script": "You scrubbed every corner. You have photos. But now? Radio silence. In most states, your landlord only has 14 to 30 days to return your money. If they ghost you, they break the law. Before you hire a lawyer, try this: Deposits-Back dot com. Answer a few questions and send a real demand letter in 60 seconds. 19 dollars and 99 cents. No signup. No subscription. Just results. Link in bio."
+          },
+          {
+            "platform": "TikTok / Instagram Reels",
+            "keyword_target": "landlord withholding security deposit for cleaning",
+            "hook_text": "Your landlord charged $800 for 'cleaning'... but you Swiffered the whole place? \ud83e\uddf9\ud83d\udeab",
+            "visual_direction": "Close-up of a fake invoice reading 'Cleaning: $800.' Shake head 'no.' Cut to host with text overlay: 'Normal wear & tear is NOT deductible.'",
+            "script": "Newsflash: scuffs on the wall and dusty baseboards are normal wear and tear. Your landlord cannot charge you for that. If they're making up cleaning fees, dispute it in writing. Not with a text. With a legal demand letter. Deposits-Back dot com builds yours in under a minute. 60 seconds. 19.99. Get your money back."
+          },
+          {
+            "platform": "TikTok / Instagram Reels",
+            "keyword_target": "what to do when landlord doesn't return deposit",
+            "hook_text": "Stop asking 'what do I do?' and start doing this \ud83d\udc47 #rentaltips",
+            "visual_direction": "Fast-paced text-on-screen with three steps. Host pointing up at each step. High energy, trending audio.",
+            "script": "Step one: stop begging. Step two: know your state deadline. Step three: send a formal demand letter that cites the actual law. Landlords ignore texts. They do not ignore legal letters. Deposits-Back dot com writes your state-specific letter in 60 seconds. Flat fee. No account needed. Tap the link."
+          },
+          {
+            "platform": "TikTok / Instagram Reels",
+            "keyword_target": "can landlord keep security deposit for breaking lease",
+            "hook_text": "He said, 'I'm keeping your deposit because you broke the lease.' But can he actually do that? \ud83e\udd14",
+            "visual_direction": "Host dressed business-casual, pointing at camera. Text pop-ups: 'Unpaid Rent = Maybe.' 'Fees for being mad = NO.'",
+            "script": "Maybe\u2014but only for actual damages and unpaid rent. Not because they're salty. If your landlord is wrongfully withholding your deposit, you need to enforce your rights. The fastest way? A demand letter from Deposits-Back dot com. 60 seconds. 19.99. No signup. Demand what's yours."
+          },
+          {
+            "platform": "TikTok / Instagram Reels",
+            "keyword_target": "security deposit not returned within 30 days",
+            "hook_text": "Day 31 and still no check? Your landlord might owe you DOUBLE. \ud83d\udcc5\ud83d\udcb0",
+            "visual_direction": "Calendar graphic flipping from day 1 to day 31. Money flying away animation, then host catching it. Urgency tone.",
+            "script": "The clock ran out. In many states, if your landlord misses the deadline, they owe you double or even triple your deposit back. But first, you have to demand it. In writing. Deposits-Back dot com generates your state-specific demand letter in 60 seconds. 19.99. No subscription. Link below."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1780772045",
+  "timestamp": "2026-06-06T18:55:47.237483+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Here\u2019s How to Fight Back in 60 Seconds",
+        "meta_description": "Is your landlord withholding your security deposit? Learn your tenant rights and send a demand letter in 60 seconds for only $19.99. No signup needed.",
+        "content_outline": [
+          "Why Landlords Illegally Withhold Security Deposits",
+          "What Your Landlord Can (and Cannot) Deduct From Your Deposit",
+          "State Deadlines: How Long Is Too Long?",
+          "How to Write a Security Deposit Demand Letter That Actually Works",
+          "Get Your Money Back Without a Lawyer Using Deposits-Back.com"
+        ],
+        "key_points": [
+          "Most states require landlords to return security deposits within 14\u201330 days.",
+          "Normal wear and tear cannot be legally deducted from your deposit.",
+          "A formal demand letter is the fastest, most effective first step to recover your money.",
+          "Deposits-Back.com generates a state-specific demand letter in under 60 seconds for a one-time $19.99 fee\u2014no sign-up and no subscription."
+        ],
+        "cta": "Don\u2019t let your landlord keep what\u2019s yours. Generate your deposit return demand letter now at Deposits-Back.com for just $19.99\u2014no sign-up, no subscription, and it takes less than 60 seconds.",
+        "target_audience": "Frustrated US renters whose landlord is withholding, deducting, or refusing to return their security deposit.",
+        "word_count_target": 800,
+        "social_hooks": [
+          {
+            "keyword_cluster": "landlord withholding security deposit",
+            "hook_text": "POV: You moved out 3 weeks ago and your landlord is 'keeping' your $2,000 deposit for 'cleaning' \ud83d\udea9",
+            "script": "You left the place spotless. Now they\u2019re ghosting you. Before you panic, know this: in most states, they have 14 to 30 days to give it back. If they don\u2019t, a demand letter puts the law on your side. Deposits-Back dot com. 60 seconds. 19 bucks. No signup. Get your money."
+          },
+          {
+            "keyword_cluster": "what can landlord deduct from security deposit",
+            "hook_text": "Your landlord charged you $400 for a 'paint touch-up'\u2026 but is that even legal? \ud83e\udd14",
+            "script": "Normal wear and tear? They can\u2019t charge you for that. Scuffed floors, faded paint, small nail holes\u2014that\u2019s on them. If they\u2019re deducting bogus fees, fight back with a demand letter. Deposits-Back dot com. 19 dollars. One minute. Done."
+          },
+          {
+            "keyword_cluster": "security deposit not returned",
+            "hook_text": "It\u2019s day 31 and your deposit still hasn\u2019t hit your account. Here\u2019s exactly what to do. \u23f0",
+            "script": "State laws are strict. Missed the deadline? They might owe you the full amount plus penalties. Stop sending texts they ignore. Send a legally sound demand letter instead. Deposits-Back dot com. 60 seconds, 19 ninety-nine, no subscription. Link in bio."
+          },
+          {
+            "keyword_cluster": "can landlord keep security deposit",
+            "hook_text": "They said they\u2019re keeping your deposit because you broke the lease. But can they actually do that? \ud83d\udcc4",
+            "script": "Maybe\u2014but only for actual damages or unpaid rent, not as a punishment. If they\u2019re bluffing, call it out. A demand letter forces them to prove every deduction or pay up. Go to Deposits-Back dot com. Generate your letter in under a minute for 19 bucks."
+          },
+          {
+            "keyword_cluster": "security deposit dispute letter",
+            "hook_text": "Stop arguing with your landlord in the group chat. This letter gets your deposit back. \u2709\ufe0f",
+            "script": "You don\u2019t need a lawyer. You need a demand letter that cites your state\u2019s laws and sets a hard deadline. We built it for you. Deposits-Back dot com. 60 seconds. 19 dollars. No sign up. Get what\u2019s yours."
+          }
+        ]
+      }
+    }
+  ]
+}

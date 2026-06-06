@@ -1,0 +1,40 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1780741368",
+  "timestamp": "2026-06-06T10:25:40.157177+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "10 TikTok & Reel Hooks to Use When Your Landlord Is Withholding Your Security Deposit",
+        "meta_description": "Landlord withholding your security deposit? These high-conversion TikTok hooks and short-form scripts help frustrated tenants demand their money back fast.",
+        "content_outline": [
+          "The 'Legal Deadline' Hook: When the 30-Day Window Closes",
+          "The 'Fake Damage' Hook: Fighting Normal Wear & Tear Deductions",
+          "The 'Ghosted' Hook: Landlord Not Returning Calls or Deposit",
+          "The 'Receipts or Refund' Hook: Challenging Illegal Deductions",
+          "The 'Double Damages' Hook: State Penalties for Late Returns",
+          "15-Second Script Template: Problem \u2192 Law \u2192 Solution",
+          "30-Second Script Template: Story \u2192 Violation \u2192 CTA",
+          "Caption Strategy & Hashtag Bank for Maximum Reach",
+          "Deposits-Back.com Integration Flow for Conversions",
+          "Engagement Tactics: Duet, Stitch, and Comment Prompts"
+        ],
+        "key_points": [
+          "Hook: 'If your landlord hasn't returned your deposit in 30 days, they just broke the law. Here's the letter that got mine back in 48 hours.'",
+          "Hook: 'My landlord charged me $500 for cleaning. I sent this $19.99 letter. Full refund. No lawyer needed.'",
+          "Hook: 'POV: It's day 31 and your landlord is busy. Busy people get served. Start with this demand letter.'",
+          "Hook: 'Can a landlord keep your security deposit for normal wear and tear? Absolutely not. Let me show you how to fight back.'",
+          "Script formula: 3-second pattern interrupt, 5-second problem agitation, 7-second solution reveal pointing to Deposits-Back.com, and 5-second strong CTA.",
+          "All scripts direct viewers to Deposits-Back.com to generate a state-specific security deposit demand letter for $19.99 in 60 seconds with no sign-up or subscription.",
+          "Emotional driver: Transform tenant frustration into empowered legal action without the cost of hiring an attorney."
+        ],
+        "cta": "Don't let your landlord keep what's yours. Go to Deposits-Back.com, answer a few quick questions, and send a legally sound security deposit demand letter in 60 seconds. Just $19.99. No sign-up. No subscription.",
+        "target_audience": "Problem-aware US renters ages 22-40 who have moved out and are actively searching for help because their landlord is withholding, unfairly deducting from, or ignoring requests about their security deposit; heavy TikTok and Instagram Reels users seeking fast, affordable, no-attorney solutions.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1780767319",
+  "timestamp": "2026-06-06T17:35:42.984463+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Here\u2019s How to Fight Back Fast",
+        "meta_description": "Landlord withholding your security deposit? Learn your tenant rights, fight illegal deductions, and send a demand letter in 60 seconds at Deposits-Back.com.",
+        "content_outline": [
+          "The Silent Heist: Why Landlords Get Away With Withholding Deposits",
+          "Know Your Rights: State Deadlines & What Landlords Can Actually Deduct",
+          "3 Illegal Excuses Landlords Use to Keep Your Money",
+          "The 60-Second Solution: How a Demand Letter Forces Compliance",
+          "Next Steps If Your Landlord Still Refuses to Pay"
+        ],
+        "key_points": [
+          "Most states require landlords to return security deposits within 14 to 45 days and provide an itemized list of any deductions.",
+          "Normal wear and tear, minor carpet wear, and routine cleaning cannot be legally deducted from your deposit.",
+          "A formal security deposit demand letter is the fastest, most affordable way to recover your money before filing in small claims court."
+        ],
+        "cta": "Stop fighting alone. Create your state-specific security deposit demand letter at Deposits-Back.com for just $19.99. It takes 60 seconds, and there\u2019s no signup or subscription required.",
+        "target_audience": "Frustrated US tenants whose landlord is withholding, partially deducting, or refusing to return their security deposit and need fast, affordable help.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1780785348",
+  "timestamp": "2026-06-06T22:36:09.686170+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Here's How to Get It Back Fast",
+        "meta_description": "Is your landlord withholding your security deposit? Learn your tenant rights, valid deductions, and how to demand your money back in 60 seconds.",
+        "content_outline": [
+          "The Breaking Point: When Your Landlord Won't Return Your Deposit",
+          "Tenant Rights 101: How Long a Landlord Has to Return Your Deposit",
+          "What Can a Landlord Legally Deduct? (Normal Wear and Tear vs. Damage)",
+          "5 Immediate Steps to Take When Your Deposit Is Withheld",
+          "The 60-Second Solution: Sending a Security Deposit Demand Letter",
+          "What to Do If Your Landlord Still Refuses"
+        ],
+        "key_points": [
+          "Most states require landlords to return security deposits within 14 to 60 days after move-out.",
+          "Landlords cannot legally deduct for normal wear and tear, routine cleaning, or pre-existing damage.",
+          "A formal demand letter is often the fastest and most effective first step before escalating to small claims court.",
+          "Deposits-Back.com generates a professional, state-specific security deposit demand letter in 60 seconds for $19.99 with no signup or subscription."
+        ],
+        "cta": "Stop waiting and start demanding. Create your professional security deposit demand letter in 60 seconds for just $19.99 at Deposits-Back.com\u2014no sign-up, no subscription, no stress.",
+        "target_audience": "Frustrated US renters whose landlords are withholding, not returning, or wrongfully deducting from their security deposit and who are actively searching for affordable, fast solutions to enforce their tenant rights.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

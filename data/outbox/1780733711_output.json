@@ -1,0 +1,79 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1780733550",
+  "timestamp": "2026-06-06T08:15:11.829653+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Here's Your 60-Second Fix",
+        "meta_description": "Landlord withholding your security deposit? Learn your tenant rights and send a legally sound demand letter in 60 seconds for only $19.99.",
+        "content_outline": [
+          "Why landlords withhold security deposits (and when it's outright illegal)",
+          "Security deposit deductions: What your landlord can and cannot charge you for",
+          "State law deadlines: How long your landlord really has to return your money",
+          "The no-lawyer solution: How a demand letter forces your landlord to pay",
+          "Next steps if your landlord ignores your demand"
+        ],
+        "key_points": [
+          "Normal wear and tear is not a valid reason to withhold a security deposit",
+          "Most states require landlords to return deposits within 14 to 30 days",
+          "A formal letter of demand is often enough to recover your money without court",
+          "Deposits-Back.com lets tenants generate a legally sound demand letter in 60 seconds for $19.99 with no sign-up or subscription"
+        ],
+        "cta": "Don't let your landlord keep what's yours. Generate your deposit demand letter at Deposits-Back.com in 60 seconds\u2014just $19.99, no sign-up required.",
+        "target_audience": "Frustrated US renters whose landlords are withholding, delaying, or wrongfully deducting security deposits",
+        "word_count_target": 800,
+        "social_hooks": [
+          {
+            "hook": "Your landlord just texted, 'I'm keeping your $2,000 deposit for cleaning' even though you scrubbed the floors...",
+            "format": "TikTok/Reels",
+            "angle": "Pattern interrupt / Pain point"
+          },
+          {
+            "hook": "Stop letting your landlord steal your security deposit. Here's the letter that gets it back in 60 seconds.",
+            "format": "TikTok/Reels",
+            "angle": "Direct authority / Solution"
+          },
+          {
+            "hook": "It's been 45 days. Where's your security deposit?",
+            "format": "TikTok/Reels",
+            "angle": "Question / Urgency"
+          },
+          {
+            "hook": "Illegal. Illegal. Illegal. If your landlord said this, they actually owe you double.",
+            "format": "TikTok/Reels",
+            "angle": "Shock / Education"
+          },
+          {
+            "hook": "POV: You just moved out and your landlord is ghosting you.",
+            "format": "TikTok/Reels",
+            "angle": "POV / Relatability"
+          }
+        ],
+        "short_form_scripts": [
+          {
+            "duration": "15-20 sec",
+            "hook": "Your landlord said they're keeping your deposit for 'cleaning fees'?",
+            "body": "Here's the truth: normal wear and tear is NOT deductible. Scuffed floors? Faded paint? That's on them, not you. But arguing over text won't work.",
+            "cta": "You need a demand letter with teeth. Go to Deposits-Back.com. Generate yours in 60 seconds. Just $19.99. No sign-up. No subscription. Get your money back."
+          },
+          {
+            "duration": "20-25 sec",
+            "hook": "It's been 45 days. Where's your security deposit?",
+            "body": "Most states require your deposit back in 14 to 30 days max. After that? They're breaking tenant law\u2014and in many states, you could be owed double damages plus interest.",
+            "cta": "Don't hire a lawyer yet. Hit Deposits-Back.com. $19.99. 60 seconds. Send the legally sound letter that makes landlords pay attention."
+          },
+          {
+            "duration": "15-20 sec",
+            "hook": "My landlord won't give me my deposit back. If this is you, stop begging.",
+            "body": "Texting 'please' for the 10th time isn't working. Landlords respond to paper trails, not DMs. A formal demand letter proves you know your rights.",
+            "cta": "Create yours at Deposits-Back.com. No sign-up. No subscription. Just a proven letter that gets results in 60 seconds."
+          }
+        ]
+      }
+    }
+  ]
+}

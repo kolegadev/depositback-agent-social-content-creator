@@ -1,0 +1,75 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1780724461",
+  "timestamp": "2026-06-06T05:43:23.976883+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Here's How to Get It Back in 60 Seconds",
+        "meta_description": "Is your landlord withholding your security deposit? Know your tenant rights and send a legal demand letter in 60 seconds for just $19.99\u2014no signup needed.",
+        "content_outline": [
+          "Signs Your Landlord Is Wrongfully Withholding Your Deposit",
+          "What State Laws Say About Security Deposit Deadlines and Deductions",
+          "How a Demand Letter Gets Results Faster Than Begging",
+          "Step-by-Step: Send Your Letter in 60 Seconds With Deposits-Back.com"
+        ],
+        "key_points": [
+          "Most U.S. states require landlords to return security deposits within 14\u201330 days after move-out.",
+          "Landlords cannot legally deduct for normal wear and tear or charge vague 'cleaning' fees without proof.",
+          "A formal letter of demand is often the fastest, cheapest way to recover a withheld deposit before going to court.",
+          "Deposits-Back.com lets tenants generate and send a state-specific demand letter in 60 seconds for a one-time $19.99 fee."
+        ],
+        "cta": "Don't wait months for money that belongs to you. Create your security deposit demand letter at Deposits-Back.com in 60 seconds for just $19.99\u2014no sign-up, no subscription, just results.",
+        "target_audience": "Frustrated U.S. renters whose landlords are wrongfully withholding, delaying, or refusing to return their security deposit.",
+        "word_count_target": 800,
+        "social_hooks": [
+          {
+            "platform": "TikTok/Reels",
+            "hook_text": "POV: You moved out 3 weeks ago and your landlord just ghosted your deposit.",
+            "angle": "Relatable frustration / Ghosting landlord"
+          },
+          {
+            "platform": "TikTok/Reels",
+            "hook_text": "If your landlord hasn't returned your deposit in 30 days, they're already breaking the law.",
+            "angle": "Urgency / Legal deadline awareness"
+          },
+          {
+            "platform": "TikTok/Reels",
+            "hook_text": "Your landlord can't keep your security deposit for 'normal wear and tear.' That's literally illegal.",
+            "angle": "Myth-busting / Tenant rights"
+          },
+          {
+            "platform": "TikTok/Reels",
+            "hook_text": "Stop asking your landlord for your deposit back. Start demanding it.",
+            "angle": "Empowerment / Mindset shift"
+          },
+          {
+            "platform": "TikTok/Reels",
+            "hook_text": "My landlord tried to charge me $1,200 for a 'cleaning fee.' Here's what I sent him instead.",
+            "angle": "Story hook / Dispute letter reveal"
+          }
+        ],
+        "short_form_scripts": [
+          {
+            "title": "The 30-Day Rule",
+            "duration": "15-30 sec",
+            "script": "If your landlord hasn't returned your deposit in 30 days, they're already breaking the law. Most states give them 14 to 30 days max. After that? Penalties. You don't need a lawyer. You need a demand letter. Deposits-Back.com. $19.99. 60 seconds. No signup. Get your money."
+          },
+          {
+            "title": "Ghosted Deposit",
+            "duration": "15-30 sec",
+            "script": "POV: You moved out three weeks ago and your landlord just ghosted your deposit. Texting 'where's my money?' isn't working. A formal demand letter hits different\u2014it shows you know your rights. Create yours at Deposits-Back.com in 60 seconds. One-time $19.99."
+          },
+          {
+            "title": "Normal Wear and Tear",
+            "duration": "15-30 sec",
+            "script": "Your landlord cannot keep your deposit for normal wear and tear. That's illegal. But they'll try if you don't call them out. Send a demand letter that cites your state laws. Go to Deposits-Back.com. $19.99. Done in a minute."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1780839925",
+  "timestamp": "2026-06-07T13:46:11.991321+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Here's How to Get It Back in 60 Seconds",
+        "meta_description": "Landlord withholding your deposit? Learn your rights and send a legal demand letter in 60 seconds for $19.99. No signup needed.",
+        "content_outline": [
+          "Introduction: Why landlords withhold deposits and what the law says",
+          "Tenant rights: What your landlord can and cannot deduct",
+          "State deadlines: How long a landlord legally has to return your deposit",
+          "What to do when your landlord won't return your deposit",
+          "How a security deposit dispute letter changes the game",
+          "The 60-second solution: No lawyer, no signup, no subscription"
+        ],
+        "key_points": [
+          "Landlords may only deduct for actual damage, not normal wear and tear",
+          "Most states require deposit returns within 14 to 45 days with an itemized list",
+          "A formal demand letter is often enough to force compliance before small claims court",
+          "You can create and send a legally formatted letter online in under a minute"
+        ],
+        "cta": "Stop waiting. Send your deposit demand letter in 60 seconds for $19.99\u2014no signup, no subscription, just results.",
+        "target_audience": "Frustrated US renters whose landlords are illegally withholding, delaying, or wrongfully deducting from their security deposits",
+        "word_count_target": 800,
+        "social_hooks": [
+          {
+            "keyword": "landlord withholding security deposit",
+            "hook": "POV: Your landlord is withholding your deposit for 'cleaning' but you left it spotless",
+            "script": "You scrubbed every corner. Took move-out photos. But your landlord just said they're keeping your $2,000 for 'cleaning.' Illegal? Probably. Stop begging. Send a legal demand letter in 60 seconds for $19.99. No signup. No lawyer."
+          },
+          {
+            "keyword": "landlord not returning deposit",
+            "hook": "Stop asking your landlord for your deposit. Start demanding it.",
+            "script": "Asking nicely isn't working? Yeah, they banked on that. A legal demand letter shows you know your rights and forces a response. Create and send yours in 60 seconds for $19.99 at Deposits-Back.com."
+          },
+          {
+            "keyword": "my landlord won't give me my deposit back",
+            "hook": "My landlord won't give me my deposit back, so I did this...",
+            "script": "Three months after move-out and still no check? Stop texting. Stop calling. I sent a legally formatted demand letter and got my money back in 8 days. It took 60 seconds and cost $19.99. No subscription."
+          },
+          {
+            "keyword": "security deposit not returned",
+            "hook": "It's been 30 days and your security deposit still hasn't been returned. Now what?",
+            "script": "Every state has a deadline. If your landlord missed it, they're breaking the law. Don't wait another week. Send a demand letter that forces action in 60 seconds. $19.99. No signup."
+          },
+          {
+            "keyword": "what to do when landlord doesn't return deposit",
+            "hook": "What to actually do when your landlord doesn't return your deposit",
+            "script": "Step 1: Document everything. Step 2: Check your state's legal deadline. Step 3: Send a formal demand letter\u2014not a text, a real letter. Takes 60 seconds on Deposits-Back.com. $19.99. No subscription."
+          },
+          {
+            "keyword": "can landlord keep security deposit",
+            "hook": "Can your landlord legally keep your entire deposit? Probably not.",
+            "script": "Unless you punched holes in the wall or skipped rent, they can't keep your whole deposit for 'repairs.' Know your tenant rights, then send a demand letter that holds them accountable. Takes 60 seconds. Costs less than dinner."
+          },
+          {
+            "keyword": "is my landlord required to return my deposit",
+            "hook": "Is your landlord actually required to return your deposit? Yes. Here's the law.",
+            "script": "If you paid rent, didn't destroy the place, and gave proper notice, they owe you that money back by a legal deadline. Stop letting them ghost you. Demand it back in 60 seconds for $19.99."
+          },
+          {
+            "keyword": "tenant rights security deposit",
+            "hook": "Tenant rights your landlord hopes you don't know",
+            "script": "They can't deduct for normal wear. They can't miss the state deadline. And they definitely can't ignore a formal legal demand. Get yours written and sent in 60 seconds. No sign up. No hidden fees."
+          },
+          {
+            "keyword": "what can landlord deduct from security deposit",
+            "hook": "Things your landlord CANNOT deduct from your security deposit",
+            "script": "Scuffed floors after 2 years? Not deductible. Faded paint? Not deductible. Normal wear and tear is on them. If your landlord is charging you for this, fight back. Send a dispute letter in 60 seconds for $19.99."
+          },
+          {
+            "keyword": "security deposit dispute letter",
+            "hook": "This letter got my security deposit back when my landlord ghosted me",
+            "script": "Your landlord has 21 to 30 days by law. If they're past due, don't send another text. Send a legally formatted security deposit dispute letter in under 60 seconds. $19.99 flat. No signup required."
+          }
+        ]
+      }
+    }
+  ]
+}

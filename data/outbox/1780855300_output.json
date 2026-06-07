@@ -1,0 +1,13 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1780855297",
+  "timestamp": "2026-06-07T18:01:40.804497+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "error",
+      "error": "Error code: 429 - {'error': {'message': 'Your account org-4a84ed4851e84943b17f5d0262ccf2ae <ak-f9xqsigz8yn111fshub1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}"
+    }
+  ]
+}

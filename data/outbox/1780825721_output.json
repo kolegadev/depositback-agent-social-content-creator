@@ -1,0 +1,38 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1780825665",
+  "timestamp": "2026-06-07T09:48:41.985933+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? 7 Viral TikTok Hooks + The 60-Second Demand Letter Fix",
+        "meta_description": "Frustrated tenant? Use these high-conversion TikTok/Reel hooks and scripts to fight back when your landlord withholds your deposit. Get your money back in 60 seconds.",
+        "content_outline": [
+          "Hook 1: The 'Silent Treatment' \u2014 When Your Landlord Won't Return Your Deposit",
+          "Hook 2: The 'Illegal Deduction' \u2014 What Landlords Can't Legally Charge For",
+          "Hook 3: The 'State Law Clock' \u2014 Deposit Return Deadlines by State",
+          "Hook 4: The 'POV' Hook \u2014 You Cleaned Everything, They Kept It All",
+          "Hook 5: The 'Reddit Rant' \u2014 Turning 'My Landlord Won't Give Me My Deposit Back' Into Action",
+          "Hook 6: The '$19.99 Plot Twist' \u2014 No Lawyer, No Court, Just Results",
+          "Short-Form Script Templates for TikTok, Reels, and Shorts",
+          "CTA & Landing Strategy: From Viral Hook to Demand Letter in 60 Seconds"
+        ],
+        "key_points": [
+          "Hook (Anger/Problem-Aware): 'POV: You left your apartment spotless, but your landlord just texted you saying they're keeping your entire $2,400 deposit for normal wear and tear. That's illegal. Let me show you the 60-second fix that lawyers use.'",
+          "Hook (Curiosity/Story): 'I sent my landlord a letter from Deposits-Back.com and got my FULL deposit back in 8 days. No signup. No subscription. Just $19.99. Here's the exact script I used.'",
+          "Hook (Myth-Bust): 'Your landlord CANNOT keep your deposit for carpet cleaning, fresh paint, or vague cleaning fees. If they're doing this, they're banking on you not knowing your rights. Let's change that.'",
+          "Hook (Urgency/State-Specific): 'You have 14 to 30 days depending on your state. After that deadline, your landlord could owe you DOUBLE or TRIPLE your deposit. But only if you document it properly. Start the clock now.'",
+          "Hook (Empowerment): 'Stop Googling what to do when your landlord doesn't return your deposit. Stop waiting. This demand letter does the talking for you, and it takes less time than making your morning coffee.'",
+          "Script Structure: Open with a relatable text screenshot or story, state the illegal deduction or missed deadline in 3 seconds, tease the 60-second letter solution, and close with 'Link in bio \u2014 Deposits-Back.com'.",
+          "SEO Integration: Naturally weave keywords including 'landlord withholding security deposit,' 'security deposit not returned,' 'what to do when landlord doesn't return deposit,' and 'tenant rights security deposit' into on-screen text and caption copy."
+        ],
+        "cta": "Don't let your landlord steal another dollar. Go to Deposits-Back.com right now, answer a few quick questions, and download your state-specific security deposit demand letter in 60 seconds. Just $19.99. No signup. No subscription. Just your deposit back.",
+        "target_audience": "Problem-aware US renters who are frustrated with landlords withholding, delaying, or wrongfully deducting security deposits, and who are actively seeking fast, affordable DIY legal solutions on TikTok, Instagram Reels, and YouTube Shorts.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

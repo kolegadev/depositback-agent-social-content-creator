@@ -1,0 +1,30 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1780813555",
+  "timestamp": "2026-06-07T06:26:35.863089+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Fight Back in 60 Seconds",
+        "meta_description": "Is your landlord withholding your security deposit? Learn your tenant rights and send a legal demand letter for $19.99 at Deposits-Back.com\u2014no signup needed.",
+        "content_outline": [
+          "The Deposit Dilemma: Why Landlords Think They Can Keep Your Money",
+          "Know Your Rights: Illegal Deductions and State Return Timelines",
+          "The 60-Second Fix: How a Demand Letter Gets Results (No Lawyer Needed)"
+        ],
+        "key_points": [
+          "Landlords must return security deposits within a state-mandated window, typically 14 to 60 days after move-out",
+          "Normal wear and tear, carpet aging, and minor wall scuffs are not legally valid deductions",
+          "Most states require a formal written demand before a tenant can escalate to small claims court",
+          "Deposits-Back.com generates a state-specific security deposit demand letter in 60 seconds for a one-time $19.99 fee with no signup or subscription"
+        ],
+        "cta": "Stop waiting. Generate your official deposit demand letter at Deposits-Back.com in 60 seconds for just $19.99. No signup. No subscription. Just results.",
+        "target_audience": "Frustrated U.S. renters whose landlords are wrongfully withholding, over-deducting from, or refusing to return their security deposit.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

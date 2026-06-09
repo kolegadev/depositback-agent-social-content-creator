@@ -1,0 +1,38 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1781026595",
+  "timestamp": "2026-06-09T17:36:55.231219+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "10 Viral TikTok Hooks for Tenants Fighting to Get Their Security Deposit Back",
+        "meta_description": "Landlord withholding your deposit? These viral TikTok hooks and Reel scripts help tenants fight back and demand their money back in 60 seconds.",
+        "content_outline": [
+          "Hook #1: The Silent Treatment \u2014 When your landlord stops replying after move-out",
+          "Hook #2: The Fake Itemized List \u2014 Debunking inflated cleaning and repair charges",
+          "Hook #3: The State Deadline \u2014 Leveraging legal timelines landlords ignore",
+          "Hook #4: Normal Wear vs. Damage \u2014 The before-and-after proof hook",
+          "Hook #5: The 'Can They Keep It?' Myth-buster script",
+          "Script Template: The 15-Second Frustrated Tenant Transition",
+          "Script Template: The 'Lawyer Up' Authority Hook",
+          "Script Template: The Money-Back Countdown CTA",
+          "Repurposing hooks for Instagram Reels and YouTube Shorts",
+          "How to convert views into demand letters with Deposits-Back.com"
+        ],
+        "key_points": [
+          "Problem-aware hooks that open with raw tenant frustration generate 3x more engagement than generic rental advice.",
+          "Landlords must follow strict state timelines and provide itemized deductions; most tenants don't know their rights.",
+          "Deposits-Back.com lets renters generate a professional security deposit demand letter in 60 seconds for a one-time $19.99 fee.",
+          "No sign-up, no subscription, and no hidden fees\u2014just a legally sound letter ready to send.",
+          "Each script should open with a relatable pain point, state a hard fact or deadline, and end with a clear call-to-action."
+        ],
+        "cta": "Stop waiting for your landlord to do the right thing. Generate your official security deposit demand letter at Deposits-Back.com in 60 seconds. Just $19.99\u2014no sign-up, no subscription, no stress.",
+        "target_audience": "Frustrated US renters whose landlords are withholding, delaying, or wrongfully deducting from their security deposit, active on TikTok and Instagram Reels, and seeking fast, affordable legal remedies without hiring a lawyer.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

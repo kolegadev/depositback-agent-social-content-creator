@@ -1,0 +1,66 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1781046353",
+  "timestamp": "2026-06-09T23:06:54.325820+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Here's How to Fight Back in 60 Seconds",
+        "meta_description": "Is your landlord withholding your security deposit? Learn your tenant rights and send a professional demand letter in 60 seconds for only $19.99.",
+        "content_outline": [
+          "Why Landlords Withhold Security Deposits (And Why They're Often Wrong)",
+          "Know Your Rights: State Deadlines and Legal Requirements",
+          "What Landlords Can and Cannot Deduct From Your Deposit",
+          "How to Write a Security Deposit Demand Letter That Gets Results",
+          "The 60-Second Solution: No Lawyer, No Signup, No Subscription"
+        ],
+        "key_points": [
+          "Most states require landlords to return security deposits within 14 to 30 days",
+          "Normal wear and tear, minor scuffs, and faded paint are not legally deductible",
+          "A professionally written demand letter shows you know your rights and forces action",
+          "Deposits-Back.com generates state-specific demand letters in 60 seconds for $19.99 with zero signup or subscription"
+        ],
+        "cta": "Don't let your landlord keep what's yours. Generate your security deposit demand letter in 60 seconds at Deposits-Back.com for just $19.99\u2014no signup, no subscription required.",
+        "target_audience": "Frustrated US renters dealing with landlords who are withholding, delaying, or wrongfully deducting from their security deposits",
+        "word_count_target": 800,
+        "social_hooks": {
+          "tiktok_reels": [
+            {
+              "hook": "Your landlord has 21 days to return your deposit. It's day 22. What now?",
+              "script": "You left the apartment spotless. You have the photos. But your landlord is ghosting you and keeping your two thousand dollars. Before you pay a lawyer three hundred bucks an hour, try this. Go to Deposits-Back.com. Answer a few quick questions. In sixty seconds, you get a professional demand letter that shows you know your rights. Nineteen ninety-nine. No signup. No subscription. Just your money back.",
+              "caption": "Stop letting your landlord steal your deposit \ud83d\uded1\ud83d\udcb0 #securitydeposit #rentersrights #landlord #tenant #depositsback #rentingtips #moneyback",
+              "duration_seconds": 30
+            },
+            {
+              "hook": "POV: Your landlord says 'I'm keeping your deposit for normal wear and tear.'",
+              "script": "That's illegal. Normal wear and tear is not deductible. But arguing over text won't work. You need a formal demand letter. Deposits-Back dot com generates one in sixty seconds for nineteen ninety-nine. No signup. No monthly fees. Just a letter that makes your landlord take you seriously. Link in bio.",
+              "caption": "Know your rights \u2705 Normal wear and tear is NOT a valid deduction. #tenantrights #securitydeposit #landlord #renting #depositsback",
+              "duration_seconds": 25
+            },
+            {
+              "hook": "My landlord won't give me my deposit back. Should I hire a lawyer?",
+              "script": "Small claims court takes months. Lawyers cost hundreds per hour. Here's the hack. Deposits-Back dot com writes your demand letter for nineteen ninety-nine. Sixty seconds. No signup. No subscription. It shows your landlord you mean business, and most of the time, that's all it takes. Get your deposit back today.",
+              "caption": "Save this for when you move out \ud83d\udccc #rentinghacks #securitydeposit #landlordproblems #tenant #moneytips #depositsback",
+              "duration_seconds": 30
+            },
+            {
+              "hook": "Stop letting your landlord keep your security deposit.",
+              "script": "They bank on you doing nothing. Don't. Document everything. Then go to Deposits-Back dot com. In under a minute, send a legally sound demand letter. Nineteen ninety-nine. No signup. Get what's yours.",
+              "caption": "Your deposit belongs to YOU \ud83d\udd11 #renters #apartmentliving #securitydeposit #landlord #depositsback #legalhack",
+              "duration_seconds": 20
+            },
+            {
+              "hook": "What to do when your landlord doesn't return your deposit in 30 days.",
+              "script": "Step one: stop panicking. Step two: know your state laws. Step three: send a demand letter from Deposits-Back dot com in sixty seconds. It's only nineteen ninety-nine. There's no signup and no subscription. Protect your rights without the headache. Link in bio.",
+              "caption": "Step-by-step guide to getting your deposit back \ud83d\udccb #rentersrights #securitydeposit #apartment #depositsback #legal",
+              "duration_seconds": 25
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

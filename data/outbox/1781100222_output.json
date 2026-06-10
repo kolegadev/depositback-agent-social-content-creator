@@ -1,0 +1,35 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1781100108",
+  "timestamp": "2026-06-10T14:03:42.243509+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Here's How to Get It Back Fast",
+        "meta_description": "Is your landlord withholding your security deposit? Know your tenant rights and demand your money back in 60 seconds\u2014no lawyer, no signup, just $19.99.",
+        "content_outline": [
+          "The Real Reason Landlords Withhold Security Deposits (And Why They Get Away With It)",
+          "Can My Landlord Keep My Security Deposit? Know the Legal Deductions",
+          "How Long Is My Landlord Required to Return My Deposit by State",
+          "My Landlord Won't Give Me My Deposit Back: 3 Immediate Steps to Take",
+          "Why a Security Deposit Dispute Letter Works Better Than a Phone Call",
+          "The 60-Second Fix: Send a Demand Letter with No Sign-Up or Subscription",
+          "When to Escalate to Small Claims Court (and How Your Letter Helps)"
+        ],
+        "key_points": [
+          "Most states require landlords to return security deposits within 14 to 30 days; missing this deadline is often illegal.",
+          "Landlords cannot deduct for normal wear and tear\u2014only actual damage beyond ordinary use and unpaid rent.",
+          "A written demand creates a legal paper trail and frequently forces repayment before costly court action.",
+          "Deposits-Back.com lets tenants generate a professional deposit demand letter in 60 seconds for $19.99 with zero sign-up.",
+          "Documenting move-out photos, receipts, and state laws strengthens your case if the landlord continues withholding."
+        ],
+        "cta": "Stop letting your landlord hold your money hostage. Create a professional deposit demand letter on Deposits-Back.com in 60 seconds for just $19.99\u2014no sign-up, no subscription, no stress.",
+        "target_audience": "Frustrated US renters who are problem-aware, actively searching for what to do when a landlord is withholding, keeping, or not returning a security deposit, and need an immediate, low-cost solution without hiring a lawyer.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

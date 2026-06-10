@@ -1,0 +1,60 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1781129084",
+  "timestamp": "2026-06-10T22:07:21.600206+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "social_hooks_and_scripts": {
+          "tiktok_reels_hooks": [
+            "It's been 45 days since you moved out and your landlord is ghosting you. That's illegal. \ud83d\udcf5\ud83d\udcb8",
+            "Your landlord charged you $400 for 'cleaning.' Normal wear and tear is NOT deductible. \u26a0\ufe0f",
+            "POV: You scrubbed every surface but your landlord still kept your $2,000 deposit.",
+            "That security deposit isn't a bonus check for your landlord. Let's get it back in 60 seconds. \u26a1",
+            "Stop sending angry texts. Start sending legal demand letters. $19.99. No lawyer needed."
+          ],
+          "short_form_scripts": [
+            {
+              "title": "The Ghosting Landlord",
+              "duration": "15-20 sec",
+              "script": "Hook: 45 days. No deposit. No explanation. Text overlay: 'Illegal in most states.' Body: You don't need a lawyer\u2014you need a demand letter. Deposits-Back.com generates yours in 60 seconds for $19.99. No signup. No subscription. CTA: Link in bio. Get your money back."
+            },
+            {
+              "title": "The Fake Cleaning Fee",
+              "duration": "15-20 sec",
+              "script": "Hook: Your landlord deducted $400 for 'cleaning.' Text overlay: 'Receipts required by law.' Body: If they can't prove damages, they can't keep your cash. Fire off a state-compliant dispute letter in 60 seconds at Deposits-Back.com. CTA: Tap the link\u2014only $19.99."
+            },
+            {
+              "title": "Stop the Silent Theft",
+              "duration": "20-30 sec",
+              "script": "Hook: The average renter loses $1,200 to shady deposit deductions. Text overlay: 'Not you.' Body: Stop arguing. Start documenting. Then send a professional demand letter from Deposits-Back.com in less time than it takes to make coffee. $19.99. 60 seconds. Your money. CTA: Link in bio."
+            }
+          ]
+        },
+        "content_brief": {
+          "title": "Landlord Withholding Your Security Deposit? Get It Back in 60 Seconds",
+          "meta_description": "Is your landlord withholding your security deposit? Demand it back legally in 60 seconds for $19.99 at Deposits-Back.com\u2014no signup or subscription needed.",
+          "content_outline": [
+            "The Silent Theft: Why Landlords Get Away With Withholding Deposits",
+            "Know Your Rights: What a Landlord Can and Cannot Deduct",
+            "From Frustration to Action: Sending Your Demand Letter in 60 Seconds",
+            "What Happens After the Letter: Timelines and Next Steps"
+          ],
+          "key_points": [
+            "Most states require landlords to return security deposits within 14 to 60 days",
+            "Normal wear and tear, cleaning fees without receipts, and vague 'damages' are often illegal deductions",
+            "Deposits-Back.com generates a legally sound demand letter in 60 seconds for a one-time $19.99 fee",
+            "No signup, no subscription, and no attorney required to demand your deposit back",
+            "A formal letter of demand significantly increases landlord compliance and can trigger penalty payments"
+          ],
+          "cta": "Stop waiting for your landlord to do the right thing. Send a professional security deposit demand letter in 60 seconds for just $19.99 at Deposits-Back.com\u2014no signup, no subscription, no stress.",
+          "target_audience": "Frustrated US renters whose landlords are illegally withholding, delaying, or wrongfully deducting from their security deposit and need a fast, affordable legal tool to demand repayment",
+          "word_count_target": 800
+        }
+      }
+    }
+  ]
+}

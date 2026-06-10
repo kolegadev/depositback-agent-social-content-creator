@@ -1,0 +1,59 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1781112893",
+  "timestamp": "2026-06-10T17:37:55.112041+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? How to Demand It Back Fast (Legally)",
+        "meta_description": "Is your landlord withholding your security deposit? Learn your tenant rights and send a legal demand letter in 60 seconds for just $19.99. No signup needed.",
+        "content_outline": [
+          "The Security Deposit Problem: Why Landlords Wrongfully Withhold",
+          "What Your Landlord Can (and Cannot) Legally Deduct",
+          "State-by-State Timeline: How Long They Have to Return It",
+          "DIY Demand Letter vs. Lawyer: The $19.99 Solution",
+          "Step-by-Step: How to Send Your Letter in 60 Seconds"
+        ],
+        "key_points": [
+          "Most states require landlords to return deposits within 14\u201330 days and provide an itemized deduction list",
+          "Normal wear and tear, routine cleaning, and vague 'repair' charges are generally not legally deductible",
+          "A formal demand letter is often the fastest way to force compliance before escalating to small claims court",
+          "Deposits-Back.com generates state-specific, legally compliant demand letters instantly for $19.99 with no signup or subscription"
+        ],
+        "cta": "Don't let your landlord keep what's yours. Generate your legally compliant security deposit demand letter at Deposits-Back.com in 60 seconds \u2014 just $19.99, no signup, no subscription.",
+        "target_audience": "Frustrated US renters whose landlords are withholding, delaying, or wrongfully deducting from their security deposits",
+        "word_count_target": 800,
+        "social_hooks": [
+          "POV: You moved out 3 months ago and your landlord is still 'processing' your $2,000 deposit \ud83d\ude24",
+          "Your landlord said they'd deduct for 'normal wear and tear.' That's illegal. Here's what to do next \u2696\ufe0f\ud83d\udcec",
+          "Stop arguing in the group chat. This $19.99 letter got my full deposit back in 10 days \ud83d\udcb0\u2705",
+          "If your landlord hasn't returned your deposit in 30 days, they might owe you DOUBLE. Demand it back now \ud83d\udea8",
+          "They kept my security deposit for 'cleaning.' I sent this letter. They sent my money back. $19.99. 60 seconds. No lawyer needed \ud83e\uddfe"
+        ],
+        "short_form_scripts": [
+          {
+            "duration": "15 seconds",
+            "hook": "My landlord kept my $1,800 deposit for 'repairs'...",
+            "body": "I left the apartment spotless. Instead of hiring a lawyer for $500, I used Deposits-Back.com. Legally sound demand letter. 60 seconds. $19.99. No signup. Full refund in 10 days.",
+            "cta": "Link in bio. Get what's yours."
+          },
+          {
+            "duration": "30 seconds",
+            "hook": "Is your landlord withholding your deposit? This is illegal if...",
+            "body": "They deduct for normal wear and tear. They miss the state deadline. They never send an itemized list. Stop arguing in DMs. Send a formal demand letter in 60 seconds at Deposits-Back.com.",
+            "cta": "Comment DEPOSIT and I'll DM you the link."
+          },
+          {
+            "duration": "15 seconds",
+            "hook": "Before: 47 unanswered texts. After: $2,400 returned in 8 days.",
+            "body": "The difference? A professional demand letter from Deposits-Back.com. State-specific. Legally compliant. Just $19.99. No subscription.",
+            "cta": "Link in bio to start now."
+          }
+        ]
+      }
+    }
+  ]
+}

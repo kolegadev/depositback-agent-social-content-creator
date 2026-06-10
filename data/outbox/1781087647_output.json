@@ -1,0 +1,82 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1781087542",
+  "timestamp": "2026-06-10T10:34:07.345430+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Here's How to Get It Back in 60 Seconds",
+        "meta_description": "Landlord withholding your security deposit? Know your rights and send a legally sound demand letter in 60 seconds for just $19.99\u2014no signup needed.",
+        "content_outline": [
+          "Understanding the Deadline: How Long Your Landlord Really Has to Return Your Deposit",
+          "Illegal Deductions: What Your Landlord Can and Cannot Charge You For",
+          "The 60-Second Solution: Sending a Formal Demand Letter Without a Lawyer"
+        ],
+        "key_points": [
+          "Most US states require landlords to return security deposits within 14 to 60 days after move-out.",
+          "Landlords cannot deduct for normal wear and tear; only actual damage beyond ordinary use or unpaid rent.",
+          "Sending a formal letter of demand is the fastest, most effective first step before small claims court.",
+          "Deposits-Back.com generates a state-specific security deposit demand letter in 60 seconds for a flat $19.99 with no signup or subscription."
+        ],
+        "cta": "Stop waiting. Generate your state-specific security deposit demand letter at Deposits-Back.com in 60 seconds for just $19.99\u2014no subscription, no signup required.",
+        "target_audience": "Frustrated US renters dealing with a landlord who is withholding, delaying, or wrongfully deducting their security deposit.",
+        "word_count_target": 800,
+        "social_hooks": [
+          {
+            "platform": "TikTok/Reels",
+            "hook": "POV: It's been 45 days since move-out and your landlord finally replies... 'I'm keeping it for cleaning.'"
+          },
+          {
+            "platform": "TikTok/Reels",
+            "hook": "Is your landlord withholding your security deposit? They're betting you won't do this one thing."
+          },
+          {
+            "platform": "TikTok/Reels",
+            "hook": "My landlord said I wouldn't get my deposit back because I broke the lease. Then I sent THIS letter."
+          },
+          {
+            "platform": "TikTok/Reels",
+            "hook": "What to do when your landlord doesn't return your deposit: stop begging and start demanding."
+          },
+          {
+            "platform": "TikTok/Reels",
+            "hook": "Landlord not returning your deposit? This $19.99 letter got me my $1,800 back in 10 days."
+          }
+        ],
+        "short_form_scripts": [
+          {
+            "duration": "15 seconds",
+            "lines": {
+              "hook": "Your landlord is withholding your security deposit.",
+              "problem": "You don't need a lawyer.",
+              "solution": "Deposits-Back.com writes your demand letter in 60 seconds.",
+              "cta": "$19.99, no signup. Link in bio."
+            }
+          },
+          {
+            "duration": "30 seconds",
+            "lines": {
+              "hook": "POV: You left your apartment spotless, but your landlord is charging you $600 for 'normal wear and tear.'",
+              "problem": "That's illegal, but most tenants just accept it.",
+              "solution": "Fight back with a formal demand letter from Deposits-Back.com. State-specific, lawyer-crafted, ready in 60 seconds.",
+              "cta": "Get your deposit back for $19.99 flat. No subscription. Link in bio."
+            }
+          },
+          {
+            "duration": "60 seconds",
+            "lines": {
+              "hook": "My landlord didn't return my $2,000 security deposit for 3 months.",
+              "problem": "I thought I had to hire a lawyer or go to court.",
+              "solution": "Instead, I used Deposits-Back.com. I answered a few questions, and in 60 seconds I had a formal demand letter.",
+              "result": "My landlord paid me in full 8 days later.",
+              "cta": "If your landlord is keeping your deposit, don't wait. Click the link. $19.99, no signup."
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

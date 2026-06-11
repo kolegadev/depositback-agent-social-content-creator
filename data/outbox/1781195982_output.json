@@ -1,0 +1,57 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1781195770",
+  "timestamp": "2026-06-11T16:39:42.909465+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Get It Back in 60 Seconds",
+        "meta_description": "Is your landlord withholding your security deposit? Learn your tenant rights and send a legally demanding letter in 60 seconds for just $19.99. No signup needed.",
+        "content_outline": [
+          "The Real Reason Landlords Withhold Security Deposits (And Get Away With It)",
+          "What Your Landlord Can and Cannot Legally Deduct",
+          "How to Respond When Your Deposit Isn't Returned",
+          "The Fastest Way to Demand Your Deposit Back: A 60-Second Solution",
+          "State-by-State Deadlines: How Long Landlords Have to Return Your Money"
+        ],
+        "key_points": [
+          "Most landlords withhold deposits hoping tenants won't fight back because hiring a lawyer costs too much",
+          "Normal wear and tear, carpet cleaning, and repainting cannot be deducted from your security deposit in most states",
+          "Deposits-Back.com lets you generate a legally sound demand letter in 60 seconds for a one-time $19.99 fee with no subscription or account required",
+          "Sending a formal demand letter shows you know your rights and often forces immediate repayment without going to court",
+          "Each state has specific deadlines ranging from 14 to 60 days for landlords to return deposits or provide an itemized deduction list"
+        ],
+        "cta": "Don't let your landlord keep what's yours. Generate your deposit demand letter in 60 seconds for $19.99\u2014no signup, no subscription, just results.",
+        "target_audience": "Frustrated US renters whose landlords are withholding, delaying, or wrongfully deducting from their security deposits and want a fast, affordable legal solution without hiring an attorney",
+        "word_count_target": 800,
+        "social_hooks": [
+          "POV: You moved out 60 days ago and your landlord just texted 'the check is in the mail' for the 4th time",
+          "My landlord tried to charge me $800 for a 'paint touch-up.' I sent one letter and got every penny back.",
+          "Your landlord legally cannot keep your deposit for normal wear and tear. Most tenants don't know this.",
+          "Stop arguing with your landlord in the group chat. Here's how I got my $2,400 deposit back in 5 days with one letter.",
+          "Landlords bank on you being too tired to fight. This $19.99 letter changes everything\u2014no lawyer needed.",
+          "If your landlord hasn't returned your deposit within 30 days, they're probably breaking the law. Do this next.",
+          "I almost paid $300 for a lawyer to get my deposit back. Then I found this 60-second hack.",
+          "Security deposit horror story: They charged me for 'dust.' The dispute letter I sent shut that down immediately."
+        ],
+        "short_form_scripts": [
+          {
+            "hook": "Your landlord is withholding your deposit and hoping you do nothing.",
+            "script": "[0-3s] Text on screen: 'Landlord hasn't returned your deposit?' [3-7s] 'They legally can't keep it for normal wear and tear.' [7-12s] 'But they will\u2014unless you send a demand letter.' [12-18s] 'Deposits-Back.com generates one in 60 seconds. $19.99. No signup. No subscription.' [18-20s] 'Link in bio. Get your money back.'"
+          },
+          {
+            "hook": "I got my full deposit back after my landlord said 'no.'",
+            "script": "[0-3s] Hook: 'My landlord kept my $1,800 for fake cleaning fees.' [3-8s] 'I didn't hire a lawyer. I didn't go to court.' [8-15s] 'I used Deposits-Back.com to send a formal demand letter in under a minute.' [15-18s] 'Five days later? Full refund.' [18-20s] 'Stop letting landlords steal from you. Link in bio.'"
+          },
+          {
+            "hook": "Is your landlord doing this illegal move?",
+            "script": "[0-3s] Text: 'Landlord withholding deposit > 30 days?' [3-7s] 'In most states, that's automatically illegal.' [7-13s] 'You don't need to argue. You need a letter that cites the law.' [13-19s] 'Deposits-Back.com. $19.99. 60 seconds. Done.' [19-20s] 'Get yours now.'"
+          }
+        ]
+      }
+    }
+  ]
+}

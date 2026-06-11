@@ -1,0 +1,40 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1781148929",
+  "timestamp": "2026-06-11T03:38:16.882181+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "10 Viral TikTok & Reel Hooks for Tenants Fighting Deposit Theft",
+        "meta_description": "Viral TikTok & Reel hooks for tenants fighting deposit theft. Copy-paste scripts + CTAs to drive traffic to Deposits-Back.com. Get your deposit back.",
+        "content_outline": [
+          "Introduction: Why 'Deposit Theft' Content Stops the Scroll",
+          "Hook 1: POV \u2014 The Phantom Deposit (landlord withholding security deposit)",
+          "Hook 2: The Illegal Delay (landlord not returning deposit)",
+          "Hook 3: Fabricated Damages (my landlord won't give me my deposit back)",
+          "Hook 4: Stop Scrolling \u2014 Ghosted Deposit (security deposit not returned)",
+          "Hook 5: 3-Step Action Plan (what to do when landlord doesn't return deposit)",
+          "Hook 6: The Legal Shock (can landlord keep security deposit)",
+          "Hook 7: Deadline Awareness (is my landlord required to return my deposit)",
+          "Hook 8: Know Your Rights (tenant rights security deposit)",
+          "Hook 9: Bogus Deductions (what can landlord deduct from security deposit)",
+          "Hook 10: The 72-Hour Win (security deposit dispute letter)",
+          "Best Practices for Text-on-Screen, Audio, and Transitions",
+          "CTA Strategy: Converting Views into $19.99 Sales at Deposits-Back.com"
+        ],
+        "key_points": [
+          "Open with high-emotion text (anger, shock, betrayal) in the first 1-3 seconds to beat the scroll.",
+          "Pair each hook with a 15-30 second script that names the problem, agitates the pain, and offers Deposits-Back.com as the instant fix.",
+          "Reinforce the core value props in every CTA: $19.99 flat fee, 60-second letter, no signup, no subscription.",
+          "Use state-specific language and deadlines to build trust and signal algorithmic relevance to US renters."
+        ],
+        "cta": "Stop letting your landlord steal your deposit. Create your state-specific demand letter in 60 seconds for just $19.99\u2014no signup, no subscription. Visit Deposits-Back.com now.",
+        "target_audience": "Frustrated US renters aged 22-35 active on TikTok and Instagram Reels who are dealing with a landlord withholding, deducting, or refusing to return their security deposit.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

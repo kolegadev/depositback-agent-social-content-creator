@@ -1,0 +1,72 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1781304578",
+  "timestamp": "2026-06-12T22:51:00.733451+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "social_hooks": [
+          {
+            "platform": "TikTok/Reels",
+            "hook": "POV: You deep-cleaned the entire apartment but your landlord still kept your $2,000 deposit...",
+            "script": "[Show spotless apartment tour] \"Normal wear and tear is NOT deductible. If your landlord is withholding your security deposit for fake charges, stop arguing over text. Send a formal demand letter in 60 seconds at Deposits-Back.com. $19.99. No signup. No subscription. Just your money back.\"",
+            "keyword_target": "landlord withholding security deposit",
+            "visual_notes": "Before/after clean apartment, text overlay with state law timer"
+          },
+          {
+            "platform": "TikTok/Reels",
+            "hook": "My landlord said 'the check is in the mail' for 3 months straight...",
+            "script": "[Show fake text messages scrolling] \"Landlord not returning your deposit? Most states give them 14 to 30 days max. After that, they're breaking the law. You don't need a lawyer. You need proof. Hit Deposits-Back.com, answer a few questions, and send a state-compliant demand letter in under 60 seconds. Flat fee: $19.99.\"",
+            "keyword_target": "landlord not returning deposit",
+            "visual_notes": "Green screen of text convo, frustrated face, pointing to caption"
+          },
+          {
+            "platform": "TikTok/Reels",
+            "hook": "Can my landlord legally keep my security deposit? *Wrong answers only*",
+            "script": "[Green screen of lease agreement] \"Wrong: 'cleaning fees.' Wrong: 'repainting.' Wrong: 'because I feel like it.' Truth is, they can only deduct actual damage beyond normal wear. If they're wrongfully keeping yours, fight back with a demand letter. Deposits-Back.com. 60 seconds. $19.99. No sign-up required.\"",
+            "keyword_target": "can landlord keep security deposit",
+            "visual_notes": "Green screen lease, big red X over fake deductions, fast cuts"
+          },
+          {
+            "platform": "TikTok/Reels",
+            "hook": "What to ACTUALLY do when your landlord won't return your deposit (no lawyer needed)",
+            "script": "[Talking head, pointing to numbered list] \"Step 1: Document the move-out condition. Step 2: Check your state's deadline. Step 3: Send a formal security deposit dispute letter. I used Deposits-Back.com. Took 60 seconds. Cost $19.99. No subscription. My landlord sent my money 5 days later. Link in bio.\"",
+            "keyword_target": "what to do when landlord doesn't return deposit",
+            "visual_notes": "Pointing to captions, timer overlay, screenshot of demand letter"
+          },
+          {
+            "platform": "TikTok/Reels",
+            "hook": "Tenant rights they pray you never find out about...",
+            "script": "[Fast-paced text on screen] \"They can't keep your deposit for 'general cleaning.' They can't ignore state return deadlines. And they definitely can't ghost you. Know your tenant rights. Then enforce them. Send a demand letter at Deposits-Back.com in 60 seconds for just $19.99. No account needed. Get paid.\"",
+            "keyword_target": "tenant rights security deposit",
+            "visual_notes": "Dramatic lighting, bold text pop-ups, finger to lips gesture"
+          }
+        ],
+        "title": "Landlord Withholding Your Security Deposit? Get It Back in 60 Seconds",
+        "meta_description": "Is your landlord withholding your security deposit? Learn your tenant rights and send a demand letter in 60 seconds for only $19.99. No signup needed.",
+        "content_outline": [
+          "Introduction: Why Landlords Bank on Tenants Giving Up",
+          "Know Your Rights: What Landlords Can and Cannot Deduct",
+          "State Deadlines: How Long Landlords Have to Return Your Deposit",
+          "The Power of a Formal Demand Letter",
+          "How Deposits-Back.com Works: 60 Seconds, $19.99, No Sign-Up",
+          "What to Do If Your Landlord Still Refuses",
+          "Conclusion: Stop Waiting and Start Demanding"
+        ],
+        "key_points": [
+          "Most states require landlords to return security deposits within 14 to 30 days",
+          "Normal wear and tear, routine cleaning, and standard repainting are not legally deductible in most jurisdictions",
+          "A professionally written demand letter often resolves disputes without going to court",
+          "Deposits-Back.com generates state-specific demand letters in 60 seconds for a flat $19.99 fee with no subscription or account required",
+          "Tenants who document move-out conditions and act within state timelines have the strongest claims"
+        ],
+        "cta": "Stop letting your landlord hold your money hostage. Generate your state-specific security deposit demand letter in 60 seconds at Deposits-Back.com for just $19.99 \u2014 no sign-up, no subscription, just results.",
+        "target_audience": "Frustrated US renters whose landlords are wrongfully withholding, delaying, or refusing to return security deposits and who need fast, affordable help without hiring an attorney.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

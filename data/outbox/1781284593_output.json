@@ -1,0 +1,62 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1781284517",
+  "timestamp": "2026-06-12T17:16:33.227200+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Here's the Exact Letter to Get It Back",
+        "meta_description": "Is your landlord withholding your security deposit? Learn your tenant rights and send a legally sound demand letter in 60 seconds for only $19.99.",
+        "content_outline": [
+          "The Real Reasons Landlords Withhold Security Deposits (And What's Illegal)",
+          "Tenant Rights: Timeline and Deduction Rules by State",
+          "How to Write a Security Deposit Demand Letter That Actually Works",
+          "Escalating Your Claim: From Letter to Small Claims Court",
+          "Get Your Money Back in 60 Seconds\u2014No Lawyer Required"
+        ],
+        "key_points": [
+          "Most states require landlords to return security deposits within 14\u201330 days with an itemized deduction list.",
+          "Landlords cannot legally deduct for normal wear and tear, routine cleaning, or pre-existing damage.",
+          "A formal demand letter is the fastest, most effective way to recover funds before escalating to court.",
+          "Deposits-Back.com lets tenants generate a state-compliant demand letter in 60 seconds for a one-time $19.99 fee\u2014no signup or subscription."
+        ],
+        "cta": "Stop waiting and start demanding. Generate your official security deposit demand letter in 60 seconds for just $19.99\u2014no signup, no subscription, no stress.",
+        "target_audience": "Frustrated US renters whose landlords are wrongfully withholding, delaying, or deducting from their security deposit and need immediate, affordable legal leverage.",
+        "word_count_target": 800,
+        "social_hooks": [
+          "POV: You moved out 45 days ago and your landlord just ghosted you... but kept your $2,000 deposit. \ud83d\ude24",
+          "Your landlord legally CANNOT keep your deposit for this. \ud83d\udea9 #TenantTips",
+          "I got my full deposit back 48 hours after sending THIS letter. \ud83d\udcec\u2705",
+          "Stop *asking* for your deposit back. Start *demanding* it. \ud83d\udcb0",
+          "3 'damages' your landlord is charging for that are actually illegal. Number 2 will make you check your lease. \ud83d\udc47"
+        ],
+        "short_form_scripts": [
+          {
+            "platform": "TikTok/Reels",
+            "duration": "15-30s",
+            "hook": "Your landlord has 21 days to return your deposit. If they don't, you could sue for double or triple damages.",
+            "body": "But before you sue, you need to send a demand letter. Not a text. Not an email. A formal legal letter that cites state law. Deposits-Back.com builds it for you in 60 seconds.",
+            "cta": "Just $19.99, no signup, no subscription. Link in bio to get your deposit back now."
+          },
+          {
+            "platform": "TikTok/Reels",
+            "duration": "15-30s",
+            "hook": "'Normal wear and tear.' Your landlord CANNOT deduct this. Period.",
+            "body": "Scuffed floors? Small nail holes? Faded paint? That's normal wear. If your landlord is charging hundreds for 'cleaning,' they're scamming you. Fight back with a dispute letter.",
+            "cta": "Generate yours in under a minute at Deposits-Back.com. $19.99 flat. Link in bio."
+          },
+          {
+            "platform": "TikTok/Reels",
+            "duration": "30-45s",
+            "hook": "My landlord said I wasn't getting my $1,800 back because of 'damages.'",
+            "body": "I sent a demand letter through Deposits-Back.com. It cited my state's tenant laws and gave them a 7-day deadline. Two days later, the full deposit hit my account. No lawyer. No court date. Just a letter that made them realize I knew my rights.",
+            "cta": "If your landlord is holding your deposit hostage, get your letter now. 60 seconds. $19.99. No signup."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1781292240",
+  "timestamp": "2026-06-12T19:25:25.352373+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "10 Viral TikTok & Reel Hooks for Tenants Fighting Back on Security Deposits",
+        "meta_description": "Frustrated because your landlord won't return your deposit? These problem-aware TikTok hooks turn tenant anger into action\u2014and recover your money fast.",
+        "content_outline": [
+          "HOOK 1: The Deadline Shock \u2014 'Your landlord legally has 21\u201330 days to return your deposit. If they missed it, they might owe you DOUBLE. Let me show you the 60-second fix.'",
+          "HOOK 2: The Fake Cleaning Fee \u2014 'POV: Your landlord just charged you $800 for 'cleaning' that was just normal wear and tear. That's illegal. Here's the letter that gets it back.'",
+          "HOOK 3: The 'Normal Wear and Tear' Lie \u2014 'Can a landlord keep your deposit for a scuff on the wall? NO. Stop letting them steal your money with fake damage charges.'",
+          "HOOK 4: The Ghost Landlord \u2014 'You moved out three weeks ago. Crickets. No deposit, no itemized list, nothing. Here's what to do when your landlord doesn't return your deposit.'",
+          "HOOK 5: The Illegal Withhold \u2014 'Your landlord said they're keeping your deposit because you broke the lease? Unless it's unpaid rent, they probably can't. Demand it back in 60 seconds.'",
+          "HOOK 6: The Math Doesn't Math \u2014 'They sent you a $50 receipt and kept $1,500. If your landlord is withholding your security deposit without proof, you can dispute every penny.'",
+          "HOOK 7: The Demand Letter Power Move \u2014 'You don't need a lawyer. You need a security deposit dispute letter that scares your landlord. $19.99. No signup. Done in a minute.'",
+          "HOOK 8: Double or Nothing \u2014 'Most tenants don't know this: if your landlord doesn't return your deposit on time, state law says they might owe you 2x\u20133x the amount. Check your state.'",
+          "HOOK 9: The 'Required to Return' Reminder \u2014 'Your landlord IS required to return your deposit. No, they can't keep it for 'repairs' that don't exist. Here's your tenant rights cheat sheet.'",
+          "HOOK 10: The 60-Second Fix \u2014 'Stop texting your landlord. Stop calling. Send a legally backed demand letter at Deposits-Back.com for $19.99 and get your deposit back without the stress.'"
+        ],
+        "key_points": [
+          "Lead with rage-inducing specifics: exact dollar amounts, missed legal deadlines, and illegal deductions to stop the scroll.",
+          "Promise a fast, confrontational-free solution\u2014a $19.99 demand letter generated in 60 seconds with no signup or subscription required.",
+          "Inject problem-aware keywords naturally into on-screen text and captions to capture SEO value on social search.",
+          "Target the 'anxiety window'\u2014tenants 2\u20136 weeks post-move-out who are facing radio silence or bogus itemized deduction lists.",
+          "Use high-emotion POV formats and rhetorical questions that mirror exactly what frustrated tenants are Googling at 2 AM."
+        ],
+        "cta": "Stop arguing with your landlord. Send a legally backed demand letter in 60 seconds at Deposits-Back.com for just $19.99\u2014no signup, no subscription, just your money back.",
+        "target_audience": "US renters aged 22\u201340 who have recently moved out and are experiencing radio silence, illegal deduction notices, or outright refusal from their landlord regarding their security deposit return.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

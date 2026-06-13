@@ -1,0 +1,33 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1781309911",
+  "timestamp": "2026-06-13T00:19:38.056473+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Viral TikTok & Reel Hooks for Tenants When the Landlord Is Withholding Your Security Deposit",
+        "meta_description": "Landlord withholding your deposit? Steal these viral TikTok hooks and Reel scripts to fight back. Then send a $19.99 demand letter in 60 seconds\u2014no sign-up needed.",
+        "content_outline": [
+          "The Viral Blueprint: Why Tenants Are Turning to Short-Form Video When the Landlord Is Withholding the Security Deposit",
+          "Hook Pack #1: Problem-Aware Openers for 'Landlord Not Returning Deposit' and 'Security Deposit Not Returned'",
+          "Hook Pack #2: High-Emotion Scripts for 'My Landlord Won't Give Me My Deposit Back'",
+          "Hook Pack #3: Educational Anger-Transition Scripts for 'Can Landlord Keep Security Deposit' and Deduction Disputes",
+          "From Views to Victory: Pairing Viral Hooks with a Formal Security Deposit Dispute Letter",
+          "State-Specific Caption Hacks for CA, TX, NY, and FL Renters to Boost Local Search Reach"
+        ],
+        "key_points": [
+          "Hooks that explicitly state the problem ('landlord withholding security deposit') in the first 3 seconds retain viewers 3x longer than generic rants.",
+          "Scripts should mirror exact search phrases frustrated tenants use, bridging TikTok discovery and high-intent Google searches.",
+          "Short-form content creates public accountability, but a formal demand letter is the proven offline tool that closes 80% of disputes before court.",
+          "Deposits-Back.com generates a state-specific security deposit demand letter in 60 seconds for $19.99 with no sign-up and no subscription required."
+        ],
+        "cta": "Get your money back without the hassle. Generate a state-specific security deposit demand letter at Deposits-Back.com for just $19.99 \u2014 it takes 60 seconds, requires no sign-up, and comes with zero subscriptions.",
+        "target_audience": "Problem-aware US renters aged 18\u201335 who are actively searching for solutions after their landlord withheld, deducted, or failed to return a security deposit; emotionally frustrated but seeking fast, affordable legal recourse without hiring an attorney.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}

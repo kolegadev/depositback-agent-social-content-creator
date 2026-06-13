@@ -1,0 +1,58 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1781372747",
+  "timestamp": "2026-06-13T17:47:22.160998+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Here\u2019s How to Fight Back in 60 Seconds",
+        "meta_description": "Is your landlord withholding your security deposit? Learn your tenant rights and send a demand letter in 60 seconds for just $19.99\u2014no sign-up needed.",
+        "content_outline": [
+          "Why Landlords Illegally Withhold Security Deposits (And Get Away With It)",
+          "State-by-State Tenant Rights: Deadlines and Deduction Rules",
+          "The 60-Second Fix: How a Demand Letter Gets Your Money Back Fast"
+        ],
+        "key_points": [
+          "Most states require landlords to return security deposits within 14\u201330 days and provide an itemized deduction list.",
+          "A formal demand letter citing state law is often the fastest, most effective way to force a landlord to return your deposit.",
+          "Deposits-Back.com lets you generate and send a legally sound security deposit demand letter in 60 seconds for a flat $19.99\u2014no sign-up, no subscription."
+        ],
+        "cta": "Stop letting your landlord keep what\u2019s yours. Generate your deposit demand letter in 60 seconds for $19.99 at Deposits-Back.com\u2014no sign-up, no subscription.",
+        "target_audience": "Frustrated US renters whose landlords are wrongfully withholding, delaying, or deducting from their security deposit.",
+        "word_count_target": 800,
+        "tiktok_hooks": [
+          "POV: Your landlord is withholding your security deposit but you know your rights \ud83e\uddfe\u2696\ufe0f",
+          "My landlord won\u2019t give me my deposit back\u2026 so I sent THIS letter \ud83d\udce8\ud83d\udcb0",
+          "Landlord not returning your deposit? Don\u2019t beg. Do this instead. \u2b07\ufe0f",
+          "Is your landlord illegally keeping your security deposit? This is your sign to fight back \u270a",
+          "Stop asking \u2018can my landlord keep my security deposit?\u2019 Start sending this \ud83d\udc47"
+        ],
+        "short_form_scripts": [
+          {
+            "hook": "Your landlord is withholding your security deposit.",
+            "script": "[Hook] Your landlord is withholding your security deposit. [Problem] They think you\u2019ll just forget about it or give up. [Solution] You don\u2019t need a lawyer. You need a demand letter. [CTA] Go to Deposits-Back.com. Send a legally sound letter in 60 seconds. $19.99. No sign-up. Get your money back."
+          },
+          {
+            "hook": "My landlord won\u2019t return my deposit.",
+            "script": "[Hook] My landlord won\u2019t return my deposit. [Problem] I cleaned everything. No damages. Still nothing after 30 days. [Solution] I used Deposits-Back.com to generate a deposit dispute letter. [CTA] $19.99. 60 seconds. No subscription. Link in bio."
+          },
+          {
+            "hook": "What to do when your landlord doesn\u2019t return your deposit?",
+            "script": "[Hook] What to do when your landlord doesn\u2019t return your deposit? [Problem] Most tenants don\u2019t know their state gives them specific rights. [Solution] A formal letter of demand puts the law on your side. [CTA] Deposits-Back.com. 60 seconds. Get your deposit back."
+          },
+          {
+            "hook": "Can a landlord keep your security deposit for normal wear and tear?",
+            "script": "[Hook] Can a landlord keep your security deposit for normal wear and tear? [Problem] No. But they\u2019ll try if you don\u2019t call them out. [Solution] Send a demand letter that cites your state\u2019s tenant laws. [CTA] Deposits-Back.com. $19.99. No sign-up required."
+          },
+          {
+            "hook": "Security deposit not returned within 30 days?",
+            "script": "[Hook] Security deposit not returned within 30 days? [Problem] That\u2019s illegal in most states. [Solution] Don\u2019t text. Don\u2019t call. Send a legal demand letter. [CTA] Deposits-Back.com. 60 seconds. Link in bio."
+          }
+        ]
+      }
+    }
+  ]
+}

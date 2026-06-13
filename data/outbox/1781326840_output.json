@@ -1,0 +1,71 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1781326800",
+  "timestamp": "2026-06-13T05:00:40.405281+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? How to Get It Back Fast",
+        "meta_description": "Is your landlord withholding your security deposit? Learn your tenant rights, what landlords can deduct, and how to send a demand letter in 60 seconds.",
+        "content_outline": [
+          "Is Your Landlord Illegally Withholding Your Security Deposit?",
+          "What Landlords Can and Cannot Deduct (By State Law)",
+          "State Deadlines: How Long Does a Landlord Have to Return Your Deposit?",
+          "How to Write a Security Deposit Dispute Letter That Gets Results",
+          "Escalating to Small Claims Court When Your Landlord Refuses"
+        ],
+        "key_points": [
+          "Most states require landlords to return security deposits within 14 to 30 days with an itemized deduction list",
+          "Normal wear and tear, age-related depreciation, and pre-existing damage cannot be legally deducted",
+          "A formal letter of demand is often the fastest, cheapest way to recover withheld deposits without hiring a lawyer",
+          "If a landlord misses the state deadline or withholds without proper notice, tenants may be entitled to double or triple damages"
+        ],
+        "cta": "Don't let your landlord keep what's yours. Generate your state-specific security deposit demand letter at Deposits-Back.com for just $19.99 \u2014 no sign-up, no subscription, and done in 60 seconds.",
+        "target_audience": "Frustrated US renters who have moved out and are experiencing a landlord withholding, delaying, or wrongfully deducting from their security deposit",
+        "word_count_target": 800,
+        "social_hooks": [
+          {
+            "platform": "TikTok/Reels",
+            "hook": "POV: You deep-cleaned the apartment, fixed every nail hole, and your landlord still kept your $2,000 deposit for 'cleaning fees'...",
+            "keyword_target": "landlord withholding security deposit"
+          },
+          {
+            "platform": "TikTok/Reels",
+            "hook": "It's been 45 days since you moved out. No deposit. No itemized list. Just radio silence. Here's what they don't want you to know.",
+            "keyword_target": "landlord not returning deposit"
+          },
+          {
+            "platform": "TikTok/Reels",
+            "hook": "My landlord said I wouldn't get my deposit back because the carpet was 'worn.' It was 8 years old. That's normal wear and tear, Karen.",
+            "keyword_target": "my landlord won't give me my deposit back"
+          },
+          {
+            "platform": "TikTok/Reels",
+            "hook": "Can your landlord keep your entire deposit for breaking a lease? Can they charge you for faded paint? Let's settle this once and for all.",
+            "keyword_target": "can landlord keep security deposit"
+          },
+          {
+            "platform": "TikTok/Reels",
+            "hook": "If your landlord doesn't return your deposit within 30 days, they might owe you DOUBLE. Here's the 60-second fix before you call a lawyer.",
+            "keyword_target": "what to do when landlord doesn't return deposit"
+          }
+        ],
+        "short_form_scripts": [
+          {
+            "title": "The 30-Day Rule",
+            "duration": "30 seconds",
+            "script": "[Hook] Your landlord has 21 to 30 days to return your deposit. Period. [Problem] If they don't send an itemized list of deductions, they're breaking the law. [Solution] You don't need a lawyer. You need a demand letter. Deposits-Back.com writes a state-specific letter in 60 seconds for $19.99. No sign-up. No subscription. Just your money back. Link in bio."
+          },
+          {
+            "title": "Normal Wear and Tear vs. Damage",
+            "duration": "45 seconds",
+            "script": "[Visual: Split screen] THIS is damage: a hole in the wall. THIS is normal wear and tear: scuffed baseboards after three years. [Voiceover] Landlords love to confuse the two. If they're charging you for faded paint, old carpet, or tiny nail holes, that's likely illegal. [CTA] Fight back with a formal dispute letter at Deposits-Back.com. $19.99. 60 seconds. Get your deposit back."
+          }
+        ]
+      }
+    }
+  ]
+}

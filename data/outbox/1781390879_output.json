@@ -1,0 +1,64 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1781390853",
+  "timestamp": "2026-06-13T22:47:59.368566+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Won't Return Your Deposit? Here's Your 60-Second Fix",
+        "meta_description": "Tired of your landlord withholding your security deposit? Learn your tenant rights and send a demand letter in 60 seconds for just $19.99.",
+        "content_outline": [
+          "Why Landlords Illegally Withhold Security Deposits",
+          "What Your Landlord Can (and Cannot) Legally Deduct",
+          "Tenant Rights: State Deadlines for Returning Deposits",
+          "DIY vs. Deposits-Back: The Fastest Way to Demand Your Money",
+          "What to Do If Your Landlord Still Refuses to Pay"
+        ],
+        "key_points": [
+          "Most US states require landlords to return deposits within 14-30 days with an itemized statement.",
+          "Normal wear and tear cannot be deducted from a security deposit under landlord-tenant law.",
+          "A formal demand letter is often enough to force payment because it creates a legal paper trail.",
+          "Deposits-Back generates a state-specific demand letter in 60 seconds for $19.99 with no sign-up or subscription."
+        ],
+        "cta": "Stop waiting. Get your deposit back in 60 seconds for $19.99\u2014no sign-up, no subscription. Create your demand letter now at Deposits-Back.com.",
+        "target_audience": "Frustrated US renters whose landlords are wrongfully withholding, delaying, or deducting from their security deposit and need a fast, affordable legal solution.",
+        "word_count_target": 800,
+        "social_hooks": [
+          "POV: Your landlord kept your $2,000 deposit for 'cleaning' \ud83d\udea9",
+          "Your landlord legally CANNOT do this with your deposit \ud83d\udc47",
+          "Still waiting on your security deposit? Read this.",
+          "My landlord said he was keeping my deposit. I sent him THIS.",
+          "3 things your landlord hopes you don't know about security deposits \u26a0\ufe0f",
+          "They have 30 days. It's day 31. Now what? \u23f0",
+          "Stop letting your landlord steal your deposit. 60 seconds.",
+          "Security deposit not returned? This $19.99 letter changed everything."
+        ],
+        "video_scripts": [
+          {
+            "hook": "Your landlord legally CANNOT do this with your deposit \ud83d\udc47",
+            "body": "Most states give landlords 14 to 30 days to return your money. If they're deducting for normal wear and tear, that's illegal. But arguing over text won't work. You need a formal demand letter on paper.",
+            "cta": "Deposits-Back writes one for you in 60 seconds. $19.99. No sign-up. Link in bio."
+          },
+          {
+            "hook": "My landlord said he was keeping my deposit. I sent him THIS.",
+            "body": "I moved out spotless. He claimed 'deep cleaning fees.' I used an online tool to generate a state-specific demand letter. He mailed my full check four days later because he knew I was serious.",
+            "cta": "Get your letter in 60 seconds for $19.99 at Deposits-Back. No subscription needed."
+          },
+          {
+            "hook": "3 things your landlord hopes you don't know about security deposits \u26a0\ufe0f",
+            "body": "One: they can't deduct for normal wear and tear. Two: most states have a strict deadline. Three: a demand letter is often all it takes to get paid because they know they're breaking the law and you can sue for double damages.",
+            "cta": "Send yours in 60 seconds for $19.99. Deposits-Back.com."
+          },
+          {
+            "hook": "It's day 31. Where's your deposit? \u23f0",
+            "body": "If your landlord missed the legal deadline, they're already in the wrong. You don't need a lawyer yet. You need a paper trail. A demand letter puts them on official notice instantly and starts the clock on your claim.",
+            "cta": "Create yours in 60 seconds. $19.99, no sign-up. Link below."
+          }
+        ]
+      }
+    }
+  ]
+}

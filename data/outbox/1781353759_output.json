@@ -1,0 +1,33 @@
+{
+  "agent": "social-content-creator",
+  "agent_id": "8",
+  "manifest_id": "brief-1781353715",
+  "timestamp": "2026-06-13T12:29:19.479024+00:00",
+  "results": [
+    {
+      "step": "generate_content",
+      "status": "success",
+      "output": {
+        "title": "Landlord Withholding Your Security Deposit? Here\u2019s Your 60-Second Fix",
+        "meta_description": "Is your landlord withholding your security deposit? Learn your tenant rights and how to send a demand letter in 60 seconds with Deposits-Back.com.",
+        "content_outline": [
+          "The Deposit Trap: Why Landlords Think They Can Keep Your Money",
+          "Illegal Deductions: What Your Landlord Can\u2019t Legally Charge You For",
+          "State Deadlines & Tenant Rights: Is Your Landlord Breaking the Law?",
+          "The Viral Reality: TikTok Rants Won\u2019t Pay\u2014But This Letter Will",
+          "How to Send a Security Deposit Demand Letter in 60 Seconds (No Signup Required)"
+        ],
+        "key_points": [
+          "Landlords wrongfully withhold billions in deposits yearly, betting tenants won\u2019t pursue legal action.",
+          "Normal wear and tear, routine cleaning, and re-painting are not valid deductions in most states.",
+          "A certified demand letter is often the legal prerequisite to suing in small claims court\u2014and creates a paper trail.",
+          "Deposits-Back.com lets tenants generate a state-specific, legally sound demand letter for $19.99 in under 60 seconds with zero signup or subscription.",
+          "Pairing legal pressure with social awareness maximizes leverage, but official documentation is what actually forces repayment."
+        ],
+        "cta": "Don\u2019t wait 30 days. Don\u2019t write it yourself. Generate your security deposit demand letter at Deposits-Back.com in 60 seconds for $19.99\u2014no signup, no subscription, no stress.",
+        "target_audience": "Frustrated U.S. renters dealing with a landlord not returning their security deposit or making illegal deductions, who need fast, affordable legal recourse without hiring an attorney.",
+        "word_count_target": 800
+      }
+    }
+  ]
+}
